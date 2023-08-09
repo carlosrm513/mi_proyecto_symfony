@@ -1,0 +1,86 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}LoginAdmin{% endblock %}
+
+{% block body %}
+    <h1>LoginAdmin</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ login_admin.id }}</td>
+            </tr>
+            <tr>
+                <th>User</th>
+                <td>{{ login_admin.user }}</td>
+            </tr>
+            <tr>
+                <th>Username</th>
+                <td>{{ login_admin.username }}</td>
+            </tr>
+            <tr>
+                <th>PasswordId</th>
+                <td>{{ login_admin.passwordId }}</td>
+            </tr>
+            <tr>
+                <th>Plainpassword</th>
+                <td>{{ login_admin.plainpassword }}</td>
+            </tr>
+            <tr>
+                <th>Password</th>
+                <td>{{ login_admin.password }}</td>
+            </tr>
+            <tr>
+                <th>NivelUser</th>
+                <td>{{ login_admin.nivelUser ? 'Yes' : 'No' }}</td>
+            </tr>
+            <tr>
+                <th>Roles</th>
+                <td>{{ login_admin.roles }}</td>
+            </tr>
+            <tr>
+                <th>Responsable</th>
+                <td>{{ login_admin.responsable }}</td>
+            </tr>
+            <tr>
+                <th>Lang</th>
+                <td>{{ login_admin.lang }}</td>
+            </tr>
+            <tr>
+                <th>Telefono</th>
+                <td>{{ login_admin.telefono }}</td>
+            </tr>
+            <tr>
+                <th>Ultimoacceso</th>
+                <td>{{ login_admin.ultimoacceso ? login_admin.ultimoacceso|date('Y-m-d H:i:s') : '' }}</td>
+            </tr>
+            <tr>
+                <th>Myip</th>
+                <td>{{ login_admin.myip }}</td>
+            </tr>
+            <tr>
+                <th>EsResponsable</th>
+                <td>{{ login_admin.esResponsable }}</td>
+            </tr>
+            <tr>
+                <th>Activo</th>
+                <td>{{ login_admin.activo ? 'Yes' : 'No' }}</td>
+            </tr>
+            <tr>
+                <th>ImpersonateToken</th>
+                <td>{{ login_admin.impersonateToken }}</td>
+            </tr>
+            <tr>
+                <th>ImpersonateTs</th>
+                <td>{{ login_admin.impersonateTs }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_login_admin_index') }}">back to list</a>
+
+    <a href="{{ path('app_login_admin_edit', {'id': login_admin.id}) }}">edit</a>
+
+    {{ include('login_admin/_delete_form.html.twig') }}
+{% endblock %}

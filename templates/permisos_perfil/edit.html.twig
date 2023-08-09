@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Edit PermisosPerfil{% endblock %}
+
+{% block body %}
+    <h1>Edit PermisosPerfil</h1>
+
+    {{ include('permisos_perfil/_form.html.twig', {'button_label': 'Update'}) }}
+
+    <a href="{{ path('app_permisos_perfil_index') }}">back to list</a>
+
+    {{ include('permisos_perfil/_delete_form.html.twig') }}
+{% endblock %}

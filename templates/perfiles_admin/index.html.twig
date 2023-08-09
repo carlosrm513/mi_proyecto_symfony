@@ -1,0 +1,33 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}PerfilesAdmin index{% endblock %}
+
+{% block body %}
+    <h1>PerfilesAdmin index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>IdperfilesAdmin</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for perfiles_admin in perfiles_admins %}
+            <tr>
+                <td>{{ perfiles_admin.idperfilesAdmin }}</td>
+                <td>
+                    <a href="{{ path('app_perfiles_admin_show', {'idperfilesAdmin': perfiles_admin.idperfilesAdmin}) }}">show</a>
+                    <a href="{{ path('app_perfiles_admin_edit', {'idperfilesAdmin': perfiles_admin.idperfilesAdmin}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="2">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_perfiles_admin_new') }}">Create new</a>
+{% endblock %}

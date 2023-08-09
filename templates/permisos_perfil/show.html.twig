@@ -1,0 +1,22 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}PermisosPerfil{% endblock %}
+
+{% block body %}
+    <h1>PermisosPerfil</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>IdpermisosPerfil</th>
+                <td>{{ permisos_perfil.idpermisosPerfil }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_permisos_perfil_index') }}">back to list</a>
+
+    <a href="{{ path('app_permisos_perfil_edit', {'idpermisosPerfil': permisos_perfil.idpermisosPerfil}) }}">edit</a>
+
+    {{ include('permisos_perfil/_delete_form.html.twig') }}
+{% endblock %}

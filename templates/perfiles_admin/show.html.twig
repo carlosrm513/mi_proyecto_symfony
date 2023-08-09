@@ -1,0 +1,22 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}PerfilesAdmin{% endblock %}
+
+{% block body %}
+    <h1>PerfilesAdmin</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>IdperfilesAdmin</th>
+                <td>{{ perfiles_admin.idperfilesAdmin }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_perfiles_admin_index') }}">back to list</a>
+
+    <a href="{{ path('app_perfiles_admin_edit', {'idperfilesAdmin': perfiles_admin.idperfilesAdmin}) }}">edit</a>
+
+    {{ include('perfiles_admin/_delete_form.html.twig') }}
+{% endblock %}

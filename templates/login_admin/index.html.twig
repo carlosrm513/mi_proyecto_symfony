@@ -1,0 +1,65 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}LoginAdmin index{% endblock %}
+
+{% block body %}
+    <h1>LoginAdmin index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>User</th>
+                <th>Username</th>
+                <th>PasswordId</th>
+                <th>Plainpassword</th>
+                <th>Password</th>
+                <th>NivelUser</th>
+                <th>Roles</th>
+                <th>Responsable</th>
+                <th>Lang</th>
+                <th>Telefono</th>
+                <th>Ultimoacceso</th>
+                <th>Myip</th>
+                <th>EsResponsable</th>
+                <th>Activo</th>
+                <th>ImpersonateToken</th>
+                <th>ImpersonateTs</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for login_admin in login_admins %}
+            <tr>
+                <td>{{ login_admin.id }}</td>
+                <td>{{ login_admin.user }}</td>
+                <td>{{ login_admin.username }}</td>
+                <td>{{ login_admin.passwordId }}</td>
+                <td>{{ login_admin.plainpassword }}</td>
+                <td>{{ login_admin.password }}</td>
+                <td>{{ login_admin.nivelUser ? 'Yes' : 'No' }}</td>
+                <td>{{ login_admin.roles }}</td>
+                <td>{{ login_admin.responsable }}</td>
+                <td>{{ login_admin.lang }}</td>
+                <td>{{ login_admin.telefono }}</td>
+                <td>{{ login_admin.ultimoacceso ? login_admin.ultimoacceso|date('Y-m-d H:i:s') : '' }}</td>
+                <td>{{ login_admin.myip }}</td>
+                <td>{{ login_admin.esResponsable }}</td>
+                <td>{{ login_admin.activo ? 'Yes' : 'No' }}</td>
+                <td>{{ login_admin.impersonateToken }}</td>
+                <td>{{ login_admin.impersonateTs }}</td>
+                <td>
+                    <a href="{{ path('app_login_admin_show', {'id': login_admin.id}) }}">show</a>
+                    <a href="{{ path('app_login_admin_edit', {'id': login_admin.id}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="18">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_login_admin_new') }}">Create new</a>
+{% endblock %}

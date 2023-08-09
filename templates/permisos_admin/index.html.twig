@@ -1,0 +1,33 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}PermisosAdmin index{% endblock %}
+
+{% block body %}
+    <h1>PermisosAdmin index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>IdpermisosAdmin</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for permisos_admin in permisos_admins %}
+            <tr>
+                <td>{{ permisos_admin.idpermisosAdmin }}</td>
+                <td>
+                    <a href="{{ path('app_permisos_admin_show', {'idpermisosAdmin': permisos_admin.idpermisosAdmin}) }}">show</a>
+                    <a href="{{ path('app_permisos_admin_edit', {'idpermisosAdmin': permisos_admin.idpermisosAdmin}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="2">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_permisos_admin_new') }}">Create new</a>
+{% endblock %}

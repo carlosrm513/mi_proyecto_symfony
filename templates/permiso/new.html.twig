@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Permiso{% endblock %}
+
+{% block body %}
+    <h1>Create new Permiso</h1>
+
+    {{ include('permiso/_form.html.twig') }}
+
+    <a href="{{ path('app_permiso_index') }}">back to list</a>
+{% endblock %}

@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Permiso index{% endblock %}
+
+{% block body %}
+    <h1>Permiso index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Idpermiso</th>
+                <th>Nombre</th>
+                <th>Ruta</th>
+                <th>Escritura</th>
+                <th>Lectura</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for permiso in permisos %}
+            <tr>
+                <td>{{ permiso.idpermiso }}</td>
+                <td>{{ permiso.nombre }}</td>
+                <td>{{ permiso.ruta }}</td>
+                <td>{{ permiso.escritura ? 'Yes' : 'No' }}</td>
+                <td>{{ permiso.lectura ? 'Yes' : 'No' }}</td>
+                <td>
+                    <a href="{{ path('app_permiso_show', {'idpermiso': permiso.idpermiso}) }}">show</a>
+                    <a href="{{ path('app_permiso_edit', {'idpermiso': permiso.idpermiso}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="6">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_permiso_new') }}">Create new</a>
+{% endblock %}
