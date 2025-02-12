@@ -27,6 +27,9 @@ class ServiceDispute
     #[ORM\Column(type: Types::TEXT)]
     private ?string $reason = null;
 
+    #[ORM\Column(type: Types::TEXT)]
+    private ?string $response = null;
+
     #[ORM\Column(type: Types::SMALLINT, options: ["default" => 0])]
     private ?int $status = 0;
 
@@ -85,6 +88,17 @@ class ServiceDispute
     public function setReason(string $reason): static
     {
         $this->reason = $reason;
+
+        return $this;
+    }
+    public function getResponse(): ?string
+    {
+        return $this->response;
+    }
+
+    public function setResponse(string $response): static
+    {
+        $this->reason = $response;
 
         return $this;
     }
