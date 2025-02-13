@@ -1,0 +1,67 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ translations.find(null, 'meta_title_contacto_affiliates').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'meta_description_contacto_affiliates').getTranslation() }}{% endblock %}
+{% block content %}
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}"><span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"> <strong itemprop="name">{{ translations.find(null, 'footer_map_contact_affiliates').getTranslation() }}</strong>
+                    <meta itemprop="position" content="2">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'contact_us_title_affiliates').getTranslation() }}</h1>
+            <p>{{ translations.find(null, 'contact_us_description_affiliates').getTranslation() }}.</p>
+            <h2>{{ translations.find(null, 'contact_us_question_affiliates').getTranslation() }} </h2>
+            <div class="contacto">
+                <div class="contactoForm">
+                    <form method="post" id="contact-form">
+                        <ul class="formContacto">
+                            <li class="formIcon">
+                                <input type="text" placeholder="{{ translations.find(null, 'placeholder_nombre').getTranslation() }}" name="name" id="name" required>
+                                <i class="icon-form-usuario icon"></i>
+                            </li>
+                            <li class="formIcon">
+                                <input type="text" placeholder="Email" name="mail" id="mail" required>
+                                <i class="icon-form-arroba icon"></i>
+                            </li>
+                            <li class="formIcon">
+                                <textarea placeholder="{{ translations.find(null, 'placeholder_mensaje').getTranslation() }}" name="message" id="message" required></textarea>
+                                <i class="icon-form-mensaje icon"></i>
+                            </li>
+                            <li class="formOkAlert" id="resultOk" style="display: none;"></li>
+                            <li class="formErrorAlert" id="resultKo" style="display: none;"></li>
+                            <li>
+                                <input type="checkbox" required> {{ translations.find(null, 'check_privacy1').getTranslation() }} <a href="{{ path('affiliates_privacy_policy_'~ language) }}" title="{{ translations.find(null, 'check_privacy2').getTranslation() }}">{{ translations.find(null, 'check_privacy2').getTranslation() }}</a>.
+                            </li>
+                            <li>
+                                <input type="hidden" name="lang" value="{{ language }}">
+                                <button class="btn" type="submit" id="btn_submit">{{ translations.find(null, 'contacto_button').getTranslation() }}</button>
+                            </li>
+                        </ul>
+                    </form>
+                    <div class="formEndRss">
+                        <a href="https://es.linkedin.com/company/betandeal" title="BETANDEAL AFFILIATES Linked In" target="_blank"><i class="icon-rs-linkedin"></i></a>
+                        <a href="https://t.me/s/Betandeal" title="BETANDEAL AFFILIATES Telegram" target="_blank"><i class="icon-rs-telegram"></i></a>
+                        <a href="https://www.instagram.com/betandealgroup/?hl=es" title="BETANDEAL AFFILIATES rss" target="_blank"><i class="icon-rs-instagram"></i></a>
+                    </div>
+                </div>
+                <div class="contactoImg">
+                    <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/contacto-betandeal-affiliates.webp') }}" width="536" height="357" alt="{{ translations.find(null, 'contact_us_question_affiliates').getTranslation() }}">
+                </div>
+            </div>
+
+
+        </div>
+    </article>
+{% endblock %}
+

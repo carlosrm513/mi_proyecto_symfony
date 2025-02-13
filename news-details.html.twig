@@ -1,0 +1,81 @@
+{% extends 'base_affiliates.html.twig' %}
+
+{% block content %}
+
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}">
+                        <span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_noticias_'~ language) }}" title="{{ translations.find(null, 'menuitem_noticias').getTranslation() }}">
+                        <span itemprop="name">{{ translations.find(null, 'menuitem_noticias').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="2">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <strong itemprop="name">{{ noticia.titulo }}</strong>
+                    <meta itemprop="position" content="3">
+                </li>
+            </ol>
+        </nav>
+    </div>
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{noticia.titulo}}">
+    <meta property="og:url" content="{{urlNoticia}}">
+    <meta property="og:description" content="{{noticia.metadescription}}">
+    <meta property="og:image" content="{{storageApi}}{{noticia.imagen_destacada}}">
+
+    <article class="container" itemscope itemtype="https://schema.org/NewsArticle">
+        <div class="containerIn noticia" itemprop="articleBody">
+            <h1 class="hFX" itemprop="headline">{{ noticia.titulo }}</h1>
+            <h2>{{ noticia.metadescription }}</h2>
+            <p>
+                <time datetime="{{ noticia.date_published|date('Y-m-d') }}" itemprop="datePublished">
+                    {{ translations.find(null, 'publicado').getTranslation() }} {{ noticia.date_published|custom_date_format(language) }}
+                </time>
+            </p>
+
+            {% if noticia.imagen_destacada %}
+                <figure class="noticiaFig">
+                    <picture>
+                        <source media="(min-width:650px)" srcset="{{storageApi}}{{noticia.imagen_destacada}}">
+                        <img loading="lazy" src="{{storageApi}}{{noticia.imagen_destacada}}" alt="{{ noticia.imagen_destacada_alt }}" itemprop="image">
+                    </picture>
+                    <figcaption>{{ noticia.imagen_destacada_alt }}</figcaption>
+                </figure>
+            {% endif %}
+
+            {{ noticia.contenido|raw }}
+
+        </div>
+    </article>
+
+    <aside class="containerIn">
+        <h2>{{ translations.find(null, 'related_news_affiliates').getTranslation() }}</h2>
+        <div class="noticiasListado">
+            {# Noticias relacionadas o adicionales, si las tienes disponibles #}
+            {% for related in noticia.relacionadas %}
+                {% if related.url %}
+                    <div class="item">
+                        <div class="img">
+                            <img loading="lazy" src="{{ storageApi }}{{ related.imagen_listado }}" alt="{{ related.alt_imagen_listado }}">
+                        </div>
+                        <div class="datos">
+                            <a href="{{ path('affiliates_noticias_detalle_'~ language, { 'lang': language, 'url': related.url }) }}" title="{{ related.titulo }}">{{ related.titulo }}</a>
+                            <time>{{ related.fecha|custom_date_format(language) }}</time>
+                            <div class="txt">
+                                <p>{{ related.entradilla }}</p>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </aside>
+
+{% endblock %}

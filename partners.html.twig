@@ -1,0 +1,102 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ translations.find(null, 'meta_title_top10_affiliates').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'meta_description_top10_affiliates').getTranslation() }}{% endblock %}
+{% block content %}
+
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}"><span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"> <strong itemprop="name">{{ translations.find(null, 'partners').getTranslation() }}</strong>
+                    <meta itemprop="position" content="3">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'top_bookmakers_title1_affiliates').getTranslation() }}</h1>
+            <h2>{{ translations.find(null, 'top_bookmakers_title2_affiliates').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'top_bookmakers_description_affiliates').getTranslation() }}.</p>
+            <h3>{{ translations.find(null, 'top_bookmakers_list_title_affiliates').getTranslation() }}:</h3>
+            <div class="partnersNav">
+                {% if isDynamicPartner %}
+                    {% for acuerdo in partners %}
+                        <a href="{{ path('affiliates_partners_detalles_'~ language, { 'lang': language, 'url': acuerdo.url }) }}" title="{{ acuerdo.titcasa }}"><img src="{{ storageApi }}{{ acuerdo.imgcasa }}" width="260" height="160" alt="{{ acuerdo.titcasa }}" loading="lazy"></a>
+                    {% endfor %}
+                {% else %}
+                    {% for partner in partners %}
+                        <a href="{{ path('affiliates_partners_detalles_'~ language, { 'lang': language, 'url': partner.url }) }}" title="{{ partner.name }}"><img src="{{ asset(partner.image) }}" width="260" height="160" alt="{{ partner.name }}" loading="lazy"></a>
+                    {% endfor %}
+                {% endif %}
+                <span class="none"></span>
+                <span class="none"></span>
+            </div>
+
+            <hr class="breakXL">
+
+            <section class="partnersList">
+                {% if isDynamicPartner %}
+                    {% for acuerdo in partners %}
+                        <div class="partnersItem" id="{{ acuerdo.titcasa|lower|replace({' ': ''}) }}">
+                            <div class="logo">
+                                <img loading="lazy" class="logo" src="{{ storageApi }}{{ acuerdo.imgcasa }}" width="260" height="160" alt="{{ acuerdo.titcasa }}">
+                            </div>
+                            <div class="datos">
+                                <h4>{{ acuerdo.titcasa }}</h4>
+                                {{ acuerdo.contenido|raw }}
+                                <ul>
+                                    <li><a class="btn btnLine" href="{{ path('affiliates_partners_detalles_'~ language, { 'lang': language, 'url': acuerdo.url }) }}" title="{{ translations.find(null, 'visitar').getTranslation() }} {{ acuerdo.titcasa }}">{{ translations.find(null, 'visitar').getTranslation() }} {{ acuerdo.titcasa }}</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    {% for partner in partners %}
+                        <div class="partnersItem" id="{{ partner.id }}">
+                            <div class="logo">
+                                <img loading="lazy" class="logo" src="{{ asset(partner.image) }}" width="260" height="160" alt="{{ partner.name }}">
+                            </div>
+                            <div class="datos">
+                                <h4>{{ partner.name }}</h4>
+                                <p>{{ translations.find(null, partner.description_key).getTranslation() }}.</p>
+                                <p><strong>{{ translations.find(null, 'bookmakers_advantages_affiliates').getTranslation() }}:</strong></p>
+                                <ul>
+                                    {% for advantage_key in partner.advantages %}
+                                        <li>{{ translations.find(null, advantage_key).getTranslation() }}.</li>
+                                    {% endfor %}
+                                    <li>
+                                        <a class="btn btnLine" href="{{ path('affiliates_partners_detalles_'~ language, { 'lang': language, 'url': partner.url }) }}" title="{{ translations.find(null, 'visitar').getTranslation() }} {{ partner.name }}">
+                                            {{ translations.find(null, 'visitar').getTranslation() }} {{ partner.name }}
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% endif %}
+            </section>
+
+            <hr class="breakXL">
+
+            <div class="testWidth">
+                <div class="callTextImg">
+                    <div class="datos">
+                        <p class="titulo"><strong>{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}</strong></p>
+                        <p>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description1_affiliates').getTranslation() }}.<br>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description2_affiliates').getTranslation() }}.</p>
+                        <a class="btnXtraIcon" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}">{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}<i class="icon-dir-right"></i></a>
+                    </div>
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/banners/betandeal-winner.webp') }}" width="260" height="250" alt="{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+
+{% endblock %}

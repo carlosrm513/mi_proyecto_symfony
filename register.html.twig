@@ -1,0 +1,194 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ translations.find(null, 'meta_title_registro_affiliates').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'meta_description_registro_affiliates').getTranslation() }}{% endblock %}
+{% block content %}
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}">
+                        <span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span>
+                    </a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <strong itemprop="name">{{ translations.find(null, 'registro_h1').getTranslation() }}</strong>
+                    <meta itemprop="position" content="2">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'register_title_affiliates').getTranslation() }}</h1>
+            {% if language == 'pt' %}
+                <h2>{{ translations.find(null, 'register_title2_affiliates').getTranslation() }}</h2>
+            {% else %}
+                <h2>{{ translations.find(null, 'register_title2_affiliates').getTranslation() }}.</h2>
+            {% endif %}
+            <h3>{{ translations.find(null, 'register_title3_affiliates').getTranslation() }}</h3>
+            {# <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p> #}
+            <div class="registroAfiliados">
+                <div class="contForm">
+                    <form method="post" name="formularioregistro" id="formularioregistro">
+                        <ul class="formRegistro">
+                            <li class="formX2">
+                                <input type="text" name="username" id="username" placeholder="{{ translations.find(null, 'registro_placeholder_nombre').getTranslation() }}" value="" required minlength="9">
+                                <span class="usernameerror dnone">{{ translations.find(null, 'nombre_usuario_registro_error').getTranslation() }}</span>
+                                <input type="email" name="email" id="email" placeholder="E-mail *" required>
+                                <span class="emailerror dnone">{{ translations.find(null, 'error_empty_email').getTranslation() }}</span>
+                            </li>
+                            <li class="formX2">
+                                <input type="password" name="password" id="password-field" placeholder="{{ translations.find(null, 'registro_placeholder_password').getTranslation() }}" required minlength="7">
+                                <input type="tel" name="phone" id="phone" placeholder="{{ translations.find(null, 'registro_placeholder_telefono').getTranslation() }}" required>
+                            </li>
+                            <li class="breakLine2"></li>
+                            <li class="formX2">
+                                <span>
+                                    <label for="tipo">{{ translations.find(null, 'registro_fuentes_label').getTranslation() }}</label>
+                                    <select id="tipo" class="form-control custom-select h30">
+                                        <option value="" disabled selected>{{ translations.find(null, 'registro_select_fuentes').getTranslation() }}</option>
+                                        <option value="web">{{ translations.find(null, 'registro_select_fuentes_sitioweb').getTranslation() }}</option>
+                                        <option value="instagram">Instagram</option>
+                                        <option value="telegram">Telegram</option>
+                                        <option value="twitter">X</option>
+                                        <option value="facebook">Facebook</option>
+                                        <option value="otro">Otro</option>
+                                    </select>
+                                </span>
+                                <span>
+                                    <label for="url">{{ translations.find(null, 'registro_url_label').getTranslation() }}*</label>
+                                    <input type="text" name="url" id="url" placeholder="{{ translations.find(null, 'registro_url_placeholder').getTranslation() }}">
+                                    <span class="urlerror dnone">{{ translations.find(null, 'url_usuario_registro_error').getTranslation() }}</span>
+                                </span>
+                            </li>
+                            <li>
+                                <button type="button" class="btn addfuente" data-item="{{ translations.find(null, 'error_add_fuente').getTranslation() }}">
+                                    {{ translations.find(null, 'button_add_fuente').getTranslation() }}
+                                </button>
+                            </li>
+                            <li>
+                                <ul class="listCanales" id="fuentes">
+                                    <li>{{ translations.find(null, 'canales_aniadidos').getTranslation() }}</li>
+                                    <!-- Aquí se agregarán las fuentes -->
+                                </ul>
+                            </li>
+                            <li class="breakLine2"></li>
+                            <li>
+                                <p class="mb-0">{{ translations.find(null, 'registro_idioma_label').getTranslation() }}</p>
+                                <select class="form-control" id="idioma" name="idioma" required>
+                                    <option value="" selected>{{ translations.find(null, 'registro_select_idioma').getTranslation() }}</option>
+                                    <option value="es">{{ translations.find(null, 'menuitem_esp').getTranslation() }}</option>
+                                    <option value="en">{{ translations.find(null, 'menuitem_eng').getTranslation() }}</option>
+                                    <option value="it">{{ translations.find(null, 'menuitem_it').getTranslation() }}</option>
+                                    <option value="pt">{{ translations.find(null, 'menuitem_pt').getTranslation() }}</option>
+                                </select>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="politica" name="politica" required>
+                                <label for="politica">
+                                    {{ translations.find(null, 'registro_aceptar_politica').getTranslation() }}
+                                    <a href="{{ path('affiliates_privacy_policy_'~ language) }}" title="{{ translations.find(null, 'registro_aceptar_politica2').getTranslation()|raw }}">{{ translations.find(null, 'registro_aceptar_politica2').getTranslation()|raw }}</a>? *
+                                </label>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="terminos" name="terminos" required>
+                                <label for="terminos">
+                                    {{ translations.find(null, 'registro_aceptar_terminos').getTranslation() }}
+                                    <a href="{{ path('affiliates_terms_conditions_'~ language) }}" title="{{ translations.find(null, 'registro_aceptar_terminos2').getTranslation() }}">{{ translations.find(null, 'registro_aceptar_terminos2').getTranslation() }}</a>? *
+                                </label>
+                            </li>
+                            <li class="breakLine1"></li>
+                            <li>
+                                <span class="fuenteserror dnone">{{ translations.find(null, 'error_empty_fuentes').getTranslation() }}</span>
+                                <span class="phoneserror dnone">{{ translations.find(null, 'error_telefono').getTranslation() }}</span>
+                                <button type="submit" class="btn" id="envioregistro">{{ translations.find(null, 'registro_button').getTranslation() }}</button>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+                <div class="contImg">
+                    <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/registro-betandeal-affiliates.webp') }}" alt="Registro de afiliados">
+                </div>
+            </div>
+        </div>
+    </article>
+    <section class="modalCont" id="modalRegistro" style="display: none;">
+		<article class="modal">
+			<div class="modalHeader">
+			{{ translations.find(null, 'registro_popup_h4').getTranslation() }}<i class="icon-cerrar linkFalsoExtra" onclick="$('#modalRegistro').fadeOut();" title="Cerrar"></i>
+			</div>
+			<div class="modalBody">
+				<h3>{{ translations.find(null, 'containerInText38').getTranslation() }}</h3>
+				<p>{{ translations.find(null, 'containerInText39').getTranslation() }}</p>
+				<p>{{ translations.find(null, 'containerInText40').getTranslation() }}</p>
+			</div>
+			<div class="modalFooter">
+				<span class="btn" onclick="recargarPagina();" title="{{ translations.find(null, 'close_placeholder').getTranslation() }}">Ok</span>
+			</div>
+		</article>
+	</section>
+    <section class="modalCont" id="modalRegistroKo" style="display: none;">
+		<article class="modal">
+			<div class="modalHeader">
+			{{ translations.find(null, 'registro_popup_h4').getTranslation() }}<i class="icon-cerrar linkFalsoExtra" onclick="$('#modalRegistroKo').fadeOut();" title="{{ translations.find(null, 'close_placeholder').getTranslation() }}"></i>
+			</div>
+			<div class="modalBody" id="bodyErrorRegister">
+				<h3>{{ translations.find(null, 'containerInText38').getTranslation() }}</h3>
+				<p>{{ translations.find(null, 'containerInText39').getTranslation() }}</p>
+				<p>{{ translations.find(null, 'containerInText40').getTranslation() }}</p>
+			</div>
+			<div class="modalFooter">
+				<span class="btn" onclick="$('#modalRegistroKo').fadeOut();" title="{{ translations.find(null, 'close_placeholder').getTranslation() }}">Ok</span>
+			</div>
+		</article>
+	</section>
+{% endblock %}
+
+{% block js %}
+    <script type="text/javascript" src="{{ asset('assets/js/registro.js?v=2025020300') }}"></script>
+    <link rel="stylesheet" href="{{ asset('assets/js/intl-tel-input-23.0.4/build/css/intlTelInput.css') }}"/>
+    <script src="{{ asset('assets/js/intl-tel-input-23.0.4/build/js/intlTelInput.js') }}"></script>
+
+    <script>
+        var rutaSymfony = "{{ path('affiliates_index_'~ language) }}";
+        var input = document.querySelector("#phone");
+        var intlTelInput = intlTelInput(input, {
+            initialCountry: "auto",
+            separateDialCode: true,
+            geoIpLookup: function (success, failure) {
+                $.ajax({
+                    url: "https://ipinfo.io",
+                    type: "GET",
+                    dataType: "json",
+                    success: function(response) {
+                        var countryCode = (response && response.country) ? response.country : "es";
+                        success(countryCode);
+                    },
+                    error: function(xhr, status, error) {
+                        console.error("Error: ", error);
+                        failure();
+                    }
+                });
+            },
+            utilsScript: "{{ asset('assets/js/intl-tel-input-23.0.4/build/js/utils.js') }}"
+        });
+
+        input.addEventListener('change', function() {
+            var isValid = intlTelInput.isValidNumber();
+            if (!isValid) {
+                alert($('.phoneserror').text());
+                input.focus();
+                return false;
+            }
+        });
+
+        function recargarPagina(){
+            window.location.href = rutaSymfony;
+        }
+    </script>
+
+
+{% endblock %}

@@ -1,0 +1,174 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ acuerdo.metatitle ?? acuerdo.titulo }}{% endblock %}
+{% block meta_description %}{{acuerdo.metadescription }}{% endblock %}
+{% block content %}
+<div class="container migas">
+    <nav class="containerIn">
+        <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}">
+                    <span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span>
+                </a>
+                <meta itemprop="position" content="1">
+            </li>
+            <li>/</li>
+            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                <a itemprop="item" href="{{ path('affiliates_partners_'~ language) }}" title="{{ translations.find(null, 'cpas_migas2_affiliates').getTranslation() }}">
+                    <span itemprop="name">{{ translations.find(null, 'cpas_migas2_affiliates').getTranslation() }}</span></a>
+                <meta itemprop="position" content="2">
+            </li>
+            <li>/</li>
+            <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                <strong itemprop="name">{{acuerdo.titulo}}</strong>
+                <meta itemprop="position" content="3">
+            </li>
+        </ol>
+    </nav>
+</div>
+
+    <article class="container">
+        <div class="containerIn">
+            <div class="partnerPrev">
+                <div class="logo">
+                    {% if acuerdo.image is defined %}
+                        <img title="{{acuerdo.titulo}}" loading="lazy" class="logo" src="{{ asset(acuerdo.image) }}" alt="{{acuerdo.titulo}} {{ translations.find(null, 'afiliados').getTranslation() }}" width="260" height="160">
+                        <img title="{{acuerdo.titulo}}" loading="lazy" class="logoFX" src="{{ asset(acuerdo.image) }}" alt="{{acuerdo.titulo}} {{ translations.find(null, 'afiliados').getTranslation() }}" width="260" height="160">
+                    {% else %}
+                        <img title="{{acuerdo.titulo}}" loading="lazy" class="logo" src="{{storageApi}}{{acuerdo.imagen_casa}}" alt="{{acuerdo.titulo}} {{ translations.find(null, 'afiliados').getTranslation() }}" width="260" height="160">
+                        <img title="{{acuerdo.titulo}}" loading="lazy" class="logoFX" src="{{storageApi}}{{acuerdo.imagen_casa}}" alt="{{acuerdo.titulo}} {{ translations.find(null, 'afiliados').getTranslation() }}" width="260" height="160">
+                    {% endif %}
+                </div>
+                <div class="datos">
+                    <h1 class="hFX">{{acuerdo.titulo}}</h1>
+                    {% if acuerdo.description_key is defined %}
+                        {{ translations.find(null, acuerdo.description_key).getTranslation() }}
+                    {% else %}
+                        {{acuerdo.contenido|raw}}
+                    {% endif %}
+
+                    <div class="zonaBtn">
+                        <a class="btnRegistro animBG" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'acuerdo_boton_registro').getTranslation() }}">{{ translations.find(null, 'acuerdo_boton_registro').getTranslation() }}<i class="icon-dir-right"></i></a>
+                    </div>
+                    <h3>{{ translations.find(null, 'acuerdo_h2').getTranslation() }} {{acuerdo.titulo}}</h3>
+                    <p>{{ translations.find(null, 'partnersdetail_description_affiliates').getTranslation() }} {{acuerdo.titulo}} {{ translations.find(null, 'partnersdetail_description2_affiliates').getTranslation() }}</p>
+                    <div class="campanasList">
+                        {% if acuerdos %}
+                            {% for deal in acuerdos %}
+                                {% if deal.imgcasa is defined and deal.mostrarpublico == 1 %}
+                                    <div class="item">
+                                        <div class="logo">
+                                            <img loading="lazy" class="logo" src="{{ storageApi ~ deal.imgcasa}}" width="260" height="160" alt="{{ acuerdo.metatitle }}">
+                                        </div>
+                                        <div class="datos">
+                                            <div class="txt">
+                                                <ul class="ul">
+                                                    <li><strong>{{ translations.find(null, 'table_acuerdos_comision').getTranslation() }}:</strong> {{deal.comisioncamp}}€</li>
+                                                    <li><strong>{{ translations.find(null, 'table_acuerdos_condiciones').getTranslation() }}:</strong> {{deal.condiciones}}</li>
+                                                </ul>
+                                            </div>
+                                            <div class="pais">
+                                                {% for pais in deal.paises %}
+                                                    <img loading="lazy" src="/assets/img/banderas/{{pais.iso}}.png" alt="{{pais.nombre}}" width="16" height="11">
+                                                {% endfor %}
+                                            </div>
+                                        </div>
+                                    </div>
+                                {% endif %}
+                            {%  endfor %}
+                        {% endif %}
+
+                        {% if acuerdo.advantages is defined  %}
+                            <ul class="ul">
+                                {% for advantage_key in acuerdo.advantages %}
+                                    <li>{{ translations.find(null, advantage_key).getTranslation() }}.</li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </div>
+
+                    <hr class="break">
+
+                    <div class="callBtnImg aliasV2 callCenter">
+                        <div class="contenedor">
+                            <div class="datos">
+                                <a class="btnXtraIconV2" href="#" title="{{ translations.find(null, 'home_blue_div_affiliates').getTranslation() }}">{{ translations.find(null, 'home_blue_div_affiliates').getTranslation() }}<i class="icon-dir-right"></i></a>
+                            </div>
+                            <div class="img">
+                                <img src="{{ asset('assets/img/affiliates/banners/betandeal-winner.webp') }}" width="262" height="250" alt="{{ translations.find(null, 'home_blue_div_affiliates').getTranslation() }}">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+
+    <hr class="break">
+
+    <aside class="container">
+        <div class="containerIn">
+            <h2>{{ translations.find(null, 'partnersdetail_recomended_title_affiliates').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'partnersdetail_recomended_description_affiliates').getTranslation()}} {{acuerdo.titulo}}.<br>
+                {{ translations.find(null, 'partnersdetail_recomended_description2_affiliates').getTranslation()}} <a href="{{ path('affiliates_partners_'~ language) }}" title="{{ translations.find(null, 'partnersdetail_recomended_description3_affiliates').getTranslation() }}">{{ translations.find(null, 'partnersdetail_recomended_description3_affiliates').getTranslation() }}</a>.</p>
+
+            {# Contenido traido de los acuerdos #}
+            <div class="partnerSlider scrollH">
+                {% if isDynamicPartner %}
+                    {% for acuerdo in partners %}
+                        <div class="item">
+                            <div class="logo">
+                                <img loading="lazy" class="logo" src="{{ storageApi }}{{ acuerdo.imgcasa }}" width="260" height="160" alt="{{ acuerdo.titcasa }}">
+                            </div>
+                            <div class="datos">
+                                <h3>{{ acuerdo.titcasa }}</h3>
+                                {{ acuerdo.contenido|raw }}
+                                <p>
+                                    <a href="{{ path('affiliates_partners_detalles_'~ language, { 'lang': language, 'url': acuerdo.url }) }}" title="{{ translations.find(null, 'table_acuerdos_info').getTranslation()}} {{ acuerdo.titcasa }}">
+                                        <i class="icon-dir-right"></i>{{ translations.find(null, 'table_acuerdos_info').getTranslation()}} {{ acuerdo.titcasa }}
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    {% for partner in partners %}
+                        <div class="item">
+                            <div class="logo">
+                                <img loading="lazy" class="logo" src="{{ asset(partner.image) }}" width="260" height="160" alt="{{ partner.name }}">
+                            </div>
+                            <div class="datos">
+                                <h3>{{ partner.name }}</h3>
+                                <p>{{ translations.find(null, partner.description_key).getTranslation() }}.</p>
+                                <p>
+                                    <a href="{{ path('affiliates_partners_detalles_'~ language, { 'lang': language, 'url': partner.url }) }}" title="{{ translations.find(null, 'table_acuerdos_info').getTranslation() }} {{ partner.name }}">
+                                        <i class="icon-dir-right"></i>{{ translations.find(null, 'table_acuerdos_info').getTranslation() }} {{ partner.name }}
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    {% endfor %}
+                {% endif %}
+            </div>
+            <hr class="breakXL">
+
+            <div class="testWidth">
+                <div class="callTextImg">
+                    <div class="datos">
+                        <p class="titulo"><strong>{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}</strong></p>
+                        <p>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description1_affiliates').getTranslation() }}.<br>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description2_affiliates').getTranslation() }}.</p>
+                        <a class="btnXtraIcon" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}">{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}<i class="icon-dir-right"></i></a>
+                    </div>
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/banners/betandeal-winner.webp') }}" width="260" height="250" alt="{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+</div>
+{% endblock %}
+
+{% block js %}
+
+{% endblock %}

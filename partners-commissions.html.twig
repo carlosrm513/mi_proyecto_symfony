@@ -1,0 +1,118 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ translations.find(null, 'meta_title_afiliacioncasas_affiliates').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'meta_description_afiliacioncasas_affiliates').getTranslation() }}{% endblock %}
+{% block content %}
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}">
+                        <span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span>
+                    </a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <strong itemprop="name">{{ translations.find(null, 'cpas_migas2_affiliates').getTranslation() }}</strong>
+                    <meta itemprop="position" content="2">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'cpas_title_affiliates').getTranslation() }}</h1>
+            <h2>{{ translations.find(null, 'cpas_title2_affiliates').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'cpas_description_affiliates').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'cpas_description2_affiliates').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'cpas_description3_affiliates').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'cpas_description4_affiliates').getTranslation() }}</p>
+
+            <div class="filtroCont">
+                <form method="GET" action="{{ path('affiliates_partners_'~ language) }}">
+                    <div class="filtroCont1">
+                        <span>{{ translations.find(null, 'containerInText19').getTranslation() }}</span>
+                        <select name="id_cas_pais[]" id="id_cas_pais" multiple class="selectpicker show-tick show-menu-arrow" data-live-search="true" title="Select one...">
+                            {% for pais in paises %}
+                                {% if pais.titcorto == country %}
+                                    <option value="{{ pais.titcorto }}" selected>{{ pais.titpais }}</option>
+                                {% else %}
+                                    <option value="{{ pais.titcorto }}">{{ pais.titpais }}</option>
+                                {% endif %}
+                            {% endfor %}
+                        </select>
+                        <button type="submit" class="btn btn-primary">{{ translations.find(null, 'search_button').getTranslation() }}</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="comisionesList">
+                {# Iteramos sobre los acuerdos para mostrar la información dinámica #}
+                {% for acuerdo in acuerdos %}
+                    <div class="item">
+                        <div class="logo">
+                            <img loading="lazy" class="logo" src="{{ storageApi }}{{ acuerdo.imgcasa }}" width="260" height="160" alt="{{ acuerdo.titcasa }}">
+                        </div>
+                        <div class="datos">
+                            <div class="txt">
+                                <ul class="ul">
+                                    <li><strong>{{ translations.find(null, 'table_acuerdos_comision').getTranslation() }}:</strong> {{ acuerdo.comision }} €</li>
+                                    <li><strong>{{ translations.find(null, 'table_acuerdos_condiciones').getTranslation() }}:</strong> {{ acuerdo.condiciones }}</li>
+                                </ul>
+                            </div>
+                            <div class="pais">
+                                {# Mostramos las banderas correspondientes al acuerdo #}
+                                {% for pais in acuerdo.paises|split(',') %}
+                                    {% if '-' not in pais %}
+                                        <img loading="lazy" src="/assets/img/affiliates/contenido/banderas/{{ pais }}.png" width="16" height="11" alt="{{ pais }}">
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                            <div class="zonaBtn">
+                                {% if acuerdo.url %}
+                                    <a class="btn" href="{{ path('affiliates_partners_detalles_'~ language, { 'lang': language, 'url': acuerdo.url }) }}" title="{{ translations.find(null, 'cpas_masinfo_affiliates').getTranslation() }} {{ acuerdo.titcasa }}">
+                                        {{ translations.find(null, 'cpas_masinfo_affiliates').getTranslation() }}
+                                    </a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="endList">
+                <p>{{ translations.find(null, 'betandeal_affiliates_showing_6_of_300_commisions_title_1').getTranslation() }} <strong>{{ acuerdos|length }}</strong> {{ translations.find(null, 'betandeal_affiliates_showing_6_of_300_commisions_title_2').getTranslation() }} <strong>{{ cantidad }}</strong>, <a href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'registrate_no_caps').getTranslation() }}">{{ translations.find(null, 'registrate_no_caps').getTranslation() }}</a> {{ translations.find(null, 'betandeal_affiliates_showing_6_of_300_commisions_title_3').getTranslation() }}</p>
+            </div>
+
+            <hr class="breakXL">
+
+            <div class="callAlert animBG">
+                <h3>{{ translations.find(null, 'cpas_bluediv_title_affiliates').getTranslation() }}</h3>
+                <p>{{ translations.find(null, 'cpas_bluediv_title2_affiliates').getTranslation() }}</p>
+                <div class="zonaBtn">
+                    <a class="btnRegistro animBG" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}">{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}<i class="icon-dir-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </article>
+{% endblock %}
+
+{% block js %}
+    <link href="{{ asset('assets/css/select2/select2.min.css') }}" rel="stylesheet">
+    <script src="{{ asset('assets/js/select2/select2.min.js') }}"></script>
+    <script src="{{ asset('assets/js/datatables/jquery.datatables.min.js') }}"></script>
+    <script src="{{ asset('assets/js/datatables/dataTables.bootstrap4.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ asset('assets/css/datatables/dataTables.bootstrap4.min.css') }}" rel="stylesheet">
+
+    <script type="text/javascript" src="/assets/js/acuerdos.js?v202410221800"></script>
+    <script>
+        setTimeout(function() {
+            $('#acuerdos_wrapper').addClass('filtroCont2');
+        }, 200);
+    </script>
+
+    <style type="text/css">
+        .dnone { display: none; }
+    </style>
+{% endblock %}

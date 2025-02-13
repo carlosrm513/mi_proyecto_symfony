@@ -1,0 +1,2845 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lingohub 1.0.1\n"
+"Report-Msgid-Bugs-To: soporte@betandael.com \n"
+"Last-Translator: Iván ivan@betandeal.com\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "popup_advice"
+msgstr "Está a punto de entrar a un sitio web de información sobre apuestas deportivas, cuyo contenido se dirige únicamente a mayores de 18 años:"
+
+msgid "mayor_edad"
+msgstr "¿Es usted mayor de edad?."
+
+msgid "monetizar"
+msgstr "Cómo monetizar mi web con BETANDEAL"
+
+msgid "index1fotos"
+msgstr "Si tienes una página web o una gran comunidad en redes sociales, aprende como puedes monetizar tu actividad gracias a BETANDEAL."
+
+msgid "index2fotosTitulo"
+msgstr "Recomienda campañas"
+
+msgid "index2fotos"
+msgstr "En nuestra plataforma, podrás encontrar diferentes empresas con las que trabajar."
+
+msgid "index3fotosTitulo"
+msgstr "Gana dinero"
+
+msgid "index3fotos"
+msgstr "Obtén comisiones por recomendar las mejores casas de apuestas."
+
+msgid "callRegistroAcceso"
+msgstr "No esperes más, comienza a trabajar con nosotros"
+
+msgid "containerInText1"
+msgstr "Afiliados de apuestas deportivas"
+
+msgid "containerInText2"
+msgstr "BETANDEAL.com, afiliados del sector del juego online"
+
+msgid "containerInText3"
+msgstr "Somos una empresa de marketing online que ofrece diferentes campañas de afiliación con empresas de juego (apuestas deportivas, poker, casino) para personas que tengan una página web o una gran comunidad. Además, ofrecemos diferentes tipos de acciones especiales para fortalecer la imagen de nuestros clientes."
+
+msgid "containerInText4"
+msgstr "En BETANDEAL somos fieles a la jugada. Analizamos cada situación y buscamos la mejor solución para ella. Somos decididos y persistentes. Además, confiamos plenamente en nuestra forma de trabajar y transmitimos este sentimiento a todos los stakeholders con los que trabajamos, ya que nos mueve la pasión y el compromiso de hacer las cosas bien y de una manera diferente."
+
+msgid "containerInText5"
+msgstr "La industria del iGaming está siempre en constante cambio, y ser capaces de avanzar al mismo ritmo es el único camino al éxito. En BETANDEAL arriesgamos para ganar, siguiendo nuestro espíritu innovador y curioso, para conseguir darle la vuelta al marcador."
+
+msgid "containerInText5-2"
+msgstr "Todo esto hace que nuestro propósito sea cambiar las reglas del juego para posicionarnos como grandes innovadores en esta industria. We are the Gamechangers!."
+
+msgid "containerInText6"
+msgstr "¿Qué es el marketing de afiliación de apuestas?"
+
+msgid "containerInText7"
+msgstr "El marketing de afiliación online se fundamenta en el pago de comisiones por parte de una empresa a sus colaboradores, en base a los resultados obtenidos. Este tipo de marketing es perfecto para la actividad online, debido a que la navegación web permite seguir a la perfección el impacto que ha tenido una determinada acción promocional. Quien hizo realmente popular la afiliación online fue Amazon, que logró crecer de forma muy rápida gracias a su gran cantidad de páginas web que usan su programa de afiliados."
+
+msgid "containerInText8"
+msgstr "En el sector del juego online, uno de los principales actores son los afiliados. Estos actúan tanto en el mercado de las apuestas deportivas, como en el del póker o los casinos online. El objetivo de los afiliados iGaming es enviar tráfico a las casas de apuestas, medido principalmente en forma de nuevos jugadores que se registran. Otro KPI realmente importante es la cantidad de nuevos jugadores que se registran y realizan un primer depósito, conocido como First Time Deposit (FTD por su acrónimo en inglés)."
+
+msgid "containerInText9"
+msgstr "Los programas de afiliados casas de apuestas, que permite a los webmasters y propietarios de perfiles de redes sociales generar ingresos realizando publicidad de empresas de juego online."
+
+msgid "containerInText10"
+msgstr "¿Cómo ganar dinero siendo afiliado de apuestas?"
+
+msgid "containerInText11"
+msgstr "Como afiliado de BETANDEAL.com, podrás realizar acciones promocionales de diversas empresas de juego online, especialmente casas de apuestas. En nuestra plataforma encontrarás más de 20 ofertas de comisiones CPA por cada nuevo jugador que se registre en una página de juego online."
+
+msgid "containerInText12"
+msgstr "Comenzar a trabajar con nosotros es muy sencillo, solo tienes que darte de alta en nuestra web, esperar a que aprobemos tu solicitud (es posible que un responsable de nuestra empresa se ponga en contacto contigo en este paso) y a continuación ya podrás solicitar las campañas que te interese promocionar."
+
+msgid "containerInText13"
+msgstr "Somos el mejor socio para tu contenido, ya que en BETANDEAL.com encontrarás las mejores ofertas CPA para España y Latinoamérica (Colombia, Méjico, Perú, Argentina, etc)."
+
+msgid "containerInText14"
+msgstr "Las mejores casas de apuestas con afiliación en un sólo lugar"
+
+msgid "containerInText15"
+msgstr "Las mejores casas junto con las mejores herramientas para sacar el mejor rendiemiento a tu canal."
+
+msgid "containerInText16"
+msgstr "MAPA DEL SITIO WEB"
+
+msgid "containerInText17"
+msgstr "Comisiones CPA Casas de Apuestas"
+
+msgid "containerInText18"
+msgstr "A continuación se mostrará un cuadro resumen de las casas de apuestas en las que puedes trabajar como afiliado gracias a BETANDEAL.com. Solo tienes que filtrar por país, y se mostrarán las casas de apuestas disponibles para tu zona."
+
+msgid "containerInText19"
+msgstr "Filtado por Paises:"
+
+msgid "containerInText20"
+msgstr "¿Qué acuerdos de afiliación con casas de apuestas puedo conseguir en BETANDEAL.com?"
+
+msgid "containerInText21"
+msgstr "En la plataforma de afiliación para el mercado Español y Latinoamericano, BETANDEAL.com, encontrarás fundamentalmente acuerdos de afiliación con casas de apuestas online. Estos acuerdos son del tipo CPA (Comisión Por Adquisición). La comisión mínima por jugador es de 10€."
+
+msgid "containerInText22"
+msgstr "Las campañas de BETANDEAL.com están focalizadas en el mercado de España, pero también encontrarás una variada oferta para Latinoamérica (BETANDEAL.com es tu perfecto socio como afiliado de apuestas deportivas para Méjico, Perú, Colombia y Argentina, etc)."
+
+msgid "containerInText23"
+msgstr "¿Cómo puedo ganar dinero siendo afiliado de apuestas deportivas?"
+
+msgid "containerInText24"
+msgstr "Como ya se ha explicado anteriormente, la forma de ganar dinero como afiliado de apuestas deportivas es enviando tráfico (traducido en nuevos registros) a las bookies. Pero, ¿cómo generar ese tráfico? Hay fundamentalmente 3 formas de generar tráfico:"
+
+msgid "containerInText25"
+msgstr "Tráfico de páginas web: es la forma típica de generación de tráfico, la creación de contenido a través de blog o páginas webs de temática relacionada con el juego online y con el deporte."
+
+msgid "containerInText26"
+msgstr "Tráfico de redes sociales: la cantidad de personas que usan a diario redes sociales como facebook, X o instagram, hacen que este tipo de herramientas sean realmente útiles para la creación de contenido efímero y atractivo para los potenciales apostadores."
+
+msgid "containerInText27"
+msgstr "Tráfico de aplicaciones de mensajería, fundamentalmente telegram: en la afiliación de apuestas ha cobrado gran relevancia en diversos países telegram apuestas. En esta APP hay numerosos canales que son usados por tipsters (pronosticadores deportivos) para enviar a sus seguidores información y recomendaciones sobre apuestas deportivas."
+
+msgid "containerInText28"
+msgstr "¿Cuáles son las mejores casas de apuestas para trabajar como afiliado?"
+
+msgid "containerInText29"
+msgstr "Hay dos opiniones encontradas al respecto cuando se trata de definir cuál es la casa de apuestas ideal para trabajar como afiliado. Por un lado, existe la creencia de que es mejor promocionar la casa de apuestas que ofrezca una mayor comisión. Por otro, hay gente que defiende que la mejor alternativa es trabajar con la casa de apuestas menos conocida, independientemente de lo que esta pague de comisión por cada usuario."
+
+msgid "containerInText30"
+msgstr "Es de perogrullo que siempre es más interesante realizar publicidad de la empresa que más pague, pero también hay que tener en cuenta que aquellas casas de apuestas que ofrecen una comisión más elevada, suelen ser las que tienen una posición dominante en el mercado y en las que, por lo tanto, es más complicado conseguir nuevos registros. Lo que diferencia la afiliación iGaming respecto a la afiliación en otros sectores (como en Amazon por ejemplo) es que cuando se refiere a un jugador, este no puede ser nunca más referido por otro afiliado debido a que no es posible registrarse más de una vez en la misma casa de apuestas."
+
+msgid "containerInText31"
+msgstr "Por lo tanto, cada afiliado debe definir su estrategia, ya que nadie mejor que él conoce a su público, y seleccionar las casas de apuestas que desea promocionar."
+
+msgid "containerInText32"
+msgstr "Proyectos BETANDEAL"
+
+msgid "containerInText33"
+msgstr "Ecosistema BETANDEAL"
+
+msgid "containerInText34"
+msgstr "PremiumPay nace como solución a la necesidad de nuestros colaboradores de vender sus contenidos. Es una herramienta mediante la cual cualquiera puede ofrecer sus servicios online a su comunidad. Cuenta con métodos de pago personalizados para nuestros principales mercados."
+
+msgid "containerInText35"
+msgstr "Ir a web"
+
+msgid "containerInText36"
+msgstr "En esta web, a parte de poder encontrar información sobre casas de apuestas, casinos y salas de póker online, cuenta con una gran comunidad internacional que comparte sus pronósticos de forma diaria en ella. Además, esta comunidad interactúa tanto en las redes sociales oficiales como en la Tipster League, competición creada por Gainblers y en la que se pueden ganar premios en efectivo y en ETH. Está disponible en 3 idiomas con 10 versiones diferentes."
+
+msgid "containerInText37"
+msgstr "Colección de NFTs en la red de Ethereum. El objetivo de BETANDEAL con esta colección es iniciarse en el mundo de web3 y aprender cómo funciona la tecnología blockchain para explorar todos los usos que puede y podrá tener."
+
+msgid "containerInText38"
+msgstr "Usuario Registrado Correctamente"
+
+msgid "containerInText39"
+msgstr "Has recibido un correo con los datos de registro(recuerda revisar la carpeta de spam)."
+
+msgid "containerInText40"
+msgstr "Revisaremos tu cuenta y si todo esta correcto, te mandaremos un email con la confirmación del alta."
+
+msgid "si"
+msgstr "Sí"
+
+msgid "no"
+msgstr "No"
+
+msgid "popup_error"
+msgstr "Lo sentimos, el acceso no está permitido a menores de edad."
+
+msgid "advice_mas18"
+msgstr "+18/Publicidad/Aplican T&C/Juega con responsabilidad"
+
+msgid "apostar"
+msgstr "Regístrate"
+
+msgid "ver_resultados"
+msgstr "Ver resultados"
+
+msgid "titulo_noticias"
+msgstr "Noticias"
+
+msgid "description_noticias"
+msgstr "Noticias descripcion"
+
+msgid "description_index"
+msgstr "Entra! Y prueba la MEJOR PLATAFORMA de afiliación de gambling en España. Apuestas, casino, poker... trabajamos todo lo que necesites."
+
+msgid "titulo_quienes"
+msgstr "¿Quienes somos? | BETANDEAL"
+
+msgid "description_quienes"
+msgstr "En BETANDEAL somos especialistas en la afiliación de apuestas. ENTRA! Te enseñaremos a ganar dinero y conseguiremos los mejores acuerdos para ti!"
+
+msgid "titulo_acuerdos"
+msgstr "Acuerdos con las Casas de Apuestas | BETANDEAL"
+
+msgid "description_acuerdos"
+msgstr "En BETANDEAL tenemos acuerdos con los operadores más importantes de España &#x2705; Betfair &#x2705; Sportium &#x2705; 888 &#x2705; Betsson &#x2705; William Hill &#x2705; Bet365 &#x2705; Codere"
+
+msgid "titulo_noticias"
+msgstr "Últimas noticias afiliación Gambling | BETANDEAL"
+
+msgid "description_noticias"
+msgstr "Aquí encontrarás las últimas noticias acerca del sector de la afiliacion en el mundo del juego online. Entra y estate actualizado!"
+
+msgid "titulo_registro"
+msgstr "Registro de Afiliados | BETANDEAL"
+
+msgid "description_registro"
+msgstr "Sección de registro de afiliados para comenzar a trabajar con BETANDEAL"
+
+msgid "titulo_condiciones"
+msgstr "Condiciones Legales | BETANDEAL"
+
+msgid "description_condiciones"
+msgstr "Condiciones Legales | BETANDEAL"
+
+msgid "titulo_terminos"
+msgstr "Términos y Condiciones | BETANDEAL"
+
+msgid "titulo_terminos_2"
+msgstr "Términos y condiciones"
+
+msgid "description_terminos"
+msgstr "Términos y Condiciones | BETANDEAL"
+
+msgid "titulo_cookies"
+msgstr "Cookies | BETANDEAL"
+
+msgid "description_cookies"
+msgstr "Política de Cookies de la plataforma BETANDEAL"
+
+msgid "keywords_globales"
+msgstr "afiliados apuestas, afiliados bwin, rentabilizar web, como ganar dinero con una pagina web, CPA afiliados, afiliados casino, afiliados poker"
+
+msgid "registro_ok"
+msgstr "<p class='ok'>Usuario Registrado Correctamente.</p>"
+
+msgid "registro_ok_2"
+msgstr "<li>Has recibido un correo con los datos de registro(recuerda revisar la carpeta de spam).</li>"
+
+msgid "registro_ok_3"
+msgstr "<li>Revisaremos tu cuenta y si todo esta correcto, te mandaremos un email con la confirmaci&oacute;n del alta.</li>"
+
+msgid "registro_ko"
+msgstr "<p class='ok'>Error durante el registro del usuario o ese usuario ya existe en nuestra base de datos.</p>"
+
+msgid "registro_ko_2"
+msgstr "<li>Comprueba que la direcci&oacute;n de correo es correcta.</li>"
+
+msgid "registro_ko_3"
+msgstr "<li>Si el problema persiste contacta con nosotros en: support@betandeal.com.</li>"
+
+msgid "registro_ko_4"
+msgstr "<li>Si no recuerdas tu contraseña puedes recuperarla desde <a href='https://gestor.bdeal.io/user' class='important'>aqui</a>.</li>"
+
+msgid "contacto_ok"
+msgstr "Correo enviado correctamente."
+
+msgid "contacto_ko"
+msgstr "No se puede enviar el correo de confirmacion."
+
+msgid "titulo_index"
+msgstr "Afiliados de apuestas, casino y apuestas | BETANDEAL"
+
+msgid "contacto"
+msgstr "Contacto:"
+
+msgid "contactanos"
+msgstr "Contáctanos"
+
+msgid "tienes_dudas"
+msgstr "¿Tienes dudas?"
+
+msgid "placeholder_nombre"
+msgstr "Nombre"
+
+msgid "placeholder_mensaje"
+msgstr "Mensaje..."
+
+msgid "afiliados"
+msgstr "Afiliados"
+
+msgid "contacto_button"
+msgstr "Enviar"
+
+msgid "carousel_access_button"
+msgstr "ACCEDER"
+
+msgid "carousel_register_button"
+msgstr "REGÍSTRATE"
+
+msgid "carousel_alt_1"
+msgstr "Únete al equipo de BETANDEAL"
+
+msgid "carousel_alt_2"
+msgstr "Trabaja con nosotros"
+
+msgid "carousel_alt_3"
+msgstr "BETANDEAL.com es tu mejor socio como afiliado de apuestas deportivas"
+
+msgid "carousel_caption_nuevo"
+msgstr "<h1 class="hFX">¿Tienes una página web o un gran número de seguidores?</h1><p>Es el momento de comenzar a rentabilizar tu actividad.</p>"
+
+msgid "carousel_caption_1"
+msgstr "<p class="hFX">¿Tienes una página web o un gran número de seguidores? </p><p> Es el momento de comenzar a rentabilizar tu actividad.</p><p> Únete al equipo de BETANDEAL.com</p>"
+
+msgid "carousel_caption_2"
+msgstr "<p class="h1">Trabaja con nosotros:</p><p>Regístrate.</p><p>Promociona las marcas que desees.</p><p>Genera tus ingresos.</p>"
+
+msgid "carousel_caption_3"
+msgstr "<p class="h1">¿A que estas esperando?</p><p>BETANDEAL.com es tu mejor socio para tu actividad como afiliado de apuestas deportivas online.</p>"
+
+msgid "about_home_h1"
+msgstr "Afiliados de apuestas deportivas"
+
+msgid "about_home_h2"
+msgstr "BETANDEAL.com, afiliados del sector del juego online"
+
+msgid "about_home_content"
+msgstr "<p>Somos una empresa de marketing online que ofrece diferentes campañas de afiliación con empresas de juego (apuestas deportivas, poker, casino) y de finanzas (broker online). Está liderado por profesionales con experiencia tanto en el mundo de las apuestas, como en el de la afiliación.</p><p>Nacimos en 2016, y logramos en los primeros dos años de existencia un rápido crecimiento, sobre todo gracias al tráfico de redes sociales, que nos situó como uno de los afiliados referentes en España.</p><p>En este periodo hemos recibido numerosos reconocimientos, como ser finalistas en los premios eGaming 2018 y 2019. También fuimos galardonados en los <a href="https://www.igbaffiliate.com/news/igb-affiliate-awards-2019-winners-announcement" target="_blank" rel="nofollow">iGBAwards 2019</a>, los más prestigios de la industria de la afiliación gambling.</p>"
+
+msgid "trabajo_home_h2"
+msgstr "Nuestro trabajo"
+
+msgid "trabajo_home_acordeon_1"
+msgstr "<p class="item-title collapsed" data-toggle="collapse" href="#collapseSixLeftone" aria-expanded="false" >¿Qué hacemos?</p><div id="collapseSixLeftone" class="collapse item-body" aria-expanded="false" style="height: 0px;"><p>La filosofía de nuestra empresa es clara: trabajo y trasparencia. Ofrecemos acuerdos, con comisiones CPA por cada jugador que se refiera a una empresa, y herramientas de marketing a nuestros afiliados para que puedan promocionar las campañas que deseen en su web y redes sociales. En resumidas cuentas, el trabajo de BETANDEAL.com es conectar empresas de juego con sus potenciales anunciantes.</p></div>"
+
+msgid "trabajo_home_acordeon_2"
+msgstr "<p class="collapsed item-title" data-toggle="collapse" href="#collapseSixLeftTwo" aria-expanded="false">¿Qué requisitos debo cumplir para poder ser afiliado?</p><div id="collapseSixLeftTwo" class="collapse item-body" aria-expanded="false" style="height: 0px;"><p>Lo primero que hay que destacar es que no tiene ningún coste pertenecer a la plataforma de afiliados BETANDEAL.com, es totalmente gratuito.</p><p>El registro se puede realizar en apenas 2 minutos, a través del formulario para darse de alta. Una vez hecho esto, revisaremos tu cuenta, y una vez aprobada ya podrás acceder a visualizar todas las campañas que ofrecemos, y solicitar aquellas que te interese promocionar.</p><p>Nuestros afiliados tienen, habitualmente, el siguiente perfil: webmasters con visitantes que pueden ser consumidores de empresas de juego online, o influencers con un gran número de seguidores que pueden ser también potenciales clientes de casas de apuestas en sus redes sociales (telegram, instagram, twitter o Facebook).</p></div>"
+
+msgid "trabajo_home_acordeon_3"
+msgstr "<p class="collapsed item-title" data-toggle="collapse" href="#collapseSixLeftThree" aria-expanded="false">Métodos de pago disponibles</p><div id="collapseSixLeftThree" class="collapse item-body" aria-expanded="false"><p>Los pagos se realizan puntualmente de manera mensual a través de uno de los siguientes métodos: PayPal o transferencia bancaria. Adicionalmente, previa solicitud al soporte y aprobación por nuestro departamento de administración, pueden realizarse pagos de comisiones mediante un método alternativo.</p></div>"
+
+msgid "featured_home_h2"
+msgstr "¿Por qué trabajar con nosotros?"
+
+msgid "featured_home_content"
+msgstr "<ul class="lista"><li>Mejor y más variada oferta de campañas de empresas de juego online, especialmente de casas de apuestas.</li><li>Gestión unificada de todas sus campañas.</li><li>Trato personalizado. Gestión individualizada de todas sus incidencias.</li><li>Puntualidad en los pagos.</li><li>Podrás comprobar tus estadísticas en todo momento.</li></ul>"
+
+msgid "featured_home_button"
+msgstr "Conoce más de nosotros"
+
+msgid "about_text_2_home_h2"
+msgstr "¿Qué es el marketing de afiliación de apuestas?"
+
+msgid "about_text_2_content_1"
+msgstr "<p>El marketing de afiliación online se fundamenta en el pago de comisiones por parte de una empresa a sus colaboradores, en base a los resultados obtenidos. Este tipo de marketing es perfecto para la actividad online, debido a que la navegación web permite seguir a la perfección el impacto que ha tenido una determinada acción promocional. Quien hizo realmente popular la afiliación online fue Amazon, que logró crecer de forma muy rápida gracias a su gran cantidad de páginas web que usan su programa de afiliados.</p><p>En el sector del juego online, uno de los principales actores son los afiliados. Estos actúan tanto en el mercado de las apuestas deportivas, como en el del póker o los casinos online. El objetivo de los afiliados iGaming es enviar tráfico a las casas de apuestas, medido principalmente en forma de nuevos jugadores que se registran. Otro KPI realmente importante es la cantidad de nuevos jugadores que se registran y realizan un primer depósito, conocido como First Time Deposit (FTD por su acrónimo en inglés).</p><p>Los programas de <a href="https://bdeal.io/es/acuerdos">afiliados casas de apuestas</a>, que permite a los webmasters y propietarios de perfiles de redes sociales generar ingresos realizando publicidad de empresas de juego online.</p>"
+
+msgid "about_text_2_home_h2_2"
+msgstr "¿Cómo ganar dinero siendo afiliado de apuestas?"
+
+msgid "about_text_2_content_2"
+msgstr "<p>Como afiliado de BETANDEAL.com, podrás realizar acciones promocionales de diversas empresas de juego online, especialmente casas de apuestas. En nuestra plataforma encontrarás más de 20 ofertas de comisiones CPA por cada nuevo jugador que se registre en una página de juego online.</p><p>Comenzar a trabajar con nosotros es muy sencillo, solo tienes que darte de alta en nuestra web, esperar a que aprobemos tu solicitud (es posible que un responsable de nuestra empresa se ponga en contacto contigo en este paso) y a continuación ya podrás solicitar las campañas que te interese promocionar.</p><p>Somos el mejor socio para tu contenido, ya que en BetanDeal.com encontrarás las mejores ofertas CPA para España y Latinoamérica (Colombia, Méjico, Perú, Argentina, etc).</p>"
+
+msgid "case_studies_home"
+msgstr "Premios y Reconocimientos."
+
+msgid "case_studies_igb_awards_alt"
+msgstr "Mejor Programa de Afiliación"
+
+msgid "case_studies_igb_awards"
+msgstr "Mejor Programa de Afiliación iGB Awards 2019"
+
+msgid "case_studies_egaming_alt"
+msgstr "Finalista Premios Egamimg 2019"
+
+msgid "case_studies_egaming"
+msgstr "Finalista Premios Egamimg 2018 y 2019"
+
+msgid "aviso_cookies"
+msgstr "Solicitamos su permiso para obtener datos estadísticos de su navegación en esta web, en cumplimiento del Real Decreto-ley 13/2012. Si continúa navegando consideramos que acepta el uso de cookies."
+
+msgid "aviso_cookies_masinfo"
+msgstr "Más información"
+
+msgid "leer_mas"
+msgstr "Leer más"
+
+msgid "noticias_relacionadas"
+msgstr "Noticias relacionadas"
+
+msgid "slogan"
+msgstr "No esperes más, comienza a trabajar con nosotros"
+
+msgid "derechos_reservados"
+msgstr "Todos los derechos reservados."
+
+msgid "menuitem_politica"
+msgstr "Política de privacidad"
+
+msgid "menuitem_terminos"
+msgstr "Términos y condiciones"
+
+msgid "menuitem_cookies"
+msgstr "Cookies"
+
+msgid "menuitem_esp"
+msgstr "Español"
+
+msgid "menuitem_it"
+msgstr "Italiano"
+
+msgid "menuitem_eng"
+msgstr "Inglés"
+
+msgid "menuitem_pt"
+msgstr "Português"
+
+msgid "menuitem_idioma"
+msgstr "Idiomas"
+
+msgid "menuitem_noticias"
+msgstr "Noticias"
+
+msgid "menuitem_acuerdos"
+msgstr "Empresas Colaboradoras"
+
+msgid "menuitem_quienes"
+msgstr "Sobre nosotros"
+
+msgid "menuitem_acceso"
+msgstr "Acceso"
+
+msgid "menuitem_registro"
+msgstr "Registro"
+
+msgid "noticias_h1"
+msgstr "Noticias"
+
+msgid "acuerdos_h1"
+msgstr "Comisiones CPA Casas de Apuestas"
+
+msgid "acuerdos_h2"
+msgstr "¿Con qué empresas puedo ser afiliado de apuestas deportivas?"
+
+msgid "acuerdos_table_advice"
+msgstr "A continuación se mostrará un cuadro resumen de las casas de apuestas en las que puedes trabajar como afiliado gracias a BETANDEAL.com. Solo tienes que filtrar por país, y se mostrarán las casas de apuestas disponibles para tu zona."
+
+msgid "filtrando_por"
+msgstr "Filtrando por:"
+
+msgid "search_button"
+msgstr "Buscar"
+
+msgid "close_button"
+msgstr "Cerrar"
+
+msgid "popup_acuerdos_casa"
+msgstr "Casa:"
+
+msgid "paises"
+msgstr "País/es:"
+
+msgid "popup_acuerdos_paises"
+msgstr "País/es:"
+
+msgid "popup_acuerdos_comision"
+msgstr "Comisión:"
+
+msgid "table_acuerdos_logo"
+msgstr "Logo"
+
+msgid "table_acuerdos_nombre"
+msgstr "Nombre"
+
+msgid "table_acuerdos_pais"
+msgstr "País"
+
+msgid "table_acuerdos_condiciones"
+msgstr "Condiciones"
+
+msgid "table_acuerdos_comision"
+msgstr "Comisión"
+
+msgid "table_acuerdos_info"
+msgstr "Información"
+
+msgid "table_acuerdos_vermas"
+msgstr "Ver +"
+
+msgid "acuerdo_boton_registro"
+msgstr "Registrar una nueva cuenta de afiliado"
+
+msgid "acuerdos_h2_2"
+msgstr "¿Qué acuerdos de afiliación con casas de apuestas puedo conseguir en BETANDEAL.com?"
+
+msgid "acuerdos_p_1"
+msgstr "En la plataforma de afiliación para el mercado Español y Latinoamericano, BETANDEAL.com, encontrarás fundamentalmente acuerdos de afiliación con casas de apuestas online. Estos acuerdos son del tipo CPA (Comisión Por Adquisición). La comisión mínima por jugador es de 10€."
+
+msgid "acuerdos_p_2"
+msgstr "Las campañas de BETANDEAL.com están focalizadas en el mercado de España, pero también encontrarás una variada oferta para Latinoamérica (BETANDEAL.com es tu perfecto socio como afiliado de apuestas deportivas para Méjico, Perú, Colombia y Argentina, etc)."
+
+msgid "acuerdos_h2_3"
+msgstr "¿Cómo puedo ganar dinero siendo afiliado de apuestas deportivas?"
+
+msgid "acuerdos_h3"
+msgstr "¿Cuáles son las mejores casas de apuestas para trabajar como afiliado?"
+
+msgid "acuerdos_p_3"
+msgstr "Como ya se ha explicado anteriormente, la forma de ganar dinero como <a href="https://bdeal.io/es/">afiliado de apuestas deportivas</a> es enviando tráfico (traducido en nuevos registros) a las bookies. Pero, ¿cómo generar ese tráfico? Hay fundamentalmente 3 formas de generar tráfico:"
+
+msgid "acuerdos_p_4"
+msgstr "Hay dos opiniones encontradas al respecto cuando se trata de definir cuál es la casa de apuestas ideal para trabajar como afiliado. Por un lado, existe la creencia de que es mejor promocionar la casa de apuestas que ofrezca una mayor comisión. Por otro, hay gente que defiende que la mejor alternativa es trabajar con la casa de apuestas menos conocida, independientemente de lo que esta pague de comisión por cada usuario."
+
+msgid "acuerdos_p_5"
+msgstr "Es de perogrullo que siempre es más interesante realizar publicidad de la empresa que más pague, pero también hay que tener en cuenta que aquellas casas de apuestas que ofrecen una comisión más elevada, suelen ser las que tienen una posición dominante en el mercado y en las que, por lo tanto, es más complicado conseguir nuevos registros. Lo que diferencia la afiliación iGaming respecto a la afiliación en otros sectores (como en Amazon por ejemplo) es que cuando se refiere a un jugador, este no puede ser nunca más referido por otro afiliado debido a que no es posible registrarse más de una vez en la misma casa de apuestas."
+
+msgid "acuerdos_p_6"
+msgstr "Por lo tanto, cada afiliado debe definir su estrategia, ya que nadie mejor que él conoce a su público, y seleccionar las casas de apuestas que desea promocionar."
+
+msgid "acuerdos_ul"
+msgstr "<li>Tráfico de páginas web: es la forma típica de generación de tráfico, la creación de contenido a través de blog o páginas webs de temática relacionada con el juego online y con el deporte.</li><li>Tráfico de redes sociales: la cantidad de personas que usan a diario redes sociales como facebook, twitter o instagram, hacen que este tipo de herramientas sean realmente útiles para la creación de contenido efímero y atractivo para los potenciales apostadores.</li><li>Tráfico de aplicaciones de mensajería, fundamentalmente telegram: en la afiliación de apuestas ha cobrado gran relevancia en diversos países telegram apuestas. En esta APP hay numerosos canales que son usados por tipsters (pronosticadores deportivos) para enviar a sus seguidores información y recomendaciones sobre apuestas deportivas.</li>"
+
+msgid "quienes_h1"
+msgstr "¿Cómo trabajamos la afiliación en BETANDEAL?"
+
+msgid "quienes_h2"
+msgstr "¿Dónde puedo realizar promociones de las casas de apuestas?"
+
+msgid "quienes_p_1"
+msgstr "La forma tradicional de aplicar el marketing de afiliados ha sido a través de una página web. En ella, el webmaster coloca diferente banners y enlaces promocionales que redirigían al anunciante. Pero también, con el ascenso de las redes sociales (twitter, instagram, facebook) y de las plataformas de creación de contenido (twitch, youtube, mixer), el marketing de afiliación hoy en día no solo se hace a través de páginas web, si por muchos más canales."
+
+msgid "quienes_p_2"
+msgstr "En el caso que nos ocupa, el marketing de <a href="https://bdeal.io/es">afiliación de apuestas deportivas</a>, destacan las promociones a través de canales de difusión de Telegram. Estos canales son chats unidireccionales, donde el creador envía mensajes a las personas que están dentro. Son muy usados por pronosticadores profesionales, también conocidos como tipsters, para enviar sus análisis de eventos deportivos."
+
+msgid "quienes_p_3"
+msgstr "Por lo tanto, no es imprescindible tener una página web para poder trabajar con BETANDEAL.com. En el formulario de registro hay un campo donde tendrás que introducir donde promocionarás las campañas de afiliación, y una vez te aprobemos tu cuenta podrás comenzar a trabajar con nosotros."
+
+msgid "quienes_h2_2"
+msgstr "¿Qué tipo de ofertas se ofrecen en BETANDEAL.com y qué significa CPA?"
+
+msgid "quienes_p_4"
+msgstr "Una vez te registres en BETANDEAL.com, en tú apartado privado podrás ver las diferentes empresas que puedes promocionar. Encontrarás diversas empresas relacionadas con el juego online: apuestas deportivas, poker y casino online."
+
+msgid "quienes_p_5"
+msgstr "La comisión que ofrecemos en campañas de apuestas siempre es CPA. Este es el acrónimo de Cost Per Acquisition, traducido al Español Coste Por Adquisición. Este modelo de remuneración implica que se paga por cada acción, y en el caso del juego online una acción o adquisición implica una cantidad depositada y apostada por un nuevo usuario. Dicho con otras palabras, se pagará una comisión fija por cada persona nueva que se registre en una casa de apuestas, realice un depósito mínimo y apueste una cantidad mínima. Un ejemplo de ello sería la comisión que pagamos a nuestros <a href="https://bdeal.io/es/acuerdos/afiliados-betfair">afiliados en betfair</a>: 25€ por cada jugador que deposite 10€ y apueste al menos 10€."
+
+msgid "registro_h1"
+msgstr "Registro Afiliados"
+
+msgid "registro_p_1"
+msgstr "¿Completa todos los datos para registrarte como afiliado?"
+
+msgid "registro_h2"
+msgstr "¡Empecemos!"
+
+msgid "registro_placeholder_nombre"
+msgstr "Nombre completo (Min. 12 caracteres) *"
+
+msgid "registro_placeholder_password"
+msgstr "Contraseña *"
+
+msgid "registro_placeholder_telefono"
+msgstr "Teléfono *"
+
+msgid "registro_fuentes_label"
+msgstr "¿Dónde vas a promocionar las campañas? *"
+
+msgid "registro_select_fuentes"
+msgstr "Selecciona uno o varios*"
+
+msgid "registro_select_fuentes_sitioweb"
+msgstr "Sitio web"
+
+msgid "registro_select_fuentes_otro"
+msgstr "Otro"
+
+msgid "menuitem_acceso"
+msgstr "Login"
+
+msgid "registro_url_placeholder"
+msgstr "Url o nombre del canal"
+
+msgid "registro_url_label"
+msgstr "Url o Canal"
+
+msgid "button_add_fuente"
+msgstr "Añadir fuente"
+
+msgid "error_add_fuente"
+msgstr "Debes seleccionar una tipo de fuente y poner el canal o url para poder añadir fuentes"
+
+msgid "error_empty_fuentes"
+msgstr "Debes añadir al menos un tipo de fuente y su correspondiente canal o url para poder registrarte"
+
+msgid "registro_fuentes_placeholder_sitioweb"
+msgstr "Sitio web *. Formato: http(s)://xxx.tld"
+
+msgid "registro_fuentes_placeholder_insta"
+msgstr "Perfil Instagram *. Formato: nombre perfil o url"
+
+msgid "registro_fuentes_placeholder_tg"
+msgstr "Canal Telegram *. Formato: nombre canal o url"
+
+msgid "registro_fuentes_placeholder_tw"
+msgstr "Perfil Twitter *. Formato: nombre perfil o url"
+
+msgid "registro_fuentes_placeholder_fb"
+msgstr "Perfil Facebook *. Formato: nombre perfil o url"
+
+msgid "registro_fuentes_placeholder_otro"
+msgstr "Otro medio *. Formato: perfil o url"
+
+msgid "registro_idioma_label"
+msgstr "Selecciona tu idioma *"
+
+msgid "registro_select_idioma"
+msgstr "Seleccionar..."
+
+msgid "registro_button"
+msgstr "Registrarme"
+
+msgid "registro_popup_h4"
+msgstr "Registro:"
+
+msgid "acuerdo_h2"
+msgstr "Campañas de"
+
+msgid "registro_aceptar_politica"
+msgstr "¿Aceptas las"
+
+msgid "registro_aceptar_politica2"
+msgstr "Política de privacidad"
+
+msgid "registro_aceptar_terminos"
+msgstr "¿Aceptas los "
+
+msgid "registro_aceptar_terminos2"
+msgstr "Términos y condiciones"
+
+msgid "politica_contenido"
+msgstr "<p><span style="font-size: 16px;"><b>1.- RESPONSIBLE FOR THE TREATMENT</b></span><br></p><p>GLOBAL GAMING MARKETING SERVICES S.L.</p><p>Calle Camoens 4, Oficina 9</p><p>51001 Ceuta, SPAIN.</p><p><span style="font-size: 12.8px;">CIF: B51040673.</span><br></p><p><span style="font-size: 12.8px;">0034 686 197 081.</span><br></p><p><span style="font-size: 12.8px;"><a href="support@betandeal.com">support@betandeal.com</a></span><br></p><p><span style="font-size: 12.8px;">BETANDEAL is an online platform, owned by GLOBAL GAMING MARKETING SERVICES, S.L.</span><br></p><p><span style="font-size: 16px;"><b>2.- PURPOSE OF DATA PROCESSING</b></span><br></p><p>From the moment you become part of the BETANDEAL family and create a profile on our platform to be able to act with us, your data will be processed for the following purposes:</p><ul><li><span style="font-size: 12.8px;">Primary purpose of carrying out the service provided through the platform and the BETANDEAL pay service.</span></li><li><span style="font-size: 12.8px;">Inform or notify you of possible incidents regarding the service.</span></li><li><span style="font-size: 12.8px;">Inform you of improvements or news in the products and services we offer.</span></li><li><span style="font-size: 12.8px;">Data will only be transferred to third parties like institutions or public authorities in cases where it is legally mandatory</span>.</li></li></ul><p><span style="font-size: 16px;"><b>3.- TEMPORARY ELEMENT</b></span><br></p><p><span style="font-size: 12.8px;">Restrictively, your data will be kept only for the duration of our commercial relationship, longer if necessary for the fulfillment of tax or administrative obligations or, finally, as long as you wish to continue receiving information about our products or services.&nbsp;</span></p><p><span style="font-size: 12.8px;">Below we inform you of the rights you have at your disposal to be able to modulate, restrict or voluntarily extend any issues related to your personal data.&nbsp;</span></p><p><span style="font-size: 16px;"><b>4.- LEGITIMATION FOR THE TREATMENT</b></span><br></p><p>Logically, the legitimacy for the processing of your data is held by BETANDEAL, from the point of view of its legal position as a provider of the service that you contract through the platform or any of its additional services.</p><p><span style="font-size: 16px;"><b>5.- POSSIBLE RECIPIENTS OF YOUR PERSONAL DATA</b></span><br></p><p><span style="font-size: 12.8px;">Your personal data may be communicated to third parties in the following cases:&nbsp;</span></p><p><span style="font-size: 12.8px;">Your data may be accessed by suppliers that provide services to BETANDEAL, such as content hosting services, instant messaging, sending notifications, advertising services, computer services, etc.&nbsp;</span></p><p><span style="font-size: 12.8px;">Notwithstanding the foregoing, we note that BETANDEAL, has signed data processing contracts with each of the suppliers that provide services to BETANDEAL, in order that you have full guarantees that said suppliers treat your data in accordance with the legislation.&nbsp;</span></p><p><span style="font-size: 12.8px;">Your personal data may only be transferred to public authorities or institutions in the event that there are legal requirements or there is a legal or judicial obligation.</span></p><p><span style="font-size: 16px;"><b>6.- RIGHTS OF THE HOLDERS OF THE DATA</b></span><br></p><p>Remember that at any time, since our commercial relationship begins and, therefore, we have access to the processing of your data, you may have knowledge of how your data is being treated by BETANDEAL.</p><p>The exercise of these rights is purely free of charge.</p><p>1.- You will always have the right of <strong>ACCESS</strong> to your personal data. </p><p>This right includes the right to request information on the way in which your personal data is being processed; request a copy of the data being processed; the purposes thereof; the recipients or categories of recipients to whom the data has been transferred; information on appropriate safeguards regarding the transfer of data to third countries or international organisations; the period of conservation of the data; whether there are automated decisions, including profiling, meaningful information about the logic applied, as well as the importance and consequences foreseen in such processing; if the personal data have not been obtained directly from its owner, information on the origin of the same, etc.</p><p>2.- You also have the right to <strong>RECTIFY</strong> our inaccurate data or, where appropriate, request its <strong>DELETION</strong> when, among other reasons, the data is no longer necessary for the purposes that were collected.</p><p>3.- In certain circumstances, you may request the <strong>LIMITATION</strong> of the processing of your data, in which case we will only keep them for the exercise or defense of claims.</p><p>4.- In the same way, in certain circumstances and for reasons related to your particular situation, you may <strong>OPPOSE</strong> the processing of your data. In this case, BETANDEAL, will stop processing the data, except for legitimate reasons or the exercise or defense of any claims.</p><p><span style="font-size: 12.8px;">5.- Fifthly, we inform you that the latest modifications in terms of legislation relating to personal data, you can exercise your right to PORTABILITY, as well as withdraw the consents provided at any time, without affecting the legality of the treatment based on the consent prior to its withdrawal.</span><br></p><p><span style="font-size: 12.8px;">That said, at the moment in which you are interested in exercising any of the rights that assist you, you may contact us at the email address indicated at the beginning of this writing.&nbsp;</span></p><p><span style="font-size: 12.8px;">Remember that for the correct exercise of your rights, we ask you to provide as much information as possible in your request and, in any case, personal data, email address, telephone and as much information as possible about which right you wish to exercise.&nbsp;</span></p><p><span style="font-size: 12.8px;">We also inform you that you can contact the Spanish Agency for Data Protection and other competent public bodies for any claim arising from the processing of your personal data.</span></p><p><span style="font-size: 16px;"><b>7.- COOKIES POLICY</b></span><br></p><p>We have our cookies policy on our website.</p><p><span style="font-size:16px;"><b>8.- CONDITIONS OF USE OF THE WEB PLATFORM</b></span><br></p><p><span style="font-size: 12.8px;">BETANDEAL, develops its business purpose through this website, which it makes available to Internet users.&nbsp;</span></p><p><span style="font-size: 12.8px;">Access to it implies the unreserved acceptance of these conditions.&nbsp;</span></p><p><span style="font-size: 12.8px;">Notwithstanding the foregoing, the platform itself may offer particular and additional services, which will be governed by its own conditions. In this case we refer specifically to the complementary service premiumpay.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL, authorizes the viewing, printing and partial downloading of the content of its platform, in the following cases:</span></p><ul><li>That there is compatibility with the purposes of the platform.</li><li>That it is carried out with the exclusive intention of obtaining information for your personal use. Its use for commercial purposes or for distribution, public communication, transformation, etc. is expressly prohibited.</li><li>That none of the related content on the platform is modified in any way.</li><li>That no graphic, logo, icon or image available on the platform is used, copied or distributed, separately or next to adjacent images.</li><li><span style="font-size: 12.8px;">The unauthorized use of the information contained in the platform, its resale, as well as the infringement of the intellectual or industrial property rights of BETANDEAL, will give rise to the legally established responsibilities.</span><br></li></ul><p style="text-align: justify; "><font color="#000000" face="Aptos Display, Aptos Display_EmbeddedFont, Aptos Display_MSFontService, sans-serif"><span style="font-size: 16px; font-variant-ligatures: none; white-space-collapse: preserve;"><b>9.- PLATFORM OPERATION</b></span></font>&nbsp;<br></p><p><span style="font-size: 12.8px;">BETANDEAL, reserves the right to make the modifications it deems appropriate to the platform, in its configuration, presentation, structural or merely aesthetic elements, with or without prior notice to its users. Modifications may also be made to the conditions of use.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL, is not responsible for any security errors that may occur or for any damage that may be caused to the user's computer system, or to the files or documents stored therein, as a result of:</span></p><ul><li>The presence of viruses on the user's computer that is used to connect to the services and contents of the platform.</li><li>Browser malfunction.</li><li>Negligent use of the network.</li><li>Use of non-updated versions of the browser.</li></ul><p><span style="font-size: 12.8px;">BETANDEAL does not guarantee the absence of viruses or other elements on the platform that may have been introduced by third parties outside BETANDEAL, which may cause alterations in the systems of the users or in the electronic documents and files stored in their systems.&nbsp;</span></p><p><span style="font-size: 12.8px;">Consequently, the company will not be in any case responsible for any damages of any kind that may arise from the presence of viruses or other elements that may cause alterations in the systems, electronic documents or files of the users.&nbsp;</span></p><p><span style="font-size: 12.8px;">Likewise, BETANDEAL uses various measures to protect its platform against computer attacks by third parties. However, the company does not guarantee that unauthorized third parties may have manage to breach the security of the platform. Consequently, BETANDEAL will not be in any case responsible for the damages that may arise from such unauthorized access.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL does not guarantee the absence of interruptions or errors in access to the platform or its content, nor that it is updated, although it undertakes the obligation to solve mentioned issues as soon as possible.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL reserves the right to interrupt access to its platform or any of its contents at any time and without prior notice.</span></p><p><span style="font-size: 16px;"><b>10.- CONTENTS</b></span><br></p><p><span style="font-size: 12.8px;">BETANDEAL does not assume any responsibility derived from the contents linked on the website, provided that they are alien to it, nor does it guarantee the absence of viruses or other elements in them that may cause alterations in the computer system, in the documents or files of the user, excluding any responsibility for damages of any kind caused to the user for this reason.&nbsp;</span></p><p><span style="font-size: 12.8px;">In the event that any user or third party considers that the content or services provided by the linked pages are illicit or violate somehow the rights of the user or third party, they may inform the company as soon as possible.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL undertakes to periodically verify and monitor its contents and information.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL is not responsible in any case for the use that users may make of the platform or its contents, as well as for the damages that may arise from it.</span></p><p><span style="font-size: 16px;"><b>11.- OWNERSHIP OF THE CONTENTS OF THE PLATFORM</b></span><br></p><p><span style="font-size: 12.8px;">BETANDEAL makes its platform available to customers/users or potential customers/users, although it does not give them any right over the trademarks, trade names, distinctive signs or designs of any kind that appear on the platform.&nbsp;</span></p><p><span style="font-size: 12.8px;">All the contents of the platform are subject to industrial and intellectual property, whether they belong to BETANDEAL or to a third party owner linked to BETANDEAL.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL is the owner of the source code, design, navigation structure, databases and the different software elements of the platform, as well as the industrial and intellectual property rights referred to the contents included in it.</span></p>"
+
+msgid "terminos_contenido"
+msgstr "<p><span>1.- THE COMPANY.</span></p><p><span style="font-size: 12.8px;">This document aims to establish the General Terms and Conditions of Contract between the Platform "BETANDEAL©" and its Affiliates and/or users.&nbsp;</span></p><p><span style="font-size: 12.8px;">GLOBAL GAMING MARKETING SERVICES S.L., holder of the trade name and platform BETANDEAL, with registered office at 51001 Ceuta (SPAIN), Calle Camoens 4, Oficina 9, and fiscal identification code B51040673. The contact details mentioned are available to anyone with a legitimate interest in commercial, tax, civil, or judicial matters.&nbsp;</span></p><p><span style="font-size: 12.8px;"><br></span></p><p><span style="font-size: 12.8px;">2.- COMPANY ACTIVITY: AFFILIATE MARKETING</span><br></p><p><span>2.1.- Definitions.</span></p><p><span style="font-size: 12.8px;">BETANDEAL© (hereinafter BETANDEAL) is a registered trademark.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL is an online platform dedicated to "affiliate marketing." Affiliate marketing is defined as the advertising activity carried out at the B2B level (BUSINESS TO BUSINESS), that is, from professional to professional, through which we promote the activity of our clients/advertisers on our platform (their products and services), which we make available to users of the platform (affiliates), so that they, in turn, promote to their followers or target audience the products and services that may interest them.&nbsp;&nbsp;</span></p><p>For example, if an affiliate has a website dedicated to sports, they will have more options to earn money if they promote relevant information for sports betting activities.&nbsp;&nbsp;<br></p><p><span style="font-size: 12.8px;">Therefore, the BETANDEAL platform is aimed at entrepreneurs or professionals who have a website, blog, or social network with a large number of followers, because in this way, they will have more possibilities to attract customers to the promoted products and services and, therefore, generate income.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">The earnings that affiliates can obtain through our platform are variable and depend on the number of customers obtained and the conditions of each promotion offered by our clients/advertisers.&nbsp;&nbsp;</span></p><p>The products and services promoted through BETANDEAL are the exclusive property of our clients/advertisers. Thus, as we will say later, the conditions are imposed directly by our clients/advertisers, owners of the product and service promoted through the platform.&nbsp;&nbsp;<br></p><p><span style="font-size: 12.8px;">Therefore, affiliate marketing involves a wide variety of services that converge on the BETANDEAL platform, whose main objective is to help its clients maximize their profits, taking advantage of this platform to reach an undetermined number of potential customers.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">The type of product and service promoted through our platform focuses especially on the online gambling market, sports betting in general, finance, and others such as attracting an audience to social networks.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">In this way, BETANDEAL operates as a platform with an eminently advertising purpose, which seeks to put clients or advertisers in contact with their potential clients or players, all through affiliates, who are the ones who have the potential audience to promote the product or service.&nbsp;</span></p><p><span>2.2.-&nbsp;</span><span style="font-size: 12.8px;">Parties involved</span><span style="font-size: 0.8em;">.</span></p><p><span style="font-size: 12.8px;">That said, the subjective relationship in the field of affiliate marketing is of a tripartite nature and all of them converge on our affiliate platform.&nbsp;</span></p><p><span style="font-size: 12.8px;">Thus, we speak of the following subjects:</span></p><ul><li><p class="P6"><span></span><span><span style="font-size: 12.8px;">Client or advertiser (game operator, betting house, broker, etc.) who is offered on the BETANDEAL platform.</span></span><span>&nbsp;</span></p></li><li><p><span style="font-size: 12.8px;"><span></span>Affiliate (who, through proper registration on our platform, accesses the activities, products, and services promoted by BETANDEAL and promotes them among their target audience -players-).</span><br></p></li><li><p class="P7"><span style="font-size: 12.8px;"><span></span>Players (end consumer, who accesses through the affiliate).</span><br></p></li></ul><p><span style="font-size: 12.8px;">These three subjects converge on the affiliate platform: the first, to promote their activities, products, and services; the second, to request access to them and promote them among their target audience (players, followers), and the third, are those who access the activities, products, or services of the first, through the links that affiliates make available through their website, blog, or social network.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">Through the relationship described above, clients or advertisers (game operators, betting houses, brokers, etc.) remunerate the services by virtue of the referred traffic (number of customers obtained by our affiliates). All of the above is done through links, by virtue of which clients/advertisers know how many end consumers have been sent through BETANDEAL and, in turn, BETANDEAL knows how many end consumers have been sent by each affiliate.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">In any case, the activities, products, or services of clients or advertisers (campaigns, bonuses, offers, etc.), although promoted through the BETANDEAL platform, are the exclusive property of the advertisers, without BETANDEAL having any rights over them, beyond mere publication or promotion. However, BETANDEAL will inform affiliates of any circumstance regarding the validity, expiration, and essential conditions of said activities, products, or services.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">In this way, affiliates will be able to access, within the platform, the section that interests them most, so that they can request access and promotion of the products or services that advertisers have active on the platform and, in turn, offer them to potential customers who follow them on their blogs, websites, social networks, etc. BETANDEAL makes available to affiliates, through the platform, access to the activities promoted by its clients or advertisers. However, effective access to these activities and the possibility for affiliates to promote them is at the sole discretion of the client or advertiser, as they are the exclusive owner of the campaign, activity, bonus, offer, etc., promoted on the platform, who may reject the registrations of referred users according to their internal policy.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">Compliance with current regulations on responsible gaming is the exclusive responsibility of clients or advertisers, without BETANDEAL having any responsibility in this regard, since its involvement is limited exclusively to the marketing of its activities, products, or services.&nbsp;</span></p><p><span style="font-size: 12.8px;">Affiliates will promote the activities, products, and services of our clients or advertisers through personalized links that BETANDEAL will make available to them, and affiliates will be solely responsible for complying with the legislation and regulatory requirements related to the advertising of gambling activities in the jurisdiction where they carry out their activity.&nbsp;</span></p><p><span style="font-size: 12.8px;">In any case, affiliates must always comply with the instructions, minimum requirements, and conditions established by clients or advertisers. The use of links by the Affiliate implies the automatic acceptance of the conditions and requirements that the client/advertiser may have established.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">In each campaign or promotion, minimum conditions or actions required by clients or advertisers for the valid registration of referred users and accrual of remunerations may be required. In this regard, attention is drawn to the warning contained in the terms and conditions, as well as to the so-called fraudulent players or users.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">A "fraudulent player" will be defined in each case by the client/advertiser/operator. The qualification of a player as fraudulent is the sole discretion of the client/advertiser/operator and implies the impossibility of receiving any remuneration for their conversion, being removed from the campaign. The Affiliate may not, in any case, dispute such assessment and its consequences.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">"Bots" will always be considered fraudulent players since they are not real players.&nbsp;&nbsp;</span></p><p><span style="font-size: 12.8px;">Players are responsible for complying with the requirements demanded by operators regarding the minimum operating age, location, etc.&nbsp;</span></p><p>&nbsp;</p><p><span>3.-&nbsp;</span><span style="font-size: 12.8px;">COMPENSATION: COMMISSIONS FOR AFFILIATION</span></p><p><span>The most common commissions in affiliate marketing are as follows:</span></p><ul><li><p><span class="ListLabel_20_46"></span><span>CPA:</span><span>&nbsp;Cost Per Acquisition (also called Cost Per Action).</span><span>&nbsp;</span></p></li></ul><p><span style="font-size: 12.8px;">CPA is generated upon completing a specific action required by the advertiser/operator. These conditions are defined directly by the advertiser/operator.</span><br></p><ul><li><p class="P13"><span class="ListLabel_20_55"></span><span>CPL:</span><span>&nbsp;Cost Per Lead.</span><span>&nbsp;</span></p></li></ul><p><span style="font-size: 12.8px;">CPL is generated and released for each registration or completed form.</span><br></p><ul><li><p class="P14"><span></span><span>RS:</span><span>&nbsp;Revenue Share.</span><span>&nbsp;</span></p></li></ul><p><span style="font-size: 12.8px;">It is a percentage derived from the net profits of the advertiser/operator for each player converted or referred by the Affiliate.</span><br></p><ul><li><p><span></span><span>Hybrid Commissions:&nbsp;</span><span style="font-size: 12.8px;">These are composed of a combination of the above.</span></p></li></ul><p><span><br></span></p><p><span style="font-size: 12.8px;">4.- AGREEMENTS OF FIXED ACTIONS, COMPENSATION, AND PENALTIES</span><br></p><p><span style="font-size: 12.8px;">In the event that the Affiliate has agreed with us to carry out specific actions in exchange for a fixed compensation, he/she undertakes to carry out the agreed actions in a complete and timely manner, as established in each specific case.</span></p><p><span style="font-size: 12.8px;">If nothing to the contrary is indicated, the actions to be carried out will be compensated on a monthly basis and the specific conditions that may be established between us and the Affiliate through email or through the acceptance of information exchange on the platform will be sufficient and valid.</span></p><p><span style="font-size: 12.8px;">These actions may include, among others, publications on social networks, brand mentions, creation of specific content, participation in promotional events, and any other previously agreed-upon activity.&nbsp;</span></p><p><span style="font-size: 12.8px;">Unless otherwise provided in the particular agreement between the parties, agreements for fixed actions shall entail during their duration the exclusive right of BETANDEAL to manage the advertising of the Affiliate's channel or medium of dissemination, in its activity and sector in the broadest sense, so that during the term of the agreement for fixed actions, the Affiliate shall refrain from incorporating or carrying out any advertising activity with content from other companies in direct or indirect competition with BETANDEAL or with products or services identical or similar to those of the content being promoted, which are not indicated or authorized by BETANDEAL.&nbsp;</span></p><p><span style="font-size: 12.8px;">Violation of the above by the Affiliate shall result in the termination of the agreement without the Affiliate's right to receive any compensation, and the Affiliate shall return any amounts that he/she may have received under the specific assignment, as a penalty of economic content freely determined by both parties, resolving the assignment.&nbsp;</span></p><p><span style="font-size: 12.8px;">The penalty described above does not exclude BETANDEAL right to take additional measures to remedy the breach and claim additional damages that may arise as a result thereof.</span></p><p><span style="font-size: 12.8px;"><br></span></p><p><span>5.- REGISTRATION.</span></p><p><span style="font-size: 12.8px;">Registration on BETANDEAL makes the user an Affiliate, so he/she will have access to the private part of the platform.&nbsp;</span></p><p><span style="font-size: 12.8px;">To carry out the registration, in addition to accepting the current terms and conditions, it is also necessary to accept the privacy policy, in which we will request the necessary data to carry out the registration and we will request the Affiliate's permission for the processing of his/her data, which, as stated in the privacy policy section, will be used exclusively for the development of BETANDEAL's activity, being its purpose, the maintenance and development of the commercial relationship itself and to comply with these contractual Terms and Conditions.&nbsp;</span></p><p><span style="font-size: 12.8px;">To register as an Affiliate on BETANDEAL, it is an essential requirement to be of legal age.&nbsp;</span></p><p><span style="font-size: 12.8px;">The Affiliate must ensure that the content hosted on his/her website, channel, social network, platform, or means of dissemination does not infringe current legislation, nor the intellectual, industrial, or any other rights of third-party companies or persons, being solely responsible for the consequences of any kind of judicial or extrajudicial action that may, where appropriate, be initiated by said third-party companies or persons against BETANDEAL and/or group companies and/or the BETANDEAL platform, and shall assume personally and exclusively, any damages, expenses, and judicial or extrajudicial costs that may be caused. The Affiliate is solely responsible for the information given and/or displayed on his/her website, as well as for compliance with the specific regulations subject to inclusion on said website.&nbsp;</span></p><p><span style="font-size: 12.8px;">The Affiliate shall be liable for any damages and/or losses of any kind that BETANDEAL and/or group companies and/or the BETANDEAL platform may suffer as a result of the Affiliate's breach of the Law or any of the general and/or specific conditions set forth in this agreement.&nbsp;</span></p><p><span style="font-size: 12.8px;">BETANDEAL, aside from other breaches that may empower it, reserves the right to terminate collaboration with the Affiliate and cancel the latter's account under the following circumstances:&nbsp;</span></p><p><span style="font-size: 12.8px;">In case of inactivity by the Affiliate, understood as the cessation in the generation of referred traffic from the Affiliate to BETANDEAL, within a period of six consecutive months.&nbsp;</span></p><p><span style="font-size: 12.8px;">In the event that the Affiliate does not provide BETANDEAL with information regarding the means and manner in which the campaigns are being carried out.&nbsp;</span></p><p><span style="font-size: 12.8px;">In case of fraudulent traffic, understood as: players with duplicate IPs, fake players, incentivized traffic, accounts created without activity (players must frequently bet in the betting house), clear abuse of the acquisition commission or abuse of the welcome bonus; whether carried out directly by the Affiliate or by the players referred by him/her.&nbsp;</span></p><p><span style="font-size: 12.8px;">The termination of the agreement and the closure of the account shall entail the termination of all economic rights of the Affiliate, without the right to any compensation or payment for its termination, for damages and losses, from the date of termination, even if there is a pending balance to be paid to the Affiliate's account.</span></p><p><span style="font-size: 12.8px;"><br></span></p><p><span>6.-&nbsp;</span><span style="font-size: 12.8px;">AFFILIATE'S PRIVATE SECTION, PAYMENT, AND RECORDING OF REMUNERATION</span></p><p><span style="font-size: 12.8px;">Our platform will automatically record the results of each Affiliate for each campaign they have promoted to their consumers. These data can be viewed by the Affiliate in their private section, accessible from the BETANDEAL platform where they will have a username and password.&nbsp;</span></p><p><span style="font-size: 12.8px;">For the calculation of remuneration, only the results verified and collected by our clients will be considered. The final result for each campaign will always depend on the number of referred or converted users captured by the Affiliate who meet the established conditions.&nbsp;</span></p><p><span style="font-size: 12.8px;">The affiliate undertakes not to generate or contribute to generating simulated traffic on their website(s) or channels by using robots or any other mechanism for automatic traffic generation. Similarly, BETANDEAL holds the affiliate responsible for the traffic coming from their website(s) and will assume the consequences that may arise if it is simulated. In any case, the affiliate must notify BETANDEAL of any simulated, improper, or unlawful use regarding any of their affiliate programs.&nbsp;</span></p><p>In the event that BETANDEAL detects the generation of simulated traffic by an affiliate, it may terminate this collaboration agreement, which includes the possibility of excluding them from participating in other affiliate programs available on its website. Alternatively, the affiliate will lose the right to the accumulated remunerations pending payment for all BETANDEAL affiliate programs in which they have participated up to the moment the detection of simulated traffic is communicated. This communication will be made in writing, which may be sent as an email, fax, or regular mail.&nbsp;</p><p><span style="font-size: 12.8px;">In this way, in the private section of each affiliate, BETANDEAL will update the status of economic earnings, where they can see the number of players converted in each campaign and the amount generated as commissions.&nbsp;</span></p><p><span style="font-size: 12.8px;">To receive payment, the Affiliate only needs to issue the invoice on the platform and select whether they prefer to receive payment by bank transfer, SKRILL, or any other payment method available on the platform at any given time.</span></p><p><span style="font-size: 12.8px;"><br></span></p><p><span>7.-&nbsp;</span><span style="font-size: 12.8px;">TECHNICAL SUPPORT, RESOLUTION OF DOUBTS, AND INCIDENTS</span></p><p><span style="font-size: 12.8px;">BETANDEAL provides the email support@betaldeal.com for resolving any technical doubts or incidents that may arise in the use of the platform.&nbsp;</span></p><p><span style="font-size: 12.8px;">Users can also contact us through any of the means specified on the main page of the platform.</span></p><p><span style="font-size: 12.8px;"><br></span></p><p><span>8.- COOKIES</span></p><p><span style="font-size: 12.8px;">The BETANDEAL platform uses cookies intended to improve the user experience, so we request that you accept their use when using the website.&nbsp;</span><br></p><p><span style="font-size: 12.8px;"><br></span></p><p>9.- MODIFICATION</p><p>BETANDEAL reserves the right to modify any of the terms and conditions contained in this Agreement or to replace it at any time and at our sole discretion by posting a notice of change or a new agreement on our website. Modifications may include, for example, changes in the scope of commissions and program rules with our users. If any modification is unacceptable to the user, they may terminate this Agreement without the right to compensation. Your continued participation in our affiliate program after we post a notice of change or a new agreement on our site will constitute implicit and binding acceptance of the modification or new agreement.</p><p><br></p><p>10.- RELATIONSHIP BETWEEN THE PARTIES</p><p>The relationship arising between the parties as a result of this agreement will not constitute or be deemed to constitute a franchise, joint venture, or partnership between the parties, nor will it make the user an employee or agent of BETANDEAL in any sense. The affiliate is not authorized or empowered to bind BETANDEAL or contract on its behalf, nor to make statements or warranties, express or implied, on behalf of BETANDEAL or in relation to any product, nor can the affiliate in any way establish any commitment on behalf of BETANDEAL, and the affiliate must indicate in all their communications or agreements related to affiliation that they are acting exclusively on their own behalf.</p><p><br></p><p>11.- LICENSES AND USE OF BETANDEAL'S LOGOS AND TRADEMARKS</p><p>Each party will retain all intellectual property or other rights over their respective names, logos, trademarks, databases, and any other assets protected by current regulations. Nothing in this agreement will be interpreted as a waiver or transfer of the rights belonging to each of the parties, derived from intellectual or industrial property over the assets that such regulations govern. BETANDEAL grants the user a revocable, non-exclusive license to use, reproduce, and transmit the distinctive signs of its ownership (logos, brand, buttons, banners, and texts) on its website or channel, solely for the exclusive purpose of creating hypertext links between their respective sites, and may not in any case, except as expressly contemplated in this document, copy, distribute, modify, transform, or create derivative works from them. The user may not include or make use in any way of the word "BETANDEAL," as well as any variant thereof that has the effect of associating it with the same outside the conditions provided in this contract. The user shall not create, publish, distribute, or authorize any written material referring to BETANDEAL without prior written consent. BETANDEAL is not responsible for the information or content of users' websites or channels.</p><p><br></p><p>12.- INDEMNIFICATION&nbsp;</p><p>Under this agreement, the user agrees to indemnify and hold BETANDEAL and its platform, as well as its directors, executives, employees, representatives, shareholders, partners, members, and other owners, harmless from any claims, actions, demands, liabilities, losses, damages, lawsuits, agreements, costs, and expenses (hereinafter "Losses"), to the extent that these Losses (or actions with respect to them) derive from (1) judicial proceedings related to the use of Affiliate Marks for infringement of trademark, trade name, copyright, license, intellectual property, or other property rights of third parties, (2) falsification of statements or warranties subscribed by the user through this agreement or for breach of any of the covenants contained therein (3) judicial proceedings related to the user.</p><p><br></p><p>13. - NOTIFICATIONS</p><p>All notifications and communications arising from these conditions will be made in writing and will be duly notified when delivered personally or sent by certified email to the following address support@betandeal.com. The parties acknowledge contracting by electronic means as valid and fully effective, provided that it is done by any of the legally valid means: by accepting the terms and conditions, with electronic signature, and/or with a signature made through trusted third parties.</p><p><br></p><p>14.- APPLICABLE LAW AND JURISDICTION AND VENUE</p><p><span style="font-size: 12.8px;">This Agreement will be governed by the legislation of Spanish Law. The Parties submit, at their choice, for the resolution of conflicts related to this Agreement, waiving any other jurisdiction, to the Courts of the city of Madrid.&nbsp;</span><br></p>"
+
+msgid "cookies_contenido"
+msgstr "<p>Access to this Web Site may involve the use of cookies. Cookies are small amounts of information that are stored in the browser used by each user -in the different devices that can be used to navigate- so that the server remembers certain information that only the server that implemented it will read to improve the experience. Cookies make browsing easier, more user-friendly, and do not damage the browsing device. </p><p>Cookies are automatic procedures for collecting information relating to the preferences determined by the user during his visit to the Website in order to recognize him as a user, and to personalize his experience and use of the Website, and may also, for example, help to identify and resolve errors. </p><p>Information collected through cookies may include the date and time of visits to the Website, the pages viewed, the time spent on the Website, and the sites visited just before and just after the Website. However, no cookie allows to contact the user's telephone number or any other means of personal contact. No cookie can extract information from the user's hard drive or steal personal information. The only way for the user's private information to be part of the cookie file is for the user to personally give that information to the server. </p><p>Cookies that allow a person to be identified are considered personal data. Therefore, the Privacy Policy described above will apply to them. In this sense, for the use of these cookies, the consent of the User will be necessary. This consent will be communicated, based on a genuine choice, offered by means of an affirmative and positive decision, before the initial treatment, removable and documented. </p><p>Disabling, rejecting and deleting cookies </p><p>The user can disable, refuse and delete cookies - in whole or in part - installed on their device by configuring their browser (including, for example, Chrome, Firefox, Safari, Explorer). In this regard, the procedures for rejecting and deleting cookies may differ from one internet browser to another. Consequently, the user must follow the instructions provided by the Internet browser that he/she is using. In the event that you reject the use of cookies - in whole or in part - you may continue to use the Web Site, although you may be limited in the use of some of its features. </p>"
+
+msgid "alt_trabaja_nosotros"
+msgstr "Trabajar como afiliado con BETANDEAL"
+
+msgid "titulo_acordeon_hacemos"
+msgstr "¿Qué hacemos?"
+
+msgid "titulo_acordeon_afiliado"
+msgstr "¿Qué requisitos debo cumplir para poder ser afiliado?"
+
+msgid "titulo_acordeon_metodos"
+msgstr "Métodos de pago disponibles"
+
+msgid "contenido_acordeon_hacemos"
+msgstr "La filosofía de nuestra empresa es clara: trabajo y trasparencia. Ofrecemos acuerdos, con comisiones CPA por cada jugador que se refiera a una empresa, y herramientas de marketing a nuestros afiliados para que puedan promocionar las campañas que deseen en su web y redes sociales. En resumidas cuentas, el trabajo de BETANDEAL.com es conectar empresas de juego con sus potenciales anunciantes."
+
+msgid "contenido_acordeon_afiliado"
+msgstr "Lo primero que hay que destacar es que no tiene ningún coste pertenecer a la plataforma de afiliados BETANDEAL.com, es totalmente gratuito.</br></br>El registro se puede realizar en apenas 2 minutos, a través del formulario para darse de alta. Una vez hecho esto, revisaremos tu cuenta, y una vez aprobada ya podrás acceder a visualizar todas las campañas que ofrecemos, y solicitar aquellas que te interese promocionar.</br></br>Nuestros afiliados tienen, habitualmente, el siguiente perfil: webmasters con visitantes que pueden ser consumidores de empresas de juego online, o influencers con un gran número de seguidores que pueden ser también potenciales clientes de casas de apuestas en sus redes sociales (telegram, instagram, twitter o Facebook)."
+
+msgid "contenido_acordeon_metodos"
+msgstr "Los pagos se realizan puntualmente de manera mensual a través de uno de los siguientes métodos: PayPal o transferencia bancaria. Adicionalmente, previa solicitud al soporte y aprobación por nuestro departamento de administración, pueden realizarse pagos de comisiones mediante un método alternativo."
+
+msgid "call_registro_acceso"
+msgstr "No espere más, empiece a trabajar con nosotros"
+
+msgid "interesar_relacionadas_noticias"
+msgstr "También te puede interesar"
+
+msgid "actualidad_betandeal"
+msgstr "Actualidad Betandeal"
+
+msgid "actualidad_betandeal_entradilla"
+msgstr "En nuestro blog encontrarás noticias e información relacionada con la afiliación del sector del juego online."
+
+msgid "fecha_publicacion"
+msgstr "Publicado a"
+
+msgid "title_expired"
+msgstr "¡UPS! Enlace expirado"
+
+msgid "content_expired"
+msgstr "Ya no es posible acceder a este enlace."
+
+msgid "back_expired"
+msgstr "volver atrás"
+
+msgid "for_back_expired"
+msgstr "para volver atrás"
+
+msgid "here_expired"
+msgstr "aquí"
+
+msgid "error_telefono"
+msgstr "Debes introducir un teléfono correcto"
+
+msgid "direccion_betandeal"
+msgstr "<p>P.º de la Castellana, 140</p><p>28046, Madrid</p><p>España</p>"
+
+msgid "direccion_betandeal_us"
+msgstr "<p>265 Le Jeune Road Suite</p><p>905 FL 33134 Coral Gables</p><p>Estados Unidos</p>"
+
+msgid "direccion_betandeal_br"
+msgstr "<p>Rua Dos Pinheiros</p><p>498 Pinheiros 05422-902 São Paulo</p><p>Brasil</p>"
+
+msgid "email_betandeal"
+msgstr "<p>support@betandeal.com</p>"
+
+msgid "error_empty_email"
+msgstr "Por favor ingrese un correo electrónico válido"
+
+
+msgid "titulo_awards"
+msgstr "BETANDEAL AWARDS, premiamos a los mejores Tipsters de Apuestas deportivas"
+
+msgid "description_awards"
+msgstr "Betandeal presenta los primeros Premios de Tipsters de la Historia reconociendo a los mejores influencers del mundo de las apuestas deportivas"
+
+msgid "español"
+msgstr "Español"
+
+msgid "ingles"
+msgstr "Inglés"
+
+msgid "portugues"
+msgstr "Portugués"
+
+msgid "italiano"
+msgstr "Italiano"
+
+msgid "language"
+msgstr "Español"
+
+msgid "inicio_awards"
+msgstr "Inicio"
+
+msgid "evento_awards"
+msgstr "Evento"
+
+msgid "categorías_awards"
+msgstr "Categorías"
+
+msgid "jurado_awards"
+msgstr "Jurado"
+
+msgid "ganadores_awards"
+msgstr "Ganadores"
+
+msgid "video_awards"
+msgstr "Vídeo"
+
+msgid "texto_1_awards"
+msgstr "¿Eres influencer?"
+
+msgid "texto_2_awards"
+msgstr "Reconociendo a los mejores influencers del mundo de las apuestas deportivas"
+
+msgid "texto_3_awards"
+msgstr "¡Inscríbete ahora!"
+
+msgid "texto_4_awards"
+msgstr "EL EVENTO"
+
+msgid "texto_5_awards"
+msgstr "En Enero, Betandeal organizará el primer evento para premiar a los"
+
+msgid "texto_6_awards"
+msgstr "mejores creadores de contenido iGaming del mundo"
+
+msgid "texto_7_awards"
+msgstr "Únete a nosotros y celebra el talento y la innovación en el ámbito de las apuestas deportivas"
+
+msgid "texto_8_awards"
+msgstr "Enero"
+
+msgid "texto_9_awards"
+msgstr "Ver en mapa"
+
+msgid "texto_10_awards"
+msgstr "Cómo llegar"
+
+msgid "texto_11_awards"
+msgstr "Categorías de los Premios​"
+
+msgid "texto_awards_categorias_1"
+msgstr "En esta ocasión, se premiará el"
+
+msgid "texto_awards_categorias_2"
+msgstr "talento"
+
+msgid "texto_awards_categorias_3"
+msgstr "la"
+
+msgid "texto_awards_categorias_4"
+msgstr "creatividad"
+
+msgid "texto_awards_categorias_5"
+msgstr "y el"
+
+msgid "texto_awards_categorias_6"
+msgstr "esfuerzo"
+
+msgid "texto_awards_categorias_7"
+msgstr "de aquellos que han sobresalido en diferentes ámbitos"
+
+msgid "texto_awards_categorias_8"
+msgstr "Puedes participar en"
+
+msgid "texto_awards_categorias_9"
+msgstr "varias categorías"
+
+msgid "texto_awards_categorias_10"
+msgstr "para ello tendrás que enviar un"
+
+msgid "texto_awards_categorias_11"
+msgstr "formulario por inscripción"
+
+msgid "texto_12_awards"
+msgstr "JURADO"
+
+msgid "texto_13_awards"
+msgstr "¡En breve revelaremos todos los detalles sobre nuestro jurado!​"
+
+msgid "texto_14_awards"
+msgstr "Nombre Tipster"
+
+msgid "texto_15_awards"
+msgstr "VÍDEO PRESENTACIÓN"
+
+msgid "texto_16_awards"
+msgstr "¡No te pierdas el vídeo presentación del evento del año!"
+
+msgid "texto_ctafinal_1"
+msgstr "¡No te pierdas la oportunidad de ser reconocido como"
+
+msgid "texto_ctafinal_2"
+msgstr " el mejor creador de contenido iGaming de 2025 "
+
+msgid "texto_ctafinal_3"
+msgstr "! Inscríbete ahora y muestra tu talento"
+
+msgid "texto_form_inscripcion_1"
+msgstr "Inscripción a los Premios"
+
+msgid "texto_form_inscripcion_2"
+msgstr "Estás a un paso de participar en los BETANDEAL AWARDS 2024"
+
+msgid "texto_form_inscripcion_3"
+msgstr "Selecciona una categoría"
+
+msgid "texto_form_inscripcion_4"
+msgstr "Descripción, explica brevemente por qué mereces ser premiado"
+
+msgid "texto_form_inscripcion_5"
+msgstr "Puedes adjuntar un vídeo detallado"
+
+msgid "texto_form_inscripcion_6"
+msgstr "Acepto las"
+
+msgid "texto_form_inscripcion_7"
+msgstr "Normas de participación"
+
+msgid "texto_form_inscripcion_8"
+msgstr "Enviar formulario"
+
+msgid "cancel_placeholder"
+msgstr "Cancelar"
+
+msgid "close_placeholder"
+msgstr "Cerrar"
+
+msgid "texto_form_inscripcion_enviado_1"
+msgstr "Ya estás inscrito en la categoría"
+
+msgid "texto_form_inscripcion_enviado_2"
+msgstr "Te hemos enviado un email de confirmación con todos los detalles de tu inscripción.​ No dudes en contactar con nosotros si tienes alguna pregunta en: info.awards@betandeal.com"
+
+msgid "texto_form_inscripcion_enviado_3"
+msgstr "¡Mucha suerte!"
+
+msgid "texto_form_inscripcion_enviado_4"
+msgstr "Si quieres participar en alguna otra categoría puedes enviar otra inscripción."
+
+msgid "texto_form_inscripcion_enviado_5"
+msgstr "Inscribirme en otra categoría"
+
+msgid "texto_form_error_1"
+msgstr "Ya estás registrado en esta categoría"
+
+msgid "texto_form_error_2"
+msgstr "El archivo supera el tamaño máximo permitido"
+
+msgid "texto_form_error_3"
+msgstr "Hay campos con sin completar o error de formato"
+
+msgid "texto_form_error_4"
+msgstr "Solo usuarios registrados en Betandeal podrán inscribirse"
+
+msgid "texto_form_error_5"
+msgstr "El formato del vídeo no está permitido"
+
+msgid "form_placeholder_video"
+msgstr "Seleccionar archivo"
+
+msgid "winners_awards_main_title"
+msgstr "SELECCIÓN DE GANADORES"
+
+msgid "winners_awards_subtitle1"
+msgstr "¿Cómo se seleccionará a los ganadores?"
+
+msgid "winners_awards_subtitle2"
+msgstr "El proceso consta de 3 fases"
+
+msgid "winners_awards_1a"
+msgstr "Público"
+
+msgid "winners_awards_1b"
+msgstr "todas las personas que ya estén registradas en Betandeal podrán votar a los candidatos que hayan presentado su candidatura hasta el 30 de noviembre"
+
+msgid "winners_awards_2a"
+msgstr "Nominados"
+
+msgid "winners_awards_2b"
+msgstr "los 3 candidatos más votados por categoría se convertirán en los nominados finalistas"
+
+msgid "winners_awards_3a"
+msgstr "Ganadores"
+
+msgid "winners_awards_3b"
+msgstr "el jurado votará a su favorito y el ganador recibirá el galardón en la gala de los Premios Betandeal el 31 de enero de 2025 en los Cines Callao de Madrid. Puedes votar por tus favoritos a través de la web de"
+
+msgid "titulo_avisolegal"
+msgstr "ADVERTENCIA LEGAL"
+
+msgid "content_avisolegal"
+msgstr "<p>BETANDEAL S.L. (BETANDEAL) respeta su privacidad y reconoce la importancia de proteger la privacidad de sus datos personales. Hemos establecido políticas estrictas y medidas de seguridad para proteger la información que nos proporciona. Si realizamos un cambio material en la forma en que recopilamos, utilizamos y/o compartimos su información personal, publicaremos un aviso en nuestro sitio web y / o enviaremos un correo electrónico a los usuarios que hayan proporcionado una dirección de correo electrónico. Si su información de identificación personal cambia (dirección de correo electrónico o código postal), o si ya no desea acceder a nuestro sitio web, le proporcionaremos una manera de corregir, actualizar o eliminar los datos personales que nos ha proporcionado.</p><p>Si tiene su residencia en la UE:</br>De conformidad con el Reglamento UE 2016/679 del Parlamento y del Consejo de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos, le informamos que el responsable del tratamiento de datos es BETANDEAL, con domicilio a efectos de notificaciones en Paseo de la castellana 140, 7a Madrid (28026) ESPAÑA, informa que la empresa trata la información que nos proporciona con el fin de mantener la relación comercial que nos une, en todo lo relativo al marketing de afiliación. Así, los datos que nos proporcione son almacenados bajo la confidencialidad, las medidas de seguridad legalmente establecidas y no serán cedidos ni compartidos con otras empresas o entidades ajenas. Además, solo serán almacenados durante la relación comercial y los años durante los que se necesite conservar la misma por obligación fiscal y mercantil. También podrán ser almacenados durante el plazo en el cual usted desee recibir información por parte de la empresa. Desde BETANDEAL le informamos que este correo electrónico y cualquier documento anexo pueden contener información confidencial, privilegiada o de datos de carácter personal dirigida a su destinatario. En caso de haberlo recibido por error, por favor notifique inmediatamente esta circunstancia al remitente mediante su reenvío a la misma dirección remitente y no lo divulgue, copie o entregue a nadie. El remitente no garantiza la integridad ni la seguridad de este correo, ni se responsabiliza de posibles perjuicios derivados de la captura, virus o cualesquiera otras manipulaciones de terceras personas. BETANDEAL informa de que en cualquier momento podrá ejercer los derechos de acceso a sus datos, rectificación de aquellos que considere inexactos, cancelación u oposición, así como el derecho al olvido y a la portabilidad de sus datos, poniéndose en contacto directamente con BETANDEAL, por los siguientes medios: legal@betandeal.com</p>"
+
+msgid "normas_text_01"
+msgstr "BASES DE  LA GALA"
+
+msgid "normas_text_02"
+msgstr "1.- CONDICIONES  DE CARÁCTER GENERAL."
+
+msgid "normas_text_03"
+msgstr "La  empresa «BETANDEAL, S.L.» con domicilio en 49028 Zamora, C/ Puentico  núm. 9, piso 3º B y NIF B49294242 (en adelante, «BETANDEAL»), ha organizado  una gala de premios (en adelante, el evento/la gala), denominada 'BETANDEAL AWARDS 2024', dirigida a los tipsters con cuenta abierta en 'BETANDEAL'."
+
+msgid "normas_text_04"
+msgstr "El presente evento es gratuito y se regirá por las presentes bases. "
+
+msgid "normas_text_04_01"
+msgstr "Todos  los participantes en el evento, por el simple hecho de la participación,  aceptan las presentes bases y las normas que rigen su procedimiento."
+
+msgid "normas_text_04_02"
+msgstr "Para  cualquier tipo de comunicación relacionada con las presentes bases, se adjunta  el siguiente correo electrónico de la empresa «BETANDEAL» a los efectos  de contacto y de notificaciones: "
+
+msgid "normas_text_05"
+msgstr "2.- ÁMBITO TERRITORIAL DEL EVENTO."
+
+msgid "normas_text_06"
+msgstr "El evento se desarrollará en el ámbito del territorio español."
+
+msgid "normas_text_07"
+msgstr "3.- DURACIÓN DEL EVENTO."
+
+msgid "normas_text_08"
+msgstr "La duración del evento será del día 12/09/2024 al 31/01/2025."
+
+msgid "normas_text_09"
+msgstr "4.- PERSONAS LEGITIMADAS PARA PARTICIPAR EN LA GALA."
+
+msgid "normas_text_10"
+msgstr "Podrán participar en el presente evento, todos aquellos tipsters, mayores de edad residentes en España, Brasil, Colombia y México que estén registrados y tengan cuenta abierta en «BETANDEAL»."
+
+msgid "normas_text_11"
+msgstr "5.- OPERATIVA DEL EVENTO."
+
+msgid "normas_text_12"
+msgstr "Resumen del Cronograma del Evento:"
+
+msgid "normas_text_12_01"
+msgstr "- Del día 12 de septiembre 2024 al día 30 de noviembre 2024: Apertura del período de inscripción de los tipster (pronosticadores)  en el evento, a través del sitio web "
+
+msgid "normas_text_12_01_01"
+msgstr "Las inscripciones permanecerán abiertas desde las  00:00 h del 12 de septiembre del 2024 hasta las 23:59 h del 30 de noviembre 2024."
+
+msgid "normas_text_12_02"
+msgstr "- Podrás votar a tu creador de contenido favorito hasta mediados de enero. Las votaciones se llevarán a cabo a través de la  plataforma de «BETANDEAL», por lo cual, únicamente podrán participar  aquellos tipster (pronosticadores) que cuenten con una cuenta activa. Los tipster  (pronosticadores) elegirán a los nominados de entre todos los inscritos en las siguientes categorías:"
+
+msgid "normas_text_12_03"
+msgstr "- Mediados de enero: Anuncio de los tres (3)  finalistas en cada categoría, quienes serán seleccionados en función del número  de votos recibidos."
+
+msgid "normas_text_12_04"
+msgstr "- El 31 de enero 2025: Anuncio de los ganadores  finales durante el evento presencial. Estos ganadores serán determinados por un  jurado compuesto por cinco (5) tipster (pronosticadores), designados por «BETANDEAL», de entre los principales mercados en  los cuales la sociedad se encuentra presente y, en concreto, elegidos entre los  siguientes países: España, Brasil, Colombia y México."
+
+msgid "normas_text_12_05"
+msgstr "Se podrán realizar nominaciones en tantas  categorías como se desee. Sin embargo, cada participante podrá emitir un (1)  solo voto a través de la plataforma, el cual no podrá ser modificado una vez  registrado."
+
+msgid "normas_text_13"
+msgstr "6.- REGALO POR SORTEO."
+
+msgid "normas_text_14"
+msgstr "Se entregará un trofeo al ganador en cada una de las categorías indicadas."
+
+msgid "normas_text_14_01"
+msgstr "Dichos  premios no podrán remitirse a otra persona distinta de los ganadores ni  sustituirse por su valor en metálico."
+
+msgid "normas_text_14_02"
+msgstr "A los  premios de la presente Promoción, no le será de aplicación la Ley 35/2006 de 28  de noviembre del Impuesto sobre la Renta de las Personas Físicas (LIRPF); el  Real Decreto 439/2007, de 30 de marzo, por el que se aprueba el Reglamento de  Impuesto de la Renta de las Personas Físicas (RIRPF); el Real Decreto  1614/2011, de 14 de noviembre, por el que se desarrolla la Ley 13/2011, de 27  de mayo, de regulación del juego, en lo relativo a licencias, autorizaciones y  registros del juego, habida cuenta que los premios otorgados en cada una de las  categorías no superan la cantidad de 300,00.-€."
+
+msgid "normas_text_15"
+msgstr "7.- ENTREGA DEL PREMIO."
+
+msgid "normas_text_16"
+msgstr "A los ganadores se les contactará a través de la web "
+
+msgid "normas_text_16_01"
+msgstr "en la que ha  participado, para coordinar la entrega de los premios, siendo el coste de envío  a cargo de «BETANDEAL»."
+
+msgid "normas_text_17"
+msgstr "8.- RESERVAS Y LIMITACIONES."
+
+msgid "normas_text_17_01"
+msgstr "Si «BETANDEAL» tuviera motivos razonables para creer que un Participante ha infringido cualquiera de los términos y condiciones previstos  en las presentes Bases o considerase una participación como abusiva o  fraudulenta, se reserva el derecho a excluirlo de la participación en el evento."
+
+msgid "normas_text_17_02"
+msgstr "«BETANDEAL» no asumirá responsabilidad alguna derivada de los daños y/o perjuicios de  cualquier naturaleza, que pudieran sufrir los participantes en el evento y/o un  tercero, y que vengan derivados de la falta de disponibilidad, mantenimiento,  fiabilidad o efectivo funcionamiento de la página web por motivos imputables a  terceros. En este sentido, «BETANDEAL» excluye, en la máxima medida permitida por  la legislación vigente, cualquier responsabilidad que pudiera derivarse de los  daños y perjuicios de cualquier naturaleza que pudiera sufrir el usuario y/o un  tercero, que vengan derivados de la falta de disponibilidad, continuidad o mal  funcionamiento de los mencionados sitios web, y que pudieran afectar o impedir  la participación en el presente evento, su normal desarrollo o la correcta  transmisión de los contenidos."
+
+msgid "normas_text_17_03"
+msgstr "En el supuesto de que «BETANDEAL» o cualquier otra empresa ligada  profesionalmente a la presente gala, detecten cualquier tipo de anomalía, o  sospechen que un participante está impidiendo el funcionamiento o desarrollo de  la gala, ya sea alterando ilícitamente su registro, falseando su participación,  utilizando información no autorizada mediante cualquier procedimiento técnico o  informático, o llevando a cabo un uso de los contenidos puestos a disposición  que resulte inadecuado, ilícito o contrario a la normativa vigente y/o a las  presentes Bases, se reserva el derecho de eliminar de forma unilateral la  inscripción y participación de dicho usuario a la gala, así como a perseguir  dichas conductas, con todos los medios que el Ordenamiento Jurídico pone a su  disposición."
+
+msgid "normas_text_17_04"
+msgstr "La participación en la gala está limitada a una única participación por  persona. En el caso de detectarse más de una participación de la misma persona  podrán considerarse nulas las sucesivas participaciones de un mismo usuario a  los efectos del presente evento."
+
+msgid "normas_text_17_05"
+msgstr "Si un participante indicara datos incorrectos, incompletos o falsos quedará  excluido de la promoción considerándose nula dicha participación."
+
+msgid "normas_text_17_06"
+msgstr "«BETANDEAL» se reserva el derecho a efectuar, en cualquier momento, cambios que redunden en  el buen fin de la gala/evento."
+
+msgid "normas_text_18"
+msgstr "9.- PROTECCIÓN DE LOS DATOS."
+
+msgid "normas_text_19_01"
+msgstr "Los datos de los participantes en la gala se tratarán conforme a la Ley  Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos  digitales (LOPD) y al Reglamento General de Protección de Datos (RGPD), de 25  de mayo del 2018."
+
+msgid "normas_text_19_02"
+msgstr "Estos datos se integrarán en el fichero automatizado y cuyo responsable y  titular es «BETANDEAL», quien los tratará automatizadamente (i) con  la finalidad de gestionar el desarrollo de la gala y la entrega de los premios  objeto del evento y/o (ii) con fines de publicidad o prospección comercial de  los productos, servicios y actividades de «BETANDEAL», incluidas las comunicaciones comerciales  por medios electrónicos (SMS, e-mail, etc.)"
+
+msgid "normas_text_19_03"
+msgstr "«BETANDEAL»  establecerá las medidas de índole técnica y organizativas necesarias para  garantizar la seguridad que deben reunir los ficheros automatizados, los  centros de tratamiento, locales, equipos, sistemas, programas y personas que  intervengan en el tratamiento automatizado de los datos de carácter personal en  la forma legal y reglamentariamente prevista."
+
+msgid "normas_text_19_04"
+msgstr "Los participantes podrán ejercitar en cualquier momento, los derechos de  acceso, rectificación, oposición, supresión «derecho al olvido», portabilidad,  limitación del tratamiento y de no ser objeto de  decisiones individualizadas, previstos en la  RGPD. A tal efecto, deberán dirigir una solicitud por escrito a la siguiente  dirección de email: "
+
+msgid "normas_text_19_04_01"
+msgstr " indicando la petición en que se concreta la  solicitud."
+
+msgid "normas_text_19_05"
+msgstr "La indicación de los datos personales de los ganadores tendrá carácter  obligatorio para la participación en el evento, así como para la gestión del  Premio. Cualquier comunicación falsa de datos personales dará derecho a los  organizadores del evento a descalificar al ganador y poder disponer del correspondiente  premio."
+
+msgid "normas_text_19_06"
+msgstr "Los participantes serán los únicos responsables de la veracidad de los datos  introducidos, y «BETANDEAL» no será responsable de las posibles  falsedades o inexactitudes de los mismos."
+
+msgid "normas_text_20"
+msgstr "10.- DERECHOS DE IMAGEN."
+
+msgid "normas_text_20_01"
+msgstr "De  conformidad con la Ley Orgánica 1/1982, de 5 de mayo, de protección civil del  derecho al honor, a la intimidad personal y familiar y a la propia imagen, el  premiado cede a «BETANDEAL» los derechos sobre el nombre, los apellidos,  la dirección e imagen, en cualquier actividad publicitaria y/o promocional que  esté relacionada con este evento y/o gala y, en especial, con el disfrute de  los premios que se deriven de su participación en esta promoción a través de  cualquier medio de reproducción tanto electrónico (internet, y otros análogos) como  convencional (papel, fotografías y otros análogos), en cualquier medio o  sistema técnico o tecnológico existente en la actualidad o que se encuentre en  fase de investigación y desarrollo (incluyendo a título de ejemplo sin carácter  limitativo la explotación de internet, la explotación televisiva en cualquier  forma) sin que dichas actividades les confieran derecho de remuneración o  beneficio alguno con excepción hecha de la entrega del premio ganado conforme a  estas Bases."
+
+msgid "normas_text_20_02"
+msgstr "El  premiado cede gratuitamente a «BETANDEAL» los derechos de imagen que  pudieran corresponderles como consecuencia de la emisión y/o grabación  audiovisual, así como los reportajes gráficos, individual o colectivos que se  realice y autorizan de forma expresa e irrevocable a «BETANDEAL» a  conservar las mencionadas grabaciones e imágenes gráficas para ser utilizadas  total o parcialmente con fines publicitarios o promocionales en los medios que  considere conveniente o en cualquier dominio en internet de «BETANDEAL»,  o redes de las que forme parte."
+
+msgid "normas_text_21"
+msgstr "11.- DEPÓSITO DE BASES."
+
+msgid "normas_text_22"
+msgstr "Las  bases de la gala estarán a disposición de cualquier persona que desee  consultarlas, en la siguiente página web: "
+
+msgid "normas_text_23"
+msgstr "12.- ACEPTACIÓN DE BASES."
+
+msgid "normas_text_23_01"
+msgstr "La participación en la gala supone la aceptación expresa y sin reservas de las presentes  bases."
+
+msgid "normas_text_23_02"
+msgstr "El incumplimiento de cualquiera de estas bases por parte del participante  determinará su inmediata descalificación."
+
+msgid "normas_text_23_03"
+msgstr "Las presentes Bases de la Promoción se rigen por la Legislación española."
+
+msgid "normas_text_23_04"
+msgstr "Todo litigio, discrepancia, cuestión o reclamación resultantes de la ejecución  o interpretación de estas Bases será resuelta por los Juzgados y Tribunales de  la ciudad de Madrid a la que se someten las partes, con renuncia a cualquier  otro que les pudiera corresponder."
+
+msgid "normas_text_23_05"
+msgstr "«BETANDEAL»  se reserva el derecho a realizar modificaciones o añadir anexos sobre las  presentes bases en relación con su mecánica y premios, siempre que las mismas  estén justificadas o no perjudiquen a los participantes, se realicen dentro del  período de vigencia del evento, y se comuniquen a éstos debidamente."
+
+msgid "normas_text_23_06"
+msgstr "En  Madrid, a 12/09/2024"
+
+msgid "home_title_affiliates"
+msgstr "Expertos en marketing de afiliación en el sector iGaming."
+
+msgid "home_title_affiliates2"
+msgstr "Queremos ser tu socio en la monetización a través de las apuestas deportivas, casino y póker."
+
+msgid "home_title2_affiliates"
+msgstr "Recibe comisiones haciendo lo que más te gusta​"
+
+msgid "sign_up_affiliates"
+msgstr "REGÍSTRATE​ GRATIS​​"
+
+msgid "home_title_bookmakers_affiliates"
+msgstr "Trabajamos con las mejores casas de apuestas"
+
+msgid "home_description_bookmakers_affiliates"
+msgstr "Casas de apuestas deportivas con mejores valoraciones​"
+
+msgid "home_description_2_bookmakers_affiliates"
+msgstr "Descubre todas las campañas que tenemos activas y empieza a ganar comisiones."
+
+msgid "home_title_commisions_affiliates"
+msgstr "Genera comisiones con tus canales online​"
+
+msgid "home_title_2_commisions_affiliates"
+msgstr "Elige la campaña en la que seas experto y crea contenido."
+
+msgid "home_details_rules_commisions_affiliates"
+msgstr "Tu audiencia, tus reglas. Nosotros te damos las herramientas para que monetices de la mejor manera.​"
+
+msgid "home_details_commisions_affiliates"
+msgstr "Somos tu socio estratégico en la monetización de tu audiencia a través de las apuestas deportivas, casino y póker.​"
+
+msgid "home_campaign_sports_affiliates"
+msgstr "CAMPAÑAS​ DEPORTIVAS​"
+
+msgid "home_campaign_casino_affiliates"
+msgstr "CAMPAÑAS​ DE CASINO​​"
+
+msgid "home_campaign_poker_affiliates"
+msgstr "CAMPAÑAS​ DE PÓKER​​​"
+
+msgid "home_title_advantages_affiliates"
+msgstr "Ventajas de trabajar con BETANDEAL​"
+
+msgid "home_description_advantages_affiliates1"
+msgstr "Empieza a trabajar con nosotros y conoce todos ​"
+
+msgid "home_description_advantages_affiliates2"
+msgstr "los beneficios ​"
+
+msgid "home_description_advantages_affiliates3"
+msgstr "que te ofrecemos.​"
+
+msgid "home_div1_title_advantages_affiliates"
+msgstr "Gran cantidad de "
+
+msgid "campaigns"
+msgstr "campañas"
+
+msgid "home_div1_description1_advantages_affiliates"
+msgstr "Trabaja con una amplia variedad de casas de apuestas."
+
+msgid "home_div1_description2_advantages_affiliates"
+msgstr "¡Elige las campañas que más te gusten y empieza a promocionarlas!​"
+
+msgid "pagos"
+msgstr "Pagos"
+
+msgid "home_div2_title1_advantages_affiliates"
+msgstr "rápidos y sencillos"
+
+msgid "home_div2_description_advantages_affiliates"
+msgstr "Recibir pagos de todo el mundo de manera fácil y rápida.​"
+
+msgid "soporte"
+msgstr "Soporte​"
+
+msgid "dedicado"
+msgstr "dedicado"
+
+msgid "home_div3_description_advantages_affiliates"
+msgstr "Cuenta con un equipo de soporte 24/7 para ayudarte a maximizar tus resultados.​"
+
+msgid "home_blue_div_affiliates"
+msgstr "Crea tu cuenta y comienza a ganar hoy mismo.​"
+
+msgid "home_talent_title_affiliates"
+msgstr "Miles de personas con el mismo talento que tú, trabajan ya con nosotros​.​"
+
+msgid "home_talent_question_affiliates"
+msgstr "¿Qué dicen de BETANDEAL?​​"
+
+msgid "home_talent_description_affiliates"
+msgstr "Betandeal Affiliates trabaja con creadores de contenido de todo el mundo.​​"
+
+msgid "home_talent_opinion_affiliates"
+msgstr "Descubre qué opinan de nosotros.​​"
+
+msgid "home_gamechanger_title_affiliates"
+msgstr "¡Conviértete en Gamechanger! ​"
+
+msgid "home_start_title_affiliates"
+msgstr "​¿Cómo empezar?​"
+
+msgid "registrate_no_caps"
+msgstr "regístrate"
+
+msgid "registrate"
+msgstr "Regístrate"
+
+msgid "home_description_register_affiliates"
+msgstr "Crea tu perfil de manera gratuita en nuestra web."
+
+msgid "promociona_caps"
+msgstr "PROMOCIONA​"
+
+msgid "home_description_promote_affiliates"
+msgstr "Elige la campaña que más te guste."
+
+msgid "gana_caps"
+msgstr "GANA"
+
+msgid "home_description_win_affiliates"
+msgstr "Comparte tus links y obtén comisiones por cada venta."
+
+msgid "home_description_gamechanger_affiliates"
+msgstr "Regístrate ahora y accede a las mejores comisiones del mercado."
+
+msgid "home_description2_gamechanger_affiliates"
+msgstr "Con Betandeal, tu éxito es nuestra prioridad."
+
+msgid "home_startnow_gamechanger_affiliates"
+msgstr "EMPIEZA AHORA"
+
+msgid "home_expert_description_affiliates"
+msgstr "Te ofrecemos las mejores casas junto con las mejores herramientas especializadas para creadores de contenido para que puedas sacar el mejor rendimiento a tu canal."
+
+msgid "home_expert_title_affiliates"
+msgstr "Afiliados de apuestas deportivas"
+
+msgid "home_expert_title2_affiliates"
+msgstr "Expertos en marketing de afiliación en el sector iGaming"
+
+msgid "home_expert_description2_affiliates"
+msgstr "Podrás ofrecer a tu audiencia las mejores promociones para hacer de tu canal la mejor herramienta para triunfar.​"
+
+msgid "home_expert_description3_affiliates"
+msgstr "No dudes en visitar todas las Casas de Apuestas que tenemos disponibles.​"
+
+msgid "home_faqs_title_affiliates"
+msgstr "¿Tienes dudas?​"
+
+msgid "home_faqs_title2_affiliates"
+msgstr "Aquí te dejamos las preguntas más frecuentes de nuestros usuarios:​"
+
+msgid "home_faqs_description_affiliates"
+msgstr "Si tienes dudas sobre qué es el marketing de afiliación y cómo trabajamos en Betandeal, aquí encontrarás todas las respuestas:​"
+
+msgid "home_faqs_question1_affiliates"
+msgstr "¿Qué es el marketing de afiliación?​"
+
+msgid "home_faqs_question1_answer_affiliates"
+msgstr "El marketing de afiliación es un modelo de negocio en el que los afiliados promueven productos o servicios de una empresa a cambio de una comisión. En Betandeal, los afiliados utilizan enlaces personalizados, banners u otras herramientas de promoción para dirigir tráfico hacia casas de apuestas. Cada vez que una persona realiza una acción específica (como registrarse o hacer un depósito) a través de estos enlaces, el afiliado gana una comisión.​​"
+
+msgid "home_faqs_question2_affiliates"
+msgstr "¿Qué es la afiliación de apuestas deportivas?​"
+
+msgid "home_faqs_question2_answer_affiliates"
+msgstr "La afiliación de apuestas deportivas es una rama del marketing de afiliación enfocada en promocionar sitios de apuestas deportivas. Los afiliados refieren a jugadores interesados en apostar en eventos deportivos a plataformas de apuestas, y ganan comisiones cuando los jugadores que han referido se registran y realizan apuestas. En Betandeal, ofrecemos a nuestros afiliados comisiones por cada jugador que refieran a nuestros socios de apuestas deportivas, casino y póker.​​"
+
+msgid "home_faqs_question3_affiliates"
+msgstr "¿Hay algún coste por registrarse como afiliado?​"
+
+msgid "home_faqs_question3_answer_affiliates"
+msgstr "No, unirse al programa de afiliados de Betandeal es completamente gratuito. No hay ningún coste por registrarse ni por utilizar nuestras herramientas. Puedes comenzar a promocionar nuestras ofertas y ganar comisiones sin tener que invertir dinero por adelantado.​"
+
+msgid "home_faqs_question4_affiliates"
+msgstr "¿Puedo ser afiliado si no tengo mi propia página web?​"
+
+msgid "home_faqs_question4_answer_affiliates"
+msgstr "Sí, puedes ser afiliado de Betandeal incluso si no tienes tu propia página web. Muchos de nuestros afiliados promocionan nuestras ofertas en sus redes sociales, canales de Telegram, o blogs. Todo lo que necesitas es una plataforma donde puedas compartir nuestros enlaces de afiliado y atraer a una audiencia interesada en apuestas deportivas, casino o póker.​"
+
+msgid "home_faqs_all_affiliates"
+msgstr "Ver todas las preguntas frecuentes​"
+
+msgid "footer1_affiliates"
+msgstr "Si necesitas ayuda, no dudes en "
+
+msgid "footer1_href_affiliates"
+msgstr "contactarnos​​"
+
+msgid "footer_description1_affiliates"
+msgstr "Si no encuentras lo que buscas, nuestros ​"
+
+msgid "footer1_team_affiliates"
+msgstr "equipos"
+
+msgid "footer_description2_affiliates"
+msgstr "están disponibles para resolver cualquier consulta que puedas tener sobre BETANDEAL.​"
+
+msgid "footer_map_affiliates"
+msgstr "Mapa del sitio​"
+
+msgid "footer_map_web_affiliates"
+msgstr "Web BETANDEAL​"
+
+msgid "footer_map_empresa_affiliates"
+msgstr "Empresa​"
+
+msgid "footer_map_partners_affiliates"
+msgstr "Partners​"
+
+msgid "footer_map_news_affiliates"
+msgstr "Noticias"
+
+msgid "footer_map_contact_affiliates"
+msgstr "Contacto"
+
+msgid "company_about_title_affiliates"
+msgstr "Conoce un poco más sobre Betandeal"
+
+msgid "company_about_title2_affiliates"
+msgstr "Nuestro Viaje hacia la Innovación en el iGaming"
+
+msgid "company_about_description_affiliates"
+msgstr "Desde nuestra fundación en 2016, Betandeal ha experimentado un gran crecimiento, expandiéndose a más de 20 mercados y estableciendo oficinas en Madrid, Ceuta, Sao Paulo, Bogotá y Miami"
+
+msgid "company_about_description2_affiliates"
+msgstr "Somos los Gamechangers del sector del iGaming, dedicados a establecer nuevas reglas y transformar la industria"
+
+msgid "company_about_description3_affiliates"
+msgstr "Explora el dinámico ecosistema de Betandeal y descubre cómo cada uno de nuestros productos está diseñado para ofrecer soluciones innovadoras y efectivas en el sector del iGaming"
+
+msgid "company_about_description_premiumpay_affiliates"
+msgstr "Premiumpay nace como solución para aquellos que buscan monetizar su contenido digital de manera eficiente. Esta plataforma permite a sus usuarios ofrecer servicios online a su comunidad utilizando sistemas de pago diseñados para ajustarse a las particularidades de los mercados clave. Proporciona una experiencia sencilla para que los creadores gestionen pagos de forma segura y rápida"
+
+msgid "visitar"
+msgstr "Visitar"
+
+msgid "company_about_description_gainblers_affiliates"
+msgstr "Gainblers es un portal dedicado a proporcionar información sobre las mejores casas de apuestas, casinos y póker online, junto con una activa comunidad de pronosticadores deportivos. Esta comunidad, que se extiende a redes sociales, ofrece pronósticos y compite en la Tipster League, una competición mensual que premia a los mejores con premios en efectivo y criptomonedas, como ETH"
+
+msgid "company_about_description_link2play_affiliates"
+msgstr "Link2Play es una herramienta especializada en la creación y administración de campañas de marketing digital, optimizada para la distribución mediante enlaces personalizados. Con su avanzada tecnología de geolocalización, asegura que las campañas cumplan con las regulaciones locales en cada país o estado, ofreciendo una solución eficaz para promocionar contenidos globalmente"
+
+msgid "company_about_description_bdealgames_affiliates"
+msgstr "Betandeal Games es un proveedor B2B que se especializa en crear plataformas innovadoras para casinos online. Destacando como una marca pionera en la industria, se enfoca en el desarrollo de soluciones tecnológicas que impulsan el crecimiento rápido de sus socios en el mercado, garantizando una experiencia de juego única y personalizada"
+
+msgid "company_about_description_xbetters_affiliates"
+msgstr "XBetters es una exclusiva colección de 3,000 NFTs que otorga a sus propietarios acceso a beneficios únicos dentro del mundo del iGaming y las apuestas deportivas. Con este proyecto, Betandeal explora la tecnología blockchain y sus aplicaciones en el sector, con la intención de adentrarse en el ecosistema web3 y descubrir nuevas oportunidades de innovación."
+
+msgid "blue_div_how_to_be_affiliate_title_affiliates"
+msgstr "¿Cómo ser afiliado de Betandeal?"
+
+msgid "blue_div_how_to_be_affiliate_description1_affiliates"
+msgstr "Unirte a Betandeal es rápido y sencillo"
+
+msgid "blue_div_how_to_be_affiliate_description2_affiliates"
+msgstr "Completa el formulario de registro y comienza a ganar hoy mismo"
+
+msgid "company_about_affiliates_title1_affiliates"
+msgstr "Ahora que ya nos conoces, ¿quieres ser Afiliado de Betandeal?"
+
+msgid "company_about_affiliates_title2_affiliates"
+msgstr "Nuestro viaje hacia la innovación en el iGaming"
+
+msgid "company_about_affiliates_description1_affiliates"
+msgstr "Betandeal, es el socio perfecto para monetizar tu audiencia a través de las apuestas deportivas, casino y póker"
+
+msgid "company_about_affiliates_description2_affiliates"
+msgstr "Nuestro programa de afiliados está diseñado para creadores de contenido que buscan maximizar sus ingresos"
+
+msgid "company_about_affiliates_description3_affiliates"
+msgstr "Conviértete en nuestro afiliado y comienza a ganar comisiones por cada jugador que refieras"
+
+msgid "company_about_affiliates_bluediv_small_affiliates"
+msgstr "Regístrate, solamente te llevará 2 minutos"
+
+msgid "company_about_affiliates_questiontitle_affiliates"
+msgstr "¿Por qué ser afiliado de Betandeal?"
+
+msgid "company_about_affiliates_benefits_title_affiliates"
+msgstr "Beneficios destacados"
+
+msgid "campanias_title"
+msgstr "CAMPAÑAS​"
+
+msgid "company_about_affiliates_campaigns_description_affiliates"
+msgstr "Gran variedad de campañas exclusivas para elegir​"
+
+msgid "comisiones_title"
+msgstr "COMISIONES"
+
+msgid "company_about_affiliates_commisions_description_affiliates"
+msgstr "Obtén comisiones competitivas por cada jugador activo que refieras​"
+
+msgid "soporte_title"
+msgstr "SOPORTE"
+
+msgid "company_about_affiliates_support_description_affiliates"
+msgstr "Cuenta con un equipo de soporte 24/7 para ayudarte a maximizar tus resultados​"
+
+msgid "pagos_title"
+msgstr "PAGOS"
+
+msgid "company_about_affiliates_payments_description_affiliates"
+msgstr "Recibe tus comisiones de manera puntual. Elige entre diferentes opciones de pago​"
+
+msgid "datos_title"
+msgstr "DATOS"
+
+msgid "company_about_affiliates_data_description_affiliates"
+msgstr "Monitorea tu rendimiento en tiempo real con nuestro panel de control fácil de usar​"
+
+msgid "personalizacion_title"
+msgstr "PERSONALIZACIÓN"
+
+msgid "company_about_affiliates_customization_description_affiliates"
+msgstr "Personaliza y adapta a tus necesidades los enlaces de promoción​"
+
+msgid "company_about_affiliates_video_title_affiliates"
+msgstr "VÍDEO: ​CÓMO SER AFILIADO DE BETANDEAL​"
+
+msgid "company_about_affiliates_video_description_affiliates"
+msgstr "Hacerte afiliado de Betandeal es muy fácil. Te mostramos cómo conseguirlo paso a paso. ¡Dale al play!​"
+
+msgid "news_title_affiliates"
+msgstr " ¡No te pierdas las últimas noticias sobre afiliación!​​"
+
+msgid "news_description_affiliates"
+msgstr "​​"
+
+msgid "title_empresa"
+msgstr "​​Empresa"
+
+msgid "home"
+msgstr "Inicio"
+
+msgid "betandeal_affiliates"
+msgstr "Afiliación BETANDEAL"
+
+msgid "betandeal_affiliates_commisions"
+msgstr "Comisiones Afiliación"
+
+msgid "betandeal_affiliates_bookmakers"
+msgstr "Mejores Casas de Apuestas"
+
+msgid "accede"
+msgstr "Accede"
+
+msgid "contact_us_title_affiliates"
+msgstr ""
+
+msgid "contact_us_description_affiliates"
+msgstr "Si no encuentras la información que buscas, nuestros equipos están disponibles para resolver cualquier consulta que puedas tener"
+
+msgid "contact_us_question_affiliates"
+msgstr "¿Tienes dudas? Contacta con nosotros"
+
+msgid "check_privacy1"
+msgstr "He leído y acepto la"
+
+msgid "check_privacy2"
+msgstr "política de privacidad​"
+
+msgid "register_title_affiliates"
+msgstr "Registro de afiliados en Betandeal Affiliates"
+
+msgid "register_title2_affiliates"
+msgstr "Únete a Betandeal hoy y empieza a ganar comisiones con el marketing de afiliación"
+
+msgid "register_title3_affiliates"
+msgstr "Hazte afiliado"
+
+msgid "index_opinion1_affiliates"
+msgstr "Consideramos a Betandeal como nuestro mejor socio en la industria. Realmente valoramos la experiencia y los consejos que nos brinda el equipo. Sin duda, esta asociación nos ha ayudado mucho en nuestro crecimiento internacional"
+
+msgid "index_opinion2_affiliates"
+msgstr "Llevo trabajando con Betandeal cinco años y nunca me han fallado. Desde el principio, estoy mejorando las cifras con ellos mes a mes"
+
+msgid "index_opinion3_affiliates"
+msgstr "Betandeal me proporciona muchos acuerdos en todos los países en los que trabajo. Es importante mencionar la rápida actualización de las estadísticas en la plataforma. Espero mantener la colaboración y una asociación a largo plazo con ellos"
+
+msgid "index_opinion4_affiliates"
+msgstr "Son cuatro años con Betandeal, impulsados por la empresa. Servicios de marketing, dedicación y soporte de primer nivel. Extremadamente satisfecho con la asociación establecida."
+
+msgid "div_cookies_description_affiliates"
+msgstr "Hacemos uso de cookies propias y de terceros para proporcionar una mejor experiencia de usuario. Al seguir navegando entendemos que acepta nuestra"
+
+msgid "div_cookies_cookies_affiliates"
+msgstr "política de Cookies"
+
+msgid "div_cookies_accept_affiliates"
+msgstr "Acepto"
+
+msgid "top_bookmakers_title1_affiliates"
+msgstr "¿Cuáles son las mejores Casas de Apuestas para trabajar como Afiliado?"
+
+msgid "top_bookmakers_title2_affiliates"
+msgstr "Las mejores casas de apuestas recomendadas por Betandeal"
+
+msgid "top_bookmakers_description_affiliates"
+msgstr "En Betandeal, colaboramos con las mejores casas de apuestas del sector. Aquí te presentamos nuestro Top 10 de casas de apuestas que destacan por su calidad, confiabilidad y excelentes servicios"
+
+msgid "top_bookmakers_list_title_affiliates"
+msgstr "Lista de Casas de Apuestas"
+
+# Betfair
+
+msgid "bookmakers_betfair_description_affiliates"
+msgstr "Betfair es una de las casas de apuestas más grandes y reconocidas del mundo. Con una plataforma de intercambio única, permite a los usuarios apostar entre ellos, obteniendo mejores cuotas"
+
+msgid "bookmakers_advantages_affiliates"
+msgstr "Ventajas"
+
+msgid "bookmakers_betfair_advantages1_affiliates"
+msgstr "Amplia variedad de mercados y deportes"
+
+msgid "bookmakers_betfair_advantages2_affiliates"
+msgstr "Función de Cash Out"
+
+msgid "bookmakers_betfair_advantages3_affiliates"
+msgstr "Ofertas y promociones regulares"
+
+msgid "bookmakers_betfair_advantages4_affiliates"
+msgstr "Mercados: Global, con presencia fuerte en Europa y América Latina"
+
+# Betway
+
+msgid "bookmakers_betway_description_affiliates"
+msgstr "Betway es conocida por su plataforma intuitiva y su enfoque en la experiencia del usuario. Ofrece una amplia gama de deportes y eventos en vivo"
+
+msgid "bookmakers_betway_advantages1_affiliates"
+msgstr "Excelente servicio al cliente"
+
+msgid "bookmakers_betway_advantages2_affiliates"
+msgstr "Apuestas en vivo"
+
+msgid "bookmakers_betway_advantages3_affiliates"
+msgstr "Programas de lealtad"
+
+msgid "bookmakers_betway_advantages4_affiliates"
+msgstr "Mercados: Principalmente Europa, pero en expansión global"
+
+# Bet365
+
+msgid "bookmakers_bet365_description_affiliates"
+msgstr "Bet365 es una de las casas de apuestas más populares, ofreciendo una plataforma robusta con una amplia gama de mercados y opciones de apuestas en vivo"
+
+msgid "bookmakers_bet365_advantages1_affiliates"
+msgstr "Streaming en vivo de eventos deportivos"
+
+msgid "bookmakers_bet365_advantages2_affiliates"
+msgstr "Amplia cobertura de deportes"
+
+msgid "bookmakers_bet365_advantages3_affiliates"
+msgstr "Aplicación móvil avanzada"
+
+msgid "bookmakers_bet365_advantages4_affiliates"
+msgstr "Mercados: Global, con fuerte presencia en Europa y Asia"
+
+# paf
+
+msgid "bookmakers_paf_description_affiliates"
+msgstr "Paf es conocida por su compromiso con el juego responsable y sus beneficios destinados a causas benéficas. Ofrece una amplia gama de opciones de apuestas y juegos de casino"
+
+msgid "bookmakers_paf_advantages1_affiliates"
+msgstr "Juego responsable"
+
+msgid "bookmakers_paf_advantages2_affiliates"
+msgstr "Beneficios destinados a causas benéficas"
+
+msgid "bookmakers_paf_advantages3_affiliates"
+msgstr "Variedad de juegos y apuestas"
+
+msgid "bookmakers_paf_advantages4_affiliates"
+msgstr "Mercados: Principalmente Norte de Europa"
+
+# interwetten
+
+msgid "bookmakers_interwetten_description_affiliates"
+msgstr "Interwetten es una casa de apuestas con una larga trayectoria, ofreciendo una plataforma sólida y segura para los apostadores"
+
+msgid "bookmakers_interwetten_advantages1_affiliates"
+msgstr "Experiencia y confiabilidad"
+
+msgid "bookmakers_interwetten_advantages2_affiliates"
+msgstr "Amplia oferta de deportes y eventos"
+
+msgid "bookmakers_interwetten_advantages3_affiliates"
+msgstr "Bonos y promociones atractivas"
+
+msgid "bookmakers_interwetten_advantages4_affiliates"
+msgstr "Mercados: Europa, especialmente en países de habla alemana"
+
+# william hill
+
+msgid "bookmakers_williamhill_description_affiliates"
+msgstr "William Hill es una de las casas de apuestas más antiguas y respetadas, conocida por su excelente servicio y variedad de mercados"
+
+msgid "bookmakers_williamhill_advantages1_affiliates"
+msgstr "Gran reputación y confiabilidad"
+
+msgid "bookmakers_williamhill_advantages2_affiliates"
+msgstr "Apuestas en vivo y streaming"
+
+msgid "bookmakers_williamhill_advantages3_affiliates"
+msgstr "Amplia variedad de mercados"
+
+msgid "bookmakers_williamhill_advantages4_affiliates"
+msgstr "Mercados: Global, con fuerte presencia en Reino Unido y Europa"
+
+# sportium
+
+msgid "bookmakers_sportium_description_affiliates"
+msgstr "Sportium es una casa de apuestas líder en España, conocida por su excelente servicio al cliente y su plataforma intuitiva"
+
+msgid "bookmakers_sportium_advantages1_affiliates"
+msgstr "Especialización en deportes españoles"
+
+msgid "bookmakers_sportium_advantages2_affiliates"
+msgstr "Buen servicio al cliente"
+
+msgid "bookmakers_sportium_advantages3_affiliates"
+msgstr "Variedad de promociones"
+
+msgid "bookmakers_sportium_advantages4_affiliates"
+msgstr "Mercados: Principalmente España y América Latina"
+
+# luckia
+
+msgid "bookmakers_luckia_description_affiliates"
+msgstr "Luckia es una casa de apuestas española que ha ganado popularidad por su enfoque en la satisfacción del cliente y sus amplias opciones de apuestas"
+
+msgid "bookmakers_luckia_advantages1_affiliates"
+msgstr "Plataforma fácil de usar"
+
+msgid "bookmakers_luckia_advantages2_affiliates"
+msgstr "Buenas promociones y bonos"
+
+msgid "bookmakers_luckia_advantages3_affiliates"
+msgstr "Atención al cliente eficiente"
+
+msgid "bookmakers_luckia_advantages4_affiliates"
+msgstr "Mercados: España y América Latina"
+
+# 888sport
+
+msgid "bookmakers_888sport_description_affiliates"
+msgstr "888sport es parte del conocido grupo 888, ofreciendo una plataforma completa de apuestas deportivas con una amplia gama de mercados"
+
+msgid "bookmakers_888sport_advantages1_affiliates"
+msgstr "Gran variedad de deportes y mercados"
+
+msgid "bookmakers_888sport_advantages2_affiliates"
+msgstr "Promociones y bonos atractivos"
+
+msgid "bookmakers_888sport_advantages3_affiliates"
+msgstr "Integración con otros productos de 888"
+
+msgid "bookmakers_888sport_advantages4_affiliates"
+msgstr "Mercados: Global, con fuerte presencia en Europa"
+
+# codere
+
+msgid "bookmakers_codere_description_affiliates"
+msgstr "Codere es una casa de apuestas española con una sólida presencia en el mercado, conocida por su fiabilidad y variedad de opciones de apuestas"
+
+msgid "bookmakers_codere_advantages1_affiliates"
+msgstr "Amplia oferta de deportes y eventos"
+
+msgid "bookmakers_codere_advantages2_affiliates"
+msgstr "Buenas promociones y bonos"
+
+msgid "bookmakers_codere_advantages3_affiliates"
+msgstr "Plataforma segura y confiable"
+
+msgid "bookmakers_codere_advantages4_affiliates"
+msgstr "Mercados: España y América Latina"
+
+msgid "partners"
+msgstr "Partners"
+
+msgid "meta_title_home_affiliates"
+msgstr "Afiliación en el sector iGaming | BETANDEAL AFFILIATES"
+
+msgid "meta_description_home_affiliates"
+msgstr "Expertos en marketing de afiliación en el sector iGaming. Queremos ser tu socio en la monetización a través de las apuestas deportivas, casino y póker."
+
+msgid "meta_title_empresa_affiliates"
+msgstr "Descubre quiénes somos y todos los productos que ofrecemos"
+
+msgid "meta_description_empresa_affiliates"
+msgstr "Ofrecemos soluciones innovadoras y efectivas para transformar la industria del iGaming."
+
+msgid "meta_title_empresa_afiliacion_affiliates"
+msgstr "Conviértete en afiliado del sector iGaming y  empieza a monetizar"
+
+msgid "meta_description_empresa_afiliacion_affiliates"
+msgstr "Programa de afiliados diseñado para creadores de contenido que buscan maximizar sus ingresos a traves de la la innovación en el iGaming. ¿Te unes?."
+
+msgid "meta_title_top10_affiliates"
+msgstr "Mejores Casas de Apuestas para trabajar como afiliado"
+
+msgid "meta_description_top10_affiliates"
+msgstr "Top 10 de casas de apuestas para colaborar como afiliado por su calidad, confiabilidad y excelentes servicios. ¡Registrate y empieza a recibir beneficios!."
+
+msgid "meta_title_detallecasa_affiliates"
+msgstr "Información sobre afiliación en "
+
+msgid "meta_description_detallecasa_affiliates"
+msgstr "Todo lo que necesitas saber sobre la afiliación a la casa de apuestas deportivas "
+
+msgid "meta_description_detallecasa2_affiliates"
+msgstr ". Consigue los mejores resultados."
+
+msgid "meta_title_afiliacioncasas_affiliates"
+msgstr "Casas de apuestas para trabajar como afiliado"
+
+msgid "meta_description_afiliacioncasas_affiliates"
+msgstr "Resumen de las casas de apuestas con las mejores oportunidades de afiliación. Maximiza tus ingresos y alcanza el éxito en el mercado de las apuestas."
+
+msgid "meta_title_noticias_affiliates"
+msgstr "Noticias sobre el marketing de afiliación en el sector iGaming."
+
+msgid "meta_description_noticias_affiliates"
+msgstr "Entérate de todas las noticias de Betandeal y el marketing de afiliación. Descubre todos los detalles."
+
+msgid "meta_title_contacto_affiliates"
+msgstr "¿Tienes dudas para trabajar como afiliado?"
+
+msgid "meta_description_contacto_affiliates"
+msgstr "Si no encuentras la información que buscas para coloborar como afiliado, te ayudamos para resolver cualquier consulta que puedas tener."
+
+msgid "meta_title_registro_affiliates"
+msgstr "Registro de afiliados en el sector iGaming"
+
+msgid "meta_description_registro_affiliates"
+msgstr "Hazte afiliado y comienza a ganar comisiones por cada jugador que refieras."
+
+msgid "meta_title_politicaprivacidad_affiliates"
+msgstr "Aviso legal y privacidad de Betandeal Affiliates."
+
+msgid "meta_description_politicaprivacidad_affiliates"
+msgstr "Entérate de todas las condiciones de uso de la plataforma web y su funcionamiento."
+
+msgid "meta_title_terminosycondiciones_affiliates"
+msgstr "Betandeal Affiliates. Datos generales y propiedad de la plataforma."
+
+msgid "meta_description_terminosycondiciones_affiliates"
+msgstr "Conoce todos los términos y condiciones legales sobre Betandeal Affiliates."
+
+msgid "meta_title_cookies_affiliates"
+msgstr "Política de cookies de Betandeal Affiliates."
+
+msgid "meta_description_cookies_affiliates"
+msgstr "Infórmate de las cookies que utilizamos en nuestra página web. Tipos de cookies y finalidad."
+
+msgid "cpas_title_affiliates"
+msgstr "Comisiones CPA – Casas de apuestas"
+
+msgid "cpas_title2_affiliates"
+msgstr "Descubre las mejores oportunidades de afiliación con BETANDEAL."
+
+msgid "cpas_description_affiliates"
+msgstr "​Te ofrecemos un resumen detallado de las casas de apuestas disponibles para trabajar como afiliado."
+
+msgid "cpas_description2_affiliates"
+msgstr "Utiliza nuestro filtro por país y encuentra las opciones perfectas para tu área geográfica."
+
+msgid "cpas_description3_affiliates"
+msgstr "Explora nuestra selección de casas de apuestas y maximiza tus ingresos como afiliado."
+
+msgid "cpas_description4_affiliates"
+msgstr "Accede a una amplia gama de oportunidades para impulsar tu negocio de afiliación y alcanzar el éxito en el mercado de las apuestas.​"
+
+msgid "cpas_masinfo_affiliates"
+msgstr "Más información​"
+
+msgid "cpas_masinfo_affiliates"
+msgstr "Ver más"
+
+msgid "cpas_bluediv_title_affiliates"
+msgstr "​​Regístrate para ver todas las comisiones de las mejores Casas de Apuestas"
+
+msgid "cpas_bluediv_title2_affiliates"
+msgstr "​​Descubre todas las campañas activas y maximiza tus ingresos."
+
+msgid "cpas_migas1_affiliates"
+msgstr "Partners​​"
+
+msgid "cpas_migas2_affiliates"
+msgstr "​​Comisiones CPA​"
+
+msgid "partnersdetail_description_affiliates"
+msgstr "​A continuación, te mostramos las campañas para afiliados en ​"
+
+msgid "partnersdetail_description2_affiliates"
+msgstr "en apuestas deportivas, aprovecha las mejores cuotas para tus apuestas.​"
+
+msgid "partnersdetail_recomended_title_affiliates"
+msgstr "Campañas recomendadas / similares de afiliación​"
+
+msgid "partnersdetail_recomended_description_affiliates"
+msgstr "​Descubre nuestras campañas de Afiliados de apuestas deportivas, similares a las de "
+
+msgid "partnersdetail_recomended_description2_affiliates"
+msgstr "Explora todas las ​"
+
+msgid "partnersdetail_recomended_description3_affiliates"
+msgstr "opciones en Betandeal​"
+
+msgid "partnersdetail_recomended_description_888sport_affiliates"
+msgstr "Descubre todas las campañas disponibles con 888sport en Betandeal.​​"
+
+msgid "partnersdetail_recomended_description2_888sport_affiliates"
+msgstr "​​"
+
+msgid "betandeal_affiliates_showing_6_of_300_commisions_title_1"
+msgstr "Mostrando"
+
+msgid "betandeal_affiliates_showing_6_of_300_commisions_title_2"
+msgstr "de"
+
+msgid "betandeal_affiliates_showing_6_of_300_commisions_title_3"
+msgstr " para ver todas las comisiones"
+
+msgid "legal_title_privacy_policy"
+msgstr "Política de Privacidad"
+
+msgid "legal_description_privacy_policy"
+msgstr "Política de Privacidad de BETANDEAL"
+
+msgid "term_conditions_title"
+msgstr "Términos y condiciones | BETANDEAL"
+
+msgid "term_conditions_description"
+msgstr "Términos y condiciones de la plataforma de afiliados de BETANDEAL"
+
+msgid "legal_responsible_title"
+msgstr "1.- RESPONSABLE DEL TRATAMIENTO"
+
+msgid "legal_responsible_company"
+msgstr "GLOBAL GAMING MARKETING SERVICES S.L."
+
+msgid "legal_responsible_address"
+msgstr "Calle Camoens 4, Oficina 9"
+
+msgid "legal_responsible_city_country"
+msgstr "51001 Ceuta, ESPAÑA."
+
+msgid "legal_responsible_cif"
+msgstr "CIF: B51040673."
+
+msgid "legal_responsible_phone"
+msgstr "0034 686 197 081."
+
+msgid "legal_responsible_email"
+msgstr "support@betandeal.com"
+
+msgid "legal_responsible_company_description"
+msgstr "BETANDEAL es una plataforma en línea, propiedad de GLOBAL GAMING MARKETING SERVICES, S.L."
+
+msgid "legal_data_purpose_title"
+msgstr "2.- FINALIDAD DEL TRATAMIENTO DE DATOS"
+
+msgid "legal_data_purpose_intro"
+msgstr "Desde el momento en que se une a la familia BETANDEAL y crea un perfil en nuestra plataforma para interactuar con nosotros, sus datos serán procesados con los siguientes fines:"
+
+msgid "legal_data_purpose_item_1"
+msgstr "Propósito principal de llevar a cabo el servicio proporcionado a través de la plataforma y del servicio de pago BETANDEAL."
+
+msgid "legal_data_purpose_item_2"
+msgstr "Informarle o notificarle posibles incidencias relacionadas con el servicio."
+
+msgid "legal_data_purpose_item_3"
+msgstr "Informarle de mejoras o novedades en los productos y servicios que ofrecemos."
+
+msgid "legal_data_purpose_item_4"
+msgstr "Los datos solo se transferirán a terceros, como instituciones o autoridades públicas, en los casos en que sea legalmente obligatorio."
+
+msgid "legal_data_duration_title"
+msgstr "3.- DURACIÓN DEL TRATAMIENTO"
+
+msgid "legal_data_duration_description"
+msgstr "Sus datos se conservarán exclusivamente mientras dure nuestra relación comercial, y por más tiempo si es necesario para cumplir con obligaciones fiscales o administrativas, o, finalmente, mientras desee seguir recibiendo información sobre nuestros productos o servicios."
+
+msgid "legal_data_rights_intro"
+msgstr "A continuación le informamos sobre los derechos que tiene a su disposición para poder modular, restringir o ampliar voluntariamente cualquier tema relacionado con sus datos personales."
+
+msgid "legal_data_rights_free"
+msgstr "El ejercicio de estos derechos es totalmente gratuito."
+
+msgid "legal_data_rights_title"
+msgstr "4.- DERECHOS DE LOS TITULARES DE LOS DATOS"
+
+msgid "legal_data_rights_access"
+msgstr "1.- Siempre tendrá derecho de ACCESO a sus datos personales."
+
+msgid "legal_data_rights_access_description"
+msgstr "Este derecho incluye la posibilidad de solicitar información sobre cómo se están tratando sus datos personales; solicitar una copia de los datos tratados; los propósitos del tratamiento; los destinatarios o categorías de destinatarios a quienes se han transferido los datos; información sobre las garantías adecuadas en relación con la transferencia de datos a terceros países u organizaciones internacionales; el período de conservación de los datos; si existen decisiones automatizadas, incluida la elaboración de perfiles, información significativa sobre la lógica aplicada, así como la importancia y consecuencias previstas de dicho tratamiento; si los datos personales no han sido obtenidos directamente de su titular, información sobre su origen, etc."
+
+msgid "legal_data_rights_rectify_delete"
+msgstr "2.- También tiene derecho a RECTIFICAR nuestros datos inexactos o, en su caso, solicitar su SUPRESIÓN cuando, entre otros motivos, los datos ya no sean necesarios para los fines para los que se recogieron."
+
+msgid "legal_data_rights_limit_processing"
+msgstr "3.- En ciertas circunstancias, podrá solicitar la LIMITACIÓN del tratamiento de sus datos, en cuyo caso solo los conservaremos para el ejercicio o defensa de reclamaciones."
+
+msgid "legal_data_rights_object_processing"
+msgstr "4.- De la misma manera, en ciertas circunstancias y por motivos relacionados con su situación particular, puede OPONERSE al tratamiento de sus datos. En tal caso, BETANDEAL dejará de tratar los datos, salvo por motivos legítimos o el ejercicio o defensa de posibles reclamaciones."
+
+msgid "legal_data_rights_portability_withdrawal"
+msgstr "5.- Le informamos que, conforme a las últimas modificaciones en cuanto a legislación relacionada con datos personales, puede ejercer su derecho a la PORTABILIDAD, así como retirar los consentimientos otorgados en cualquier momento, sin afectar la legalidad del tratamiento basado en el consentimiento previo a su retirada."
+
+msgid "legal_data_rights_contact"
+msgstr "En el momento en que esté interesado en ejercer cualquiera de los derechos que le asisten, puede ponerse en contacto con nosotros en la dirección de correo electrónico indicada al inicio de este escrito."
+
+msgid "legal_data_rights_information"
+msgstr "Recuerde que, para el correcto ejercicio de sus derechos, le pedimos que nos proporcione la mayor información posible en su solicitud y, en cualquier caso, datos personales, dirección de correo electrónico, teléfono y toda la información posible sobre el derecho que desea ejercer."
+
+msgid "legal_data_rights_agency_contact"
+msgstr "Le informamos que puede dirigirse a la Agencia Española de Protección de Datos y a otros organismos públicos competentes para cualquier reclamación derivada del tratamiento de sus datos personales."
+
+msgid "legal_cookies_policy_title"
+msgstr "7.- POLÍTICA DE COOKIES"
+
+msgid "legal_cookies_policy_description"
+msgstr "Disponemos de nuestra política de cookies en nuestra página web."
+
+msgid "legal_platform_use_title"
+msgstr "8.- CONDICIONES DE USO DE LA PLATAFORMA WEB"
+
+msgid "legal_platform_use_intro"
+msgstr "BETANDEAL desarrolla su actividad comercial a través de este sitio web, que pone a disposición de los usuarios de Internet."
+
+msgid "legal_platform_use_access"
+msgstr "El acceso a él implica la aceptación sin reservas de estas condiciones."
+
+msgid "legal_platform_use_additional_services"
+msgstr "No obstante lo anterior, la plataforma en sí puede ofrecer servicios adicionales particulares, que se regirán por sus propias condiciones. En este caso, nos referimos específicamente al servicio complementario premiumpay."
+
+msgid "legal_platform_use_content_authorization"
+msgstr "BETANDEAL autoriza la visualización, impresión y descarga parcial del contenido de su plataforma, en los siguientes casos:"
+
+msgid "legal_platform_use_item_1"
+msgstr "Que haya compatibilidad con los fines de la plataforma."
+
+msgid "legal_platform_use_item_2"
+msgstr "Que se realice con el exclusivo propósito de obtener información para su uso personal. Su uso para fines comerciales o para distribución, comunicación pública, transformación, etc., está expresamente prohibido."
+
+msgid "legal_platform_use_item_3"
+msgstr "Que ninguno de los contenidos relacionados en la plataforma se modifique de ninguna manera."
+
+msgid "legal_platform_use_item_4"
+msgstr "Que no se utilice, copie o distribuya de ninguna manera gráficos, logotipos, iconos o imágenes disponibles en la plataforma, separados o junto a imágenes adyacentes."
+
+msgid "legal_platform_use_item_5"
+msgstr "El uso no autorizado de la información contenida en la plataforma, su reventa, así como la infracción de los derechos de propiedad intelectual o industrial de BETANDEAL, dará lugar a las responsabilidades legalmente establecidas."
+
+msgid "legal_platform_operation_title"
+msgstr "9.- FUNCIONAMIENTO DE LA PLATAFORMA"
+
+msgid "legal_platform_operation_intro"
+msgstr "BETANDEAL se reserva el derecho de realizar las modificaciones que considere oportunas en la plataforma, en su configuración, presentación, elementos estructurales o meramente estéticos, con o sin previo aviso a sus usuarios. También pueden realizarse modificaciones en las condiciones de uso."
+
+msgid "legal_platform_operation_liability"
+msgstr "BETANDEAL no es responsable de los errores de seguridad que puedan producirse ni de los daños que puedan causarse al sistema informático del usuario, ni a los archivos o documentos almacenados en él, como consecuencia de:"
+
+msgid "legal_platform_operation_virus"
+msgstr "La presencia de virus en el ordenador del usuario que se utilice para la conexión a los servicios y contenidos de la plataforma."
+
+msgid "legal_platform_operation_browser_malfunction"
+msgstr "Mal funcionamiento del navegador."
+
+msgid "legal_platform_operation_network_misuse"
+msgstr "Uso negligente de la red."
+
+msgid "legal_platform_operation_browser_version"
+msgstr "Uso de versiones no actualizadas del navegador."
+
+msgid "legal_contents_title"
+msgstr "10.- CONTENIDOS"
+
+msgid "legal_contents_intro"
+msgstr "BETANDEAL no asume ninguna responsabilidad derivada de los contenidos enlazados en el sitio web, siempre que sean ajenos a ella, ni garantiza la ausencia de virus u otros elementos en ellos que puedan causar alteraciones en el sistema informático, en los documentos o archivos del usuario, excluyendo cualquier responsabilidad por daños de cualquier tipo causados al usuario por esta razón."
+
+msgid "legal_linked_pages_illegal_content"
+msgstr "En el caso de que algún usuario o tercero considere que el contenido o los servicios proporcionados por las páginas enlazadas son ilícitos o vulneran de alguna forma los derechos del usuario o de un tercero, podrá informar a la empresa lo antes posible."
+
+msgid "legal_periodic_verification_content"
+msgstr "BETANDEAL se compromete a verificar y supervisar periódicamente sus contenidos e información."
+
+msgid "legal_content_use_liability"
+msgstr "BETANDEAL no se hace responsable en ningún caso del uso que los usuarios puedan hacer de la plataforma o sus contenidos, así como de los daños que puedan derivarse de ella."
+
+msgid "legal_ownership_content_title"
+msgstr "11.- PROPIEDAD DE LOS CONTENIDOS DE LA PLATAFORMA"
+
+msgid "legal_ownership_content_intro"
+msgstr "BETANDEAL pone a disposición de los clientes/usuarios o posibles clientes/usuarios su plataforma, aunque no les concede ningún derecho sobre las marcas, nombres comerciales, signos distintivos o diseños de ningún tipo que aparezcan en la plataforma."
+
+msgid "legal_content_protected_property"
+msgstr "Todos los contenidos de la plataforma están sujetos a propiedad industrial e intelectual, ya sean de BETANDEAL o de un tercero vinculado a BETANDEAL."
+
+msgid "legal_content_property_rights"
+msgstr "BETANDEAL es el propietario del código fuente, diseño, estructura de navegación, bases de datos y los diferentes elementos de software de la plataforma, así como de los derechos de propiedad industrial e intelectual referidos a los contenidos incluidos en ella."
+
+msgid "terms_conditions_title"
+msgstr "Términos y condiciones"
+
+msgid "terms_company_title"
+msgstr "1.- LA EMPRESA."
+
+msgid "terms_company_intro"
+msgstr "Este documento tiene como objetivo establecer los Términos y Condiciones Generales de Contrato entre la plataforma 'BETANDEAL©' y sus Afiliados y/o usuarios."
+
+msgid "terms_company_info"
+msgstr "GLOBAL GAMING MARKETING SERVICES S.L., titular del nombre comercial y plataforma BETANDEAL, con domicilio social en 51001 Ceuta (ESPAÑA), Calle Camoens 4, Oficina 9, y código de identificación fiscal B51040673. Los datos de contacto mencionados están disponibles para cualquier persona con interés legítimo en asuntos comerciales, fiscales, civiles o judiciales."
+
+msgid "terms_activity_title"
+msgstr "2.- ACTIVIDAD DE LA EMPRESA: MARKETING DE AFILIADOS"
+
+msgid "terms_definitions_title"
+msgstr "2.1.- Definiciones."
+
+msgid "terms_registered_trademark"
+msgstr "BETANDEAL© (en adelante BETANDEAL) es una marca registrada."
+
+msgid "terms_affiliate_marketing_intro"
+msgstr "BETANDEAL es una plataforma en línea dedicada al 'marketing de afiliados'. El marketing de afiliados se define como la actividad publicitaria realizada a nivel B2B (BUSINESS TO BUSINESS), es decir, de profesional a profesional, mediante la cual promocionamos la actividad de nuestros clientes/anunciantes en nuestra plataforma (sus productos y servicios), que ponemos a disposición de los usuarios de la plataforma (afiliados), para que estos, a su vez, promocionen a sus seguidores o audiencia objetivo los productos y servicios que puedan interesarles."
+
+msgid "terms_affiliate_marketing_example"
+msgstr "Por ejemplo, si un afiliado tiene un sitio web dedicado a los deportes, tendrá más opciones de ganar dinero si promociona información relevante para actividades de apuestas deportivas."
+
+msgid "terms_affiliate_marketing_target"
+msgstr "La plataforma BETANDEAL está dirigida a emprendedores o profesionales que tienen un sitio web, blog o red social con un gran número de seguidores, ya que de esta manera, tendrán más posibilidades de atraer clientes a los productos y servicios promocionados y, por lo tanto, generar ingresos."
+
+msgid "terms_affiliate_marketing_earnings"
+msgstr "Las ganancias que los afiliados pueden obtener a través de nuestra plataforma son variables y dependen de la cantidad de clientes obtenidos y de las condiciones de cada promoción ofrecida por nuestros clientes/anunciantes."
+
+msgid "terms_property_statement"
+msgstr "Los productos y servicios promocionados a través de BETANDEAL son propiedad exclusiva de nuestros clientes/anunciantes. Así, como diremos más adelante, las condiciones son impuestas directamente por nuestros clientes/anunciantes, propietarios del producto y servicio promovido a través de la plataforma."
+
+msgid "terms_affiliate_marketing_objective"
+msgstr "Por lo tanto, el marketing de afiliación involucra una amplia variedad de servicios que convergen en la plataforma BETANDEAL, cuyo objetivo principal es ayudar a sus clientes a maximizar sus beneficios, aprovechando esta plataforma para llegar a un número indeterminado de clientes potenciales."
+
+msgid "terms_product_service_types"
+msgstr "El tipo de producto y servicio promocionado a través de nuestra plataforma se centra especialmente en el mercado de juegos de azar en línea, apuestas deportivas en general, finanzas, y otros como la captación de audiencia en redes sociales."
+
+msgid "terms_platform_advertising_purpose"
+msgstr "De esta manera, BETANDEAL opera como una plataforma con un propósito eminentemente publicitario, que busca poner en contacto a los clientes o anunciantes con sus clientes potenciales o jugadores, todo a través de los afiliados, quienes son los que tienen la audiencia potencial para promocionar el producto o servicio."
+
+msgid "parties_involved_title"
+msgstr "2.2.- Partes involucradas."
+
+msgid "parties_involved_intro"
+msgstr "Dicho esto, la relación subjetiva en el campo del marketing de afiliación es de naturaleza tripartita y todas convergen en nuestra plataforma de afiliación."
+
+msgid "party_client"
+msgstr "Cliente o anunciante (operador de juegos, casa de apuestas, corredor, etc.) que se ofrece en la plataforma BETANDEAL."
+
+msgid "party_affiliate"
+msgstr "Afiliado (quien, a través de un registro adecuado en nuestra plataforma, accede a las actividades, productos y servicios promovidos por BETANDEAL y los promociona entre su público objetivo -jugadores-)."
+
+msgid "party_players"
+msgstr "Jugadores (consumidor final, quien accede a través del afiliado)."
+
+msgid "affiliate_platform_convergence"
+msgstr "Estos tres sujetos convergen en la plataforma de afiliados: el primero, para promocionar sus actividades, productos y servicios; el segundo, para solicitar acceso a ellos y promocionarlos entre su audiencia objetivo (jugadores, seguidores), y el tercero, son quienes acceden a las actividades, productos o servicios del primero, a través de los enlaces que los afiliados ponen a disposición en su sitio web, blog o red social."
+
+msgid "remuneration_services_description"
+msgstr "A través de la relación descrita anteriormente, los clientes o anunciantes (operadores de juegos, casas de apuestas, corredores, etc.) remuneran los servicios en virtud del tráfico referido (número de clientes obtenidos por nuestros afiliados). Todo lo anterior se realiza a través de enlaces, en virtud de los cuales los clientes/anunciantes saben cuántos consumidores finales han sido enviados a través de BETANDEAL y, a su vez, BETANDEAL sabe cuántos consumidores finales han sido enviados por cada afiliado."
+
+msgid "exclusive_property_of_advertisers"
+msgstr "En cualquier caso, las actividades, productos o servicios de los clientes o anunciantes (campañas, bonos, ofertas, etc.), aunque promovidos a través de la plataforma BETANDEAL, son propiedad exclusiva de los anunciantes, sin que BETANDEAL tenga ningún derecho sobre ellos, más allá de la mera publicación o promoción. Sin embargo, BETANDEAL informará a los afiliados de cualquier circunstancia relacionada con la validez, expiración y condiciones esenciales de dichas actividades, productos o servicios."
+
+msgid "platform_access_for_affiliates"
+msgstr "De esta manera, los afiliados podrán acceder, dentro de la plataforma, a la sección que más les interese, para que puedan solicitar el acceso y la promoción de los productos o servicios que los anunciantes tengan activos en la plataforma y, a su vez, ofrecérselos a los clientes potenciales que los siguen en sus blogs, sitios web, redes sociales, etc. BETANDEAL pone a disposición de los afiliados, a través de la plataforma, el acceso a las actividades promovidas por sus clientes o anunciantes. Sin embargo, el acceso efectivo a estas actividades y la posibilidad de que los afiliados las promocionen queda a la entera discreción del cliente o anunciante, ya que son los propietarios exclusivos de la campaña, actividad, bono, oferta, etc., promovidos en la plataforma, quienes podrán rechazar los registros de usuarios referidos según su política interna."
+
+msgid "responsibility_for_responsible_gaming"
+msgstr "El cumplimiento de la normativa vigente en materia de juego responsable es responsabilidad exclusiva de los clientes o anunciantes, sin que BETANDEAL tenga ninguna responsabilidad en este sentido, ya que su participación se limita exclusivamente a la comercialización de sus actividades, productos o servicios."
+
+msgid "affiliate_promotion_requirements"
+msgstr "Los afiliados promocionarán las actividades, productos y servicios de nuestros clientes o anunciantes a través de enlaces personalizados que BETANDEAL pondrá a su disposición, y los afiliados serán los únicos responsables de cumplir con la legislación y los requisitos regulatorios relacionados con la publicidad de actividades de juego en la jurisdicción en la que realicen su actividad."
+
+msgid "affiliate_instructions_and_conditions"
+msgstr "En cualquier caso, los afiliados deben cumplir siempre con las instrucciones, requisitos mínimos y condiciones establecidas por los clientes o anunciantes. El uso de enlaces por parte del Afiliado implica la aceptación automática de las condiciones y requisitos que el cliente/anunciante pueda haber establecido."
+
+msgid "campaign_conditions_warning"
+msgstr "En cada campaña o promoción, se pueden requerir condiciones o acciones mínimas por parte de los clientes o anunciantes para el registro válido de usuarios referidos y la acumulación de remuneraciones. A este respecto, se llama la atención sobre la advertencia contenida en los términos y condiciones, así como sobre los llamados jugadores o usuarios fraudulentos."
+
+msgid "definition_of_fraudulent_player"
+msgstr "Un 'jugador fraudulento' será definido en cada caso por el cliente/anunciante/operador. La calificación de un jugador como fraudulento queda a discreción exclusiva del cliente/anunciante/operador e implica la imposibilidad de recibir cualquier remuneración por su conversión, siendo eliminado de la campaña. El Afiliado no podrá, en ningún caso, impugnar dicha calificación y sus consecuencias."
+
+msgid "bots_as_fraudulent_players"
+msgstr "'Bots' siempre se considerarán jugadores fraudulentos ya que no son jugadores reales."
+
+msgid "players_compliance_responsibility"
+msgstr "Los jugadores son responsables de cumplir con los requisitos exigidos por los operadores en cuanto a la edad mínima de funcionamiento, ubicación, etc."
+
+msgid "compensation_commissions_title"
+msgstr "3.- COMPENSACIÓN: COMISIONES POR AFILIACIÓN"
+
+msgid "compensation_cpa"
+msgstr "CPA: Costo por Adquisición (también llamado Costo por Acción)."
+
+msgid "compensation_cpl"
+msgstr "CPL: Costo por Lead."
+
+msgid "compensation_rs"
+msgstr "RS: Participación en Ingresos."
+
+msgid "compensation_hybrid"
+msgstr "Comisiones Híbridas: Una combinación de las anteriores."
+
+msgid "agreements_fixed_title"
+msgstr "4.- ACUERDOS DE ACCIONES FIJAS, COMPENSACIÓN Y PENALIZACIONES"
+
+msgid "agreements_fixed_description"
+msgstr "En el caso de que el Afiliado haya acordado con nosotros llevar a cabo acciones específicas a cambio de una compensación fija, se compromete a realizar las acciones acordadas según lo establecido en cada caso específico."
+
+msgid "registration_title"
+msgstr "5.- REGISTRO."
+
+msgid "registration_description"
+msgstr "El registro en BETANDEAL convierte al usuario en Afiliado, por lo que tendrá acceso a la parte privada de la plataforma."
+
+msgid "affiliate_section_title"
+msgstr "6.- SECCIÓN PRIVADA DEL AFILIADO, PAGO Y REGISTRO DE REMUNERACIONES"
+
+msgid "affiliate_platform_record_description"
+msgstr "Nuestra plataforma registrará automáticamente los resultados de cada Afiliado para cada campaña que hayan promovido a sus consumidores. Estos datos pueden ser visualizados por el Afiliado en su sección privada, accesible desde la plataforma BETANDEAL donde tendrán un nombre de usuario y contraseña."
+
+msgid "affiliate_remuneration_calculation"
+msgstr "Para el cálculo de la remuneración, solo se considerarán los resultados verificados y recopilados por nuestros clientes. El resultado final de cada campaña siempre dependerá del número de usuarios referidos o convertidos capturados por el Afiliado que cumplan con las condiciones establecidas."
+
+msgid "affiliate_no_simulated_traffic"
+msgstr "El afiliado se compromete a no generar ni contribuir a generar tráfico simulado en sus sitios web o canales mediante el uso de robots o cualquier otro mecanismo de generación automática de tráfico. De igual forma, BETANDEAL considera al afiliado responsable del tráfico proveniente de sus sitios web y asumirá las consecuencias que puedan surgir si es simulado. En cualquier caso, el afiliado deberá notificar a BETANDEAL de cualquier uso simulado, inadecuado o ilegal con respecto a cualquiera de sus programas de afiliación."
+
+msgid "affiliate_simulated_traffic_consequences"
+msgstr "En caso de que BETANDEAL detecte la generación de tráfico simulado por parte de un afiliado, podrá terminar este acuerdo de colaboración, lo que incluye la posibilidad de excluirlos de participar en otros programas de afiliados disponibles en su sitio web. Alternativamente, el afiliado perderá el derecho a las remuneraciones acumuladas pendientes de pago por todos los programas de afiliados de BETANDEAL en los que hayan participado hasta el momento de la comunicación de la detección de tráfico simulado. Esta comunicación se realizará por escrito, y puede enviarse como correo electrónico, fax o correo postal."
+
+msgid "affiliate_private_section_earnings_update"
+msgstr "De esta manera, en la sección privada de cada afiliado, BETANDEAL actualizará el estado de los ingresos económicos, donde podrán ver la cantidad de jugadores convertidos en cada campaña y el monto generado como comisiones."
+
+msgid "affiliate_payment_instructions"
+msgstr "Para recibir el pago, el Afiliado solo necesita emitir la factura en la plataforma y seleccionar si prefiere recibir el pago mediante transferencia bancaria, SKRILL u otro método de pago disponible en la plataforma en un momento dado."
+
+msgid "technical_support_title"
+msgstr "7.- SOPORTE TÉCNICO, RESOLUCIÓN DE DUDAS E INCIDENTES"
+
+msgid "technical_support_email"
+msgstr "BETANDEAL proporciona el correo electrónico support@betandeal.com para resolver cualquier duda técnica o incidente que pueda surgir en el uso de la plataforma."
+
+msgid "technical_support_contact"
+msgstr "Los usuarios también pueden ponerse en contacto a través de cualquiera de los medios especificados en la página principal de la plataforma."
+
+msgid "cookies_title"
+msgstr "8.- COOKIES"
+
+msgid "cookies_description"
+msgstr "La plataforma BETANDEAL utiliza cookies con el fin de mejorar la experiencia del usuario, por lo que solicitamos que acepte su uso al navegar en el sitio web."
+
+msgid "modification_title"
+msgstr "9.- MODIFICACIÓN"
+
+msgid "modification_description"
+msgstr "BETANDEAL se reserva el derecho de modificar cualquiera de los términos y condiciones contenidos en este acuerdo o reemplazarlo en cualquier momento a su exclusivo criterio mediante la publicación de un aviso de cambio o un nuevo acuerdo en nuestro sitio web. Las modificaciones pueden incluir, por ejemplo, cambios en el alcance de las comisiones y reglas del programa con nuestros usuarios. Si alguna modificación es inaceptable para el usuario, puede terminar este acuerdo sin derecho a compensación. Su participación continua en nuestro programa de afiliados después de que publiquemos un aviso de cambio o un nuevo acuerdo en nuestro sitio constituirá la aceptación implícita y vinculante de la modificación o del nuevo acuerdo."
+
+msgid "relationship_title"
+msgstr "10.- RELACIÓN ENTRE LAS PARTES"
+
+msgid "relationship_description"
+msgstr "La relación derivada entre las partes como resultado de este acuerdo no constituirá ni se considerará como una franquicia, empresa conjunta o sociedad entre las partes, ni convertirá al usuario en empleado o agente de BETANDEAL en ningún sentido. El afiliado no está autorizado ni facultado para vincular a BETANDEAL o contratar en su nombre, ni para hacer declaraciones o garantías, expresas o implícitas, en nombre de BETANDEAL o en relación con cualquier producto, ni puede el afiliado establecer ningún compromiso en nombre de BETANDEAL, y el afiliado debe indicar en todas sus comunicaciones o acuerdos relacionados con la afiliación que actúa exclusivamente en su propio nombre."
+
+msgid "licenses_title"
+msgstr "11.- LICENCIAS Y USO DE LOS LOGOTIPOS Y MARCAS DE BETANDEAL"
+
+msgid "licenses_description"
+msgstr "Cada parte conservará todos los derechos de propiedad intelectual u otros derechos sobre sus respectivos nombres, logotipos, marcas, bases de datos y cualquier otro activo protegido por la normativa vigente. Nada en este acuerdo se interpretará como una renuncia o transferencia de los derechos pertenecientes a cada una de las partes, derivados de la propiedad intelectual o industrial sobre los activos que regula dicha normativa. BETANDEAL otorga al usuario una licencia revocable y no exclusiva para usar, reproducir y transmitir los signos distintivos de su propiedad (logotipos, marca, botones, banners y textos) en su sitio web o canal, únicamente con el propósito exclusivo de crear enlaces de hipertexto entre sus respectivos sitios, y en ningún caso, salvo lo expresamente contemplado en este documento, copiar, distribuir, modificar, transformar o crear obras derivadas de ellos. El usuario no podrá incluir ni hacer uso en ningún sentido de la palabra 'BETANDEAL', así como cualquier variante de la misma que tenga el efecto de asociarla con la misma fuera de las condiciones previstas en este contrato. El usuario no creará, publicará, distribuirá ni autorizará ningún material escrito referido a BETANDEAL sin consentimiento previo y por escrito. BETANDEAL no es responsable de la información o contenido de los sitios web o canales de los usuarios."
+
+msgid "indemnification_title"
+msgstr "12.- INDEMNIZACIÓN"
+
+msgid "indemnification_description"
+msgstr "En virtud de este acuerdo, el usuario se compromete a indemnizar y mantener indemne a BETANDEAL y su plataforma, así como a sus directores, ejecutivos, empleados, representantes, accionistas, socios, miembros y demás propietarios, de cualquier reclamación, acción, demanda, responsabilidad, pérdidas, daños, demandas, acuerdos, costos y gastos (en adelante, 'Pérdidas'), en la medida en que dichas Pérdidas (o acciones con respecto a ellas) se deriven de (1) procedimientos judiciales relacionados con el uso de Marcas de Afiliados por infracción de marca registrada, nombre comercial, derechos de autor, licencia, propiedad intelectual u otros derechos de propiedad de terceros, (2) falsificación de declaraciones o garantías suscritas por el usuario a través de este acuerdo o por incumplimiento de cualquiera de los pactos contenidos en él (3) procedimientos judiciales relacionados con el usuario."
+
+msgid "notifications_title"
+msgstr "13.- NOTIFICACIONES"
+
+msgid "notifications_description"
+msgstr "Todas las notificaciones y comunicaciones que surjan de estas condiciones se harán por escrito y se notificarán debidamente cuando se entreguen personalmente o se envíen por correo electrónico certificado a la siguiente dirección support@betandeal.com. Las partes reconocen que la contratación por medios electrónicos es válida y plenamente efectiva, siempre que se realice por cualquiera de los medios válidos legalmente: mediante la aceptación de los términos y condiciones, con firma electrónica, y/o con una firma realizada a través de terceros de confianza."
+
+msgid "applicable_law_title"
+msgstr "14.- LEY APLICABLE Y JURISDICCIÓN"
+
+msgid "applicable_law_description"
+msgstr "Este Acuerdo se regirá por la legislación del Derecho Español. Las partes se someten, a su elección, para la resolución de conflictos relacionados con este Acuerdo, renunciando a cualquier otra jurisdicción, a los Tribunales de la ciudad de Madrid."
+
+msgid "cookies_title"
+msgstr "Cookies"
+
+msgid "cookies_intro"
+msgstr "El acceso a este sitio web puede implicar el uso de cookies. Las cookies son pequeñas cantidades de información que se almacenan en el navegador utilizado por cada usuario - en los diferentes dispositivos que puedan ser usados para navegar - de manera que el servidor recuerda cierta información que solo el servidor que la implementó leerá para mejorar la experiencia. Las cookies facilitan la navegación, hacen que sea más amigable y no dañan el dispositivo de navegación."
+
+msgid "cookies_automatic_procedures"
+msgstr "Las cookies son procedimientos automáticos para recopilar información relativa a las preferencias determinadas por el usuario durante su visita al Sitio Web para reconocerlo como usuario, personalizar su experiencia y uso del Sitio Web, y también pueden, por ejemplo, ayudar a identificar y resolver errores."
+
+msgid "cookies_information_collected"
+msgstr "La información recopilada a través de las cookies puede incluir la fecha y hora de las visitas al Sitio Web, las páginas vistas, el tiempo que se pasa en el Sitio Web y los sitios visitados justo antes y justo después del Sitio Web. Sin embargo, ninguna cookie permite contactar con el número de teléfono del usuario ni con cualquier otro medio de contacto personal. Ninguna cookie puede extraer información del disco duro del usuario ni robar información personal. La única manera en que la información privada del usuario puede formar parte del archivo de cookies es que el usuario proporcione esa información personalmente al servidor."
+
+msgid "cookies_personal_data"
+msgstr "Las cookies que permiten la identificación de una persona se consideran datos personales. Por lo tanto, se aplicará la Política de Privacidad descrita anteriormente. En este sentido, para el uso de estas cookies será necesario el consentimiento del Usuario. Este consentimiento se comunicará en base a una elección genuina, ofrecida mediante una decisión afirmativa y positiva, antes del tratamiento inicial, extraíble y documentada."
+
+msgid "cookies_disabling_title"
+msgstr "Deshabilitación, rechazo y eliminación de cookies"
+
+msgid "cookies_disabling_description"
+msgstr "El usuario puede desactivar, rechazar y eliminar las cookies - total o parcialmente - instaladas en su dispositivo configurando su navegador (incluyendo, por ejemplo, Chrome, Firefox, Safari, Explorer). A este respecto, los procedimientos para rechazar y eliminar cookies pueden diferir de un navegador a otro. En consecuencia, el usuario debe seguir las instrucciones proporcionadas por el navegador de Internet que esté utilizando. En el caso de que rechace el uso de cookies - total o parcialmente - puede continuar utilizando el Sitio Web, aunque puede estar limitado en el uso de algunas de sus funciones."
+
+msgid "jjanalistas"
+msgstr "JJ Analistas es uno de los tipsters de referencia en España, viajando por el mundo analizando partidos de su especialidad, el fútbol. Con una comunidad de más de 150,000 seguidores en Instagram y 170,000 en Telegram, proporciona contenido de alta calidad sobre apuestas deportivas."
+
+msgid "zonagemelos"
+msgstr "Carlos y Daniel son los streamers de slots y ruleta en español número uno en el mundo. Con una comunidad enfocada en España y más de 260,000 seguidores en Instagram, se les puede encontrar cada semana en Twitch, Kick y YouTube. Además, tienen una gran comunidad de apuestas deportivas en Telegram con su canal Betsanalistas, con más de 400,000 seguidores."
+
+msgid "luckymasked"
+msgstr "Desde México, con más de 150,000 suscriptores en su canal de Telegram. Experto en la Liga Mexicana y con más de 2.6 millones de seguidores en Instagram, proporciona contenido de alta calidad sobre apuestas deportivas."
+
+msgid "elingeniero"
+msgstr "El Ingeniero es una de las figuras más reconocibles en Colombia, con una comunidad de más de 278,000 seguidores en Instagram. Viaja por el mundo para presenciar los eventos más importantes en fútbol y tenis, sus dos especialidades. En Telegram, donde publica la mayoría de sus apuestas, tiene más de 430,000 seguidores."
+
+msgid "elapostador"
+msgstr "El Apostador tiene una de las comunidades más leales en Colombia, con 308,000 seguidores en Instagram y 343,000 en Telegram. Recientemente, ha expandido su éxito a Kick, donde en solo unos meses ha ganado más de 6,000 espectadores que ven todas sus sesiones en vivo sobre apuestas deportivas. Se ha convertido en el streamer de apuestas deportivas número uno en Colombia en Kick."
+
+msgid "danibet"
+msgstr "Danibet, conocido en toda Colombia, es mucho más que un tipster. Con una comunidad de más de 680,000 seguidores en Instagram, se ha convertido en una de las personalidades más influyentes en Colombia. Además, en Telegram, tiene más de 410,000 suscriptores donde proporciona predicciones diarias."
+
+msgid "bruxotips"
+msgstr "Experto en fútbol europeo y brasileño, Bruxo Tips es uno de los influencers brasileños más prestigiosos en el mercado de apuestas con más de 165,000 suscriptores en su canal de Telegram y más de 200,000 seguidores en Instagram. Es conocido por sus buenos análisis y por producir material de alta calidad con gran compromiso y conversión."
+
+msgid "joaodainfotips"
+msgstr "Brasileño y periodista deportivo profesional. Apasionado por las apuestas deportivas y la creación de contenido. Cuenta con más de 60,000 seguidores en Instagram y más de 30,000 en su canal de Telegram donde comparte sus picks más exclusivos con su fiel comunidad."
+
+msgid "betandeal-affiliates"
+msgstr "Betandeal affiliates es un socio estratégico en la monetización de audiencias a través de apuestas deportivas, casino y póker. Ofrece acceso a las mejores casas de apuestas y herramientas especializadas para Tipsters, diseñadas para maximizar el rendimiento de cada canal."
+
+msgid "betandeal-games"
+msgstr "Betandeal Games es un proveedor B2B de juegos online especializado en el desarrollo de plataformas para casinos en línea. Como una marca disruptiva en la industria, Betandeal Games se distingue por ofrecer soluciones innovadoras que permiten a sus socios expandirse rápidamente en el mercado."
+
+msgid "premios"
+msgstr "Premios BETANDEAL"
+
+msgid "premiumpay"
+msgstr "Premiumpay surge como respuesta a la demanda de nuestros colaboradores para monetizar sus contenidos. Es una herramienta que permite a cualquiera ofrecer sus servicios en línea a su comunidad con métodos de pago adaptados a nuestros principales mercados."
+
+msgid "gainblers"
+msgstr "Gainblers es una web con información sobre casas de apuestas, casinos y póker online, junto con una activa comunidad internacional que comparte pronósticos diariamente. Cuenta con una gran comunidad de usuarios en redes sociales y compiten mensualmente en la Tipster League, una liga creada por Gainblers con premios en efectivo y en ETH."
+
+msgid "xbetters"
+msgstr "XBetters es una colección única de 3,000 NFTs, que ofrece a sus miembros beneficios exclusivos en iGaming y apuestas deportivas. El objetivo de BetanDeal con esta colección es iniciarse en el mundo de web3 y aprender cómo funciona la tecnología blockchain para explorar todos los usos que puede y podrá tener."
+
+msgid "link2play"
+msgstr "Link2Play es una herramienta que te permite crear y gestionar campañas publicitarias de manera eficiente, facilitando su distribución a través de enlaces personalizados. Con un enfoque en la geolocalización, Link2Play se adapta a la normativa específica de cada país o estado, asegurando el cumplimiento legal."
+
+msgid "madrid"
+msgstr "Nuestra sede principal, ubicada en el corazón de España, es el centro de nuestras operaciones estratégicas."
+
+msgid "ceuta"
+msgstr "La oficina de Ceuta es clave para nuestras operaciones en el sur de Europa y el norte de África, facilitando la conexión con mercados estratégicos."
+
+msgid "sao-paulo"
+msgstr "Nuestra oficina en Brasil nos permite atender mejor a nuestros socios en América Latina, ofreciendo soporte y estrategias adaptadas a este mercado en crecimiento."
+
+msgid "miami"
+msgstr "La oficina de USA en Florida nos va a permitir ofrecer nuestros servicios a nuevos socios en Estados Unidos."
+
+msgid "bogota"
+msgstr "Nuestra oficina en Bogotá fortalece nuestra presencia en América Latina, mejorando la atención a nuestros socios y la expansión en este mercado clave."
+
+msgid "title_offices"
+msgstr "Madrid - Ceuta - Sao Paulo - Miami - Bogotá"
+
+#HEADER MENU
+
+msgid "related_news_affiliates"
+msgstr "También te puede interesar"
+
+msgid "header_menu_inicio"
+msgstr "Inicio"
+
+msgid "header_menu_empresa"
+msgstr "Empresa"
+
+msgid "header_menu_empresa_historia"
+msgstr "Historia"
+
+msgid "header_menu_empresa_oficinas"
+msgstr "Oficinas"
+
+msgid "header_menu_empresa_partners"
+msgstr "Partners"
+
+msgid "header_menu_empresa_embajadores"
+msgstr "Embajadores"
+
+msgid "header_menu_productos"
+msgstr "Productos"
+
+msgid "header_menu_carreras"
+msgstr "Carreras"
+
+msgid "header_menu_noticias"
+msgstr "Noticias"
+
+msgid "header_menu_contacto"
+msgstr "Contacto"
+
+#HOME
+
+msgid "home_block_title"
+msgstr "Inicio | BETANDEAL"
+
+msgid "home_main_title_1"
+msgstr "WE ARE"
+
+msgid "home_main_title_2"
+msgstr "GAMECHANGERS!"
+
+msgid "home_main_title_3"
+msgstr "BETANDEAL lidera la forma de generar tráfico en nuevos medios para las apuestas, casino y póquer"
+
+msgid "home_explore_button"
+msgstr "Explora nuestros productos"
+
+msgid "home_last_news_title"
+msgstr "Última hora"
+
+msgid "home_last_news_subtitle"
+msgstr "Betandeal presenta los primeros Premios de Tipsters de la Historia"
+
+msgid "home_last_news_more_info"
+msgstr "Clica aquí"
+
+msgid "home_numbers_title"
+msgstr "Betandeal en números"
+
+msgid "home_numbers_subtitle"
+msgstr "En Betandeal, nuestro crecimiento y éxito se reflejan en nuestras cifras"
+
+msgid "home_numbers_1"
+msgstr "Fundación"
+
+msgid "home_numbers_2"
+msgstr "Oficinas"
+
+msgid "home_numbers_3"
+msgstr "Mercados"
+
+msgid "home_numbers_4"
+msgstr "Empleados"
+
+msgid "home_numbers_5"
+msgstr "Socios"
+
+msgid "home_numbers_more_info"
+msgstr "Descubre más"
+
+msgid "home_products_title"
+msgstr "Nuestros Productos"
+
+msgid "home_products_subtitle"
+msgstr "Proporcionamos estrategias innovadoras y soluciones personalizadas para maximizar el rendimiento de nuestros socios en apuestas deportivas, casinos en línea y póker"
+
+msgid "home_products_1"
+msgstr "Gainblers"
+
+msgid "home_products_2"
+msgstr "Premiumpay"
+
+msgid "home_products_3"
+msgstr "Link2play"
+
+msgid "home_products_4"
+msgstr "Influencer Network"
+
+msgid "home_products_more_info"
+msgstr "Descubre más sobre nuestros productos​"
+
+msgid "home_partners_title"
+msgstr "Nuestros Partners"
+
+msgid "home_partners_subtitle"
+msgstr "Trabajamos con empresas de todo el mundo para liderar el sector del iGaming"
+
+msgid "home_partners_more_info"
+msgstr "Saber más"
+
+msgid "home_contact_title"
+msgstr "Contacto"
+
+msgid "home_contact_subtitle"
+msgstr "¿Tienes alguna pregunta o necesitas más información?"
+
+msgid "home_contact_form_text"
+msgstr "¡Contáctanos! Si no encuentras lo que buscas, nuestros equipos están disponibles para resolver cualquier consulta que puedas tener sobre BETANDEAL"
+
+msgid "home_contact_form_title"
+msgstr "Formulario de contacto"
+
+msgid "home_contact_1"
+msgstr "Nombre"
+
+msgid "home_contact_2"
+msgstr "Apellido"
+
+msgid "home_contact_3"
+msgstr "Correo Electrónico"
+
+msgid "home_contact_4"
+msgstr "Empresa (opcional)"
+
+msgid "home_contact_5"
+msgstr "Mensaje"
+
+msgid "home_contact_6"
+msgstr "Enviar"
+
+msgid "home_contact_7"
+msgstr "Por favor, complete todos los campos obligatorios"
+
+msgid "home_contact_offices_title"
+msgstr "Información de Oficinas"
+
+#HISTORY
+
+msgid "history_block_title"
+msgstr "Historia | BETANDEAL"
+
+msgid "history_menu_1"
+msgstr "Inicio"
+
+msgid "history_menu_2"
+msgstr "Empresa"
+
+msgid "history_menu_3"
+msgstr "Nuestra historia"
+
+msgid "history_text_title"
+msgstr "Esta es nuestra historia"
+
+msgid "history_text_subtitle"
+msgstr "El por qué estamos aquí"
+
+msgid "history_text_1"
+msgstr "Desde nuestra fundación en 2016, Betandeal ha experimentado un gran crecimiento, expandiéndose a más de 20 mercados y estableciendo oficinas en Madrid, Ceuta, Sao Paulo, Bogotá y Miami."
+
+msgid "history_text_2"
+msgstr "Somos los Gamechangers del sector del iGaming, dedicados a establecer nuevas reglas y transformar la industria."
+
+msgid "history_text_contact"
+msgstr "Contacta con BETANDEAL"
+
+msgid "history_text_video_presentation"
+msgstr "Video presentación de BETANDEAL"
+
+msgid "history_timeline_main_title"
+msgstr "Nuestro viaje hacia la innovación en el iGaming"
+
+msgid "history_timeline_main_subtitle"
+msgstr "TIMELINE"
+
+msgid "history_timeline_fundacion"
+msgstr "Fundación BETANDEAL"
+
+msgid "history_timeline_expansion"
+msgstr "Expansión"
+
+msgid "history_timeline_expansion_1"
+msgstr "Expansión LATAM"
+
+msgid "history_timeline_expansion_2"
+msgstr "Apertura de oficinas en Madrid"
+
+msgid "history_timeline_expansion_3"
+msgstr "Adquisición de iApuestas.com y DeportesOnline.com"
+
+msgid "history_timeline_expansion_4"
+msgstr "Apertura de oficinas en Ceuta"
+
+msgid "history_timeline_expansion_brasil"
+msgstr "Expansión a nuevos mercados Brasil e Italia"
+
+msgid "history_timeline_new_brand"
+msgstr "Nueva imagen de marca"
+
+msgid "history_timeline_new_brand_1"
+msgstr "Lanzamiento de la nueva imagen de marca de BETANDEAL y Gainblers, antigua iApuestas"
+
+msgid "history_timeline_new_brand_2"
+msgstr "Lanzamiento de la marca XBetters"
+
+msgid "history_timeline_social_media"
+msgstr "Creación de Estrategia de Social Media"
+
+msgid "history_timeline_social_media_1"
+msgstr "Desarrollo del plan de comunicación y la estrategia de social media para la marca Gainblers"
+
+msgid "history_timeline_growth"
+msgstr "Crecimiento"
+
+msgid "history_timeline_growth_1"
+msgstr "Apertura de las nuevas oficinas en Sao Paulo, Brasil"
+
+msgid "at"
+msgstr "En"
+
+msgid "history_bottom_text_1"
+msgstr ", nuestros valores guían cada paso de nuestro camino"
+
+msgid "history_bottom_text_2"
+msgstr "Somos directos, incondicionales y tenemos una "
+
+msgid "history_bottom_text_3"
+msgstr "mentalidad ganadora"
+
+msgid "history_bottom_text_4"
+msgstr "Analizamos el juego, identificamos la mejor solución y vamos a por ella con pasión y compromiso"
+
+msgid "history_bottom_text_5"
+msgstr "Nuestro propósito es claro"
+
+msgid "history_bottom_text_6"
+msgstr "Setting new Rules"
+
+msgid "history_bottom_text_7"
+msgstr "Estamos aquí para crear las nuevas reglas del juego y hacer prosperar la industria del"
+
+msgid "history_bottom_text_8"
+msgstr "iGaming"
+
+msgid "history_bottom_text_9"
+msgstr " de manera responsable"
+
+msgid "history_bottom_text_10"
+msgstr "Estamos enfocados en liderar el cambio en la industria del iGaming, arriesgando para ganar y siempre"
+
+msgid "history_bottom_text_11"
+msgstr "buscando innovar"
+
+
+#PRODUCT
+
+msgid "product_block_title"
+msgstr "Nuestros Productos | BETANDEAL"
+
+msgid "product_meta_description"
+msgstr "Explora el dinámico ecosistema de Betandeal en el sector del iGaming"
+
+msgid "product_our_products_small"
+msgstr "Nuestros Productos"
+
+msgid "product_our_products_title"
+msgstr "NUESTROS PRODUCTOS"
+
+msgid "product_our_products_subtitle"
+msgstr "Explora el dinámico ecosistema de Betandeal"
+
+msgid "product_our_products_text1"
+msgstr "Betandeal es solo la punta del iceberg. Aquí puedes descubrir todos los productos independientes que forman parte de nuestra empresa, cada uno diseñado para ofrecer soluciones innovadoras en el sector del iGaming"
+
+msgid "product_our_products_text2"
+msgstr "Descubre cómo cada uno de nuestros productos están diseñados para ofrecer soluciones innovadoras y efectivas en el sector del iGaming"
+
+msgid "product_our_products_contact"
+msgstr "Contacta con Betandeal"
+
+msgid "product_our_products_visit"
+msgstr "Visitar"
+
+#OFFICES
+
+msgid "publicado"
+msgstr "Publicado"
+
+msgid "text_success_contact_affiliates"
+msgstr "Gracias por enviarnos tu consulta"
+
+msgid "text_success_contact_affiliates2"
+msgstr "Te contestaremos en la mayor brevedad posible."
+
+msgid "text_error_contact_affiliates"
+msgstr "No se pudo enviar correo!."
+
+msgid "advice_error_invalid_email_format"
+msgstr "Formato de email no válido"
+
+msgid "offices_block_title"
+msgstr "Nuestras Oficinas | BETANDEAL"
+
+msgid "offices_meta_description"
+msgstr "Presencia Global de Betandeal en múltiples países, consolidándonos como una empresa líder en el sector del iGaming"
+
+msgid "offices_our_offices"
+msgstr "Nuestras Oficinas"
+
+msgid "offices_main_title"
+msgstr "NUESTRAS OFICINAS"
+
+msgid "offices_main_subtitle"
+msgstr "Presencia global de Betandeal​"
+
+msgid "offices_main_text_1"
+msgstr "En Betandeal, operamos en múltiples países, consolidándonos como una empresa líder en el sector del iGaming"
+
+msgid "offices_main_text_2"
+msgstr "Actualmente, contamos con oficinas en Madrid, Ceuta, Sao Paulo, Bogotá y Miami, y tenemos previsto seguir creciendo y abrir más oficinas en el futuro"
+
+msgid "offices_main_contact"
+msgstr "Contacta con Betandeal"
+
+msgid "offices_where_title"
+msgstr "¿DÓNDE ESTAMOS?"
+
+msgid "offices_where_text_1"
+msgstr "Desde nuestra fundación en 2016, "
+
+msgid "offices_where_text_2"
+msgstr "ha experimentado un gran crecimiento, expandiéndose a más de 20 mercados y estableciendo oficinas en Madrid, Ceuta, Sao Paulo, Bogotá y Miami"
+
+msgid "offices_where_text_3"
+msgstr "Somos los"
+
+msgid "offices_where_text_4"
+msgstr "del sector del"
+
+msgid "offices_where_text_5"
+msgstr ", dedicados a establecer nuevas reglas y transformar la industria"
+
+msgid "offices_where_address_and_contact"
+msgstr "Dirección y Contacto"
+
+msgid "offices_where_location"
+msgstr "Ver ubicación"
+
+#PARTNERS
+
+msgid "partners_block_title"
+msgstr "Nuestros Partners | BETANDEAL"
+
+msgid "partners_meta_description"
+msgstr "Trabajamos con empresas de todo el mundo para liderar el sector del iGaming"
+
+msgid "partners_our_partners"
+msgstr "Nuestros Partners"
+
+msgid "partners_main_title"
+msgstr "NUESTROS PARTNERS"
+
+msgid "partners_main_subtitle"
+msgstr "Trabajamos con empresas de todo el mundo para liderar el sector del iGaming"
+
+msgid "partners_main_text"
+msgstr "En Betandeal, colaboramos con empresas de todo el mundo, creando sinergias y compartiendo estrategias que impulsan el rendimiento y la innovación en el sector de apuestas deportivas, casinos y póker"
+
+msgid "partners_main_contact"
+msgstr "Contacta con Betandeal"
+
+msgid "partners_services_title"
+msgstr "Nuestros Servicios"
+
+msgid "partners_services_text"
+msgstr "Proporcionamos estrategias innovadoras y soluciones personalizadas para maximizar el rendimiento de nuestros socios en"
+
+msgid "partners_marketing_title"
+msgstr "Estrategias de marketing Innovadoras"
+
+msgid "partners_marketing_text"
+msgstr "Desarrollamos enfoques creativos que responden a las tendencias del mercado, impulsando el crecimiento y la rentabilidad de nuestros socios"
+
+msgid "partners_solutions_title"
+msgstr "Soluciones Personalizadas"
+
+msgid "partners_solutions_text"
+msgstr "Adaptamos nuestras estrategias a las necesidades específicas de cada cliente, asegurando resultados efectivos y sostenibles"
+
+msgid "partners_traffic_title"
+msgstr "Tráfico de Alta Calidad"
+
+msgid "partners_traffic_text"
+msgstr "Generamos tráfico segmentado y de alto valor para maximizar conversiones y mejorar el retorno de inversión"
+
+msgid "partners_advertising_title"
+msgstr "Publicidad digital"
+
+msgid "partners_advertising_text"
+msgstr "Gestionamos campañas de publicidad online en diversas plataformas para incrementar la visibilidad de las marcas y atraer clientes"
+
+msgid "partners_fraud_title"
+msgstr "Control del Fraude"
+
+msgid "partners_fraud_text"
+msgstr "Implementamos medidas avanzadas para detectar y prevenir actividades fraudulentas, garantizando la seguridad de nuestras operaciones y socios"
+
+msgid "partners_final_text"
+msgstr "Gracias a nuestra experiencia, llevamos el éxito de nuestros socios a nuevos niveles de rendimiento y crecimiento sostenible"
+
+msgid "partners_brands_title"
+msgstr "Socios destacados"
+
+msgid "partners_brands_subtitle"
+msgstr "Colaborando con los mejores para impulsar el éxito juntos"
+
+msgid "partners_joinus_title"
+msgstr "COLABORA CON NOSOTROS"
+
+msgid "partners_joinus_text_1"
+msgstr "Únete a BETANDEAL para potenciar tu marca, aumentar el rendimiento de tus campañas y beneficiarte de nuestras soluciones líderes en el sector iGaming"
+
+msgid "partners_joinus_text_2"
+msgstr "¡Contáctanos hoy y descubre cómo podemos crecer juntos!"
+
+msgid "partners_joinus_contact"
+msgstr "Contacta con BETANDEAL"
+
+#AMBASSADORS
+
+msgid "ambassadors_block_title"
+msgstr "Embajadores de Marca | BETANDEAL"
+
+msgid "ambassadors_meta_description"
+msgstr "Conoce a los influencers que representan a Betandeal en el sector del iGaming"
+
+msgid "ambassadors_brand_ambassadors"
+msgstr "Embajadores de marca"
+
+msgid "ambassadors_ambassadors_title"
+msgstr "Nuestros Embajadores de Marca"
+
+msgid "ambassadors_ambassadors_subtitle"
+msgstr "Conoce a los influencers que representan Betandeal"
+
+msgid "ambassadors_ambassadors_text_1"
+msgstr "En Betandeal, trabajamos con los mejores embajadores de marca del sector del iGaming"
+
+msgid "ambassadors_ambassadors_text_2"
+msgstr "Conoce más sobre nuestros influencers y descubre cómo contribuyen al éxito de Betandeal"
+
+msgid "ambassadors_ambassadors_visit_profile"
+msgstr "Visitar Perfil de"
+
+#CONTACT
+
+msgid "contact_block_title"
+msgstr "Contacto | BETANDEAL"
+
+msgid "contact_meta_description"
+msgstr "¿Tienes alguna pregunta o necesitas más información? ¡Contáctanos hoy mismo!"
+
+msgid "contact_main_title"
+msgstr "CONTACTA CON BETANDEAL"
+
+msgid "contact_main_subtitle"
+msgstr "¿Tienes alguna pregunta o necesitas más información? ¡Contáctanos hoy mismo!"
+
+msgid "contact_social_text"
+msgstr "También puedes encontrarnos en nuestras redes sociales"
+
+#FOOTER
+
+msgid "footer_about_BETANDEAL"
+msgstr "Sobre BETANDEAL"
+
+msgid "footer_web_BETANDEAL"
+msgstr "Web BETANDEAL"
+
+msgid "footer_sitemap"
+msgstr "Mapa del sitio web​"
+
+#OTHERS
+
+msgid "alt_map"
+msgstr "Mapa​"
+
+msgid "idioma_es"
+msgstr "idioma español"
+
+msgid "idioma_en"
+msgstr "idioma inglés"
+
+msgid "idioma_pt"
+msgstr "idioma portugués"
+
+msgid "juegos"
+msgstr "Juegos"
+
+msgid "tipster_awards"
+msgstr "Premios Tipsters"
+
+msgid "influencer-network"
+msgstr "Trabajamos con los mejores influencers internacionales del sector iGaming, seleccionando a los más destacados en cada país. Nuestra red de embajadores de marca ofrece contenido auténtico y atractivo, ayudando a fortalecer la presencia de nuestros socios en mercados clave."
+
+msgid "canales_aniadidos"
+msgstr "Canales añadidos:"
+
+msgid "inscreverse"
+msgstr "Regístrate"
+
+msgid "index_influencer"
+msgstr "¿Eres influencer?"
+
+msgid "index_sign_up"
+msgstr "Regístrate"
+
+msgid "index_login"
+msgstr "Accede"
+
+msgid "index_access_to"
+msgstr "Ir a"
+
+msgid "inscreverse_caps"
+msgstr "REGÍSTRATE"
+
+msgid "titulo_error"
+msgstr "Tratas de acceder a una página inexistente"
+
+msgid "texto_1_error"
+msgstr "Mientras corregimos este error puedes volver a la"
+
+msgid "texto_2_error"
+msgstr "página de inicio"
+
+msgid "texto_3_error"
+msgstr "o bien"
+
+msgid "texto_4_error"
+msgstr "contactar con nosotros"
+
+msgid "titulo_error_500"
+msgstr "¡UPS! error de página"
+
+msgid "nombre_usuario_registro_error"
+msgstr "El nombre de usuario solo puede contener letras, números, '.', '_' o '-'."
+
+msgid "url_usuario_registro_error"
+msgstr "Introduce una URL válida"

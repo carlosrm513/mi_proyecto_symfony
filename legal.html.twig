@@ -1,0 +1,97 @@
+{% extends 'base_affiliates.html.twig' %}
+
+{% block title %}{{ translations.find(null, 'legal_title_privacy_policy').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'legal_description_privacy_policy').getTranslation() }}{% endblock %}
+
+{% block content %}
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}">
+                        <span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span>
+                    </a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <strong itemprop="name">{{ translations.find(null, 'legal_title_privacy_policy').getTranslation() }}</strong>
+                    <meta itemprop="position" content="2">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'legal_title_privacy_policy').getTranslation() }}</h1>
+
+            <p><b>{{ translations.find(null, 'legal_responsible_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_responsible_company').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_responsible_address').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_responsible_city_country').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_responsible_cif').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_responsible_phone').getTranslation() }}</p>
+            <p><a href="mailto:{{ translations.find(null, 'legal_responsible_email').getTranslation() }}">{{ translations.find(null, 'legal_responsible_email').getTranslation() }}</a></p>
+            <p>{{ translations.find(null, 'legal_responsible_company_description').getTranslation() }}</p>
+
+            <p><b>{{ translations.find(null, 'legal_data_purpose_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_data_purpose_intro').getTranslation() }}</p>
+            <ul class="listUL">
+                <li>{{ translations.find(null, 'legal_data_purpose_item_1').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'legal_data_purpose_item_2').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'legal_data_purpose_item_3').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'legal_data_purpose_item_4').getTranslation() }}</li>
+            </ul>
+
+            <p><b>{{ translations.find(null, 'legal_data_duration_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_data_duration_description').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_intro').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_free').getTranslation() }}</p>
+
+            <p><b>{{ translations.find(null, 'legal_data_rights_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_data_rights_access').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_access_description').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_rectify_delete').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_limit_processing').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_object_processing').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_portability_withdrawal').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_contact').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_information').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_data_rights_agency_contact').getTranslation() }}</p>
+
+            <p><b>{{ translations.find(null, 'legal_cookies_policy_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_cookies_policy_description').getTranslation() }}</p>
+
+            <p><b>{{ translations.find(null, 'legal_platform_use_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_platform_use_intro').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_platform_use_access').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_platform_use_additional_services').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_platform_use_content_authorization').getTranslation() }}</p>
+            <ul class="listUL">
+                <li>{{ translations.find(null, 'legal_platform_use_item_1').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'legal_platform_use_item_2').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'legal_platform_use_item_3').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'legal_platform_use_item_4').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'legal_platform_use_item_5').getTranslation() }}</li>
+            </ul>
+
+            <p><b>{{ translations.find(null, 'legal_platform_operation_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_platform_operation_intro').getTranslation() }}</p>
+            <ul class="listUL">
+                <li>{{ translations.find(null, 'legal_platform_operation_intro').getTranslation() }}</li>
+            </ul>
+
+            <p><b>{{ translations.find(null, 'legal_contents_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_contents_intro').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_linked_pages_illegal_content').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_periodic_verification_content').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_content_use_liability').getTranslation() }}</p>
+
+            <p><b>{{ translations.find(null, 'legal_ownership_content_title').getTranslation() }}</b></p>
+            <p>{{ translations.find(null, 'legal_ownership_content_intro').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_content_protected_property').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'legal_content_property_rights').getTranslation() }}</p>
+        </div>
+    </article>
+{% endblock %}

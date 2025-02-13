@@ -1,0 +1,104 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ translations.find(null, 'meta_title_noticias_affiliates').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'meta_description_noticias_affiliates').getTranslation() }}{% endblock %}
+{% block content %}
+
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}"><span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"> <strong itemprop="name">{{ translations.find(null, 'menuitem_noticias').getTranslation() }}</strong>
+                    <meta itemprop="position" content="2">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'news_title_affiliates').getTranslation() }}</h1>
+            <p>{{ translations.find(null, 'news_description_affiliates').getTranslation() }}</p>
+
+            <div class="noticiasDestacadas">
+                {# Mostramos las dos primeras noticias destacadas #}
+                {% for noticia in noticias|slice(0, 2) %}
+                    <div class="item">
+                        <div class="img">
+                            <img loading="lazy" src="{{ storageApi }}{{ noticia.imagen_listado }}" alt="{{ noticia.alt_imagen_listado }}"/>
+                        </div>
+                        <div class="datos">
+                            <a href="{{ path('affiliates_noticias_detalle_'~ language, { 'lang': language, 'url': noticia.url }) }}" title="{{ noticia.titulo }}">{{ noticia.titulo }}</a>
+                            <time>{{ noticia.fecha|custom_date_format(language) }}</time>
+                            <p>{{ noticia.entradilla|slice(0, 300)|raw }}</p>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div class="noticiasListado">
+                {# Listamos las noticias restantes, paginadas #}
+                {% for noticia in noticias|slice(2) %}
+                    <div class="item">
+                        <div class="img">
+                            <img loading="lazy" src="{{ storageApi }}{{ noticia.imagen_listado }}" alt="{{ noticia.alt_imagen_listado }}"/>
+                        </div>
+                        <div class="datos">
+                            <a href="{{ path('affiliates_noticias_detalle_'~ language, { 'lang': language, 'url': noticia.url }) }}" title="{{ noticia.titulo }}">{{ noticia.titulo }}</a>
+                            <time>{{ noticia.fecha|custom_date_format(language) }}</time>
+                            <div class="txt">
+                                <p>{{ noticia.entradilla|slice(0, 300)|raw }}</p>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+
+            {# Sección de paginación #}
+            <ul class="paginacion">
+                {% if previous_page %}
+                    <li><a href="{{ path('affiliates_noticias_'~ language, { 'lang': language, 'page': previous_page }) }}"><i class="icon-dir-left"></i></a></li>
+                {% else %}
+                    <li><span class="pagNull"><i class="icon-dir-left"></i></span></li>
+                {% endif %}
+
+                {% for i in 1..total_pages %}
+                    <li>
+                        {% if i == current_page %}
+                            <span class="pagCurrent">{{ i }}</span>
+                        {% else %}
+                            <a href="{{ path('affiliates_noticias_'~ language, { 'lang': language, 'page': i }) }}">{{ i }}</a>
+                        {% endif %}
+                    </li>
+                {% endfor %}
+
+                {% if next_page %}
+                    <li><a href="{{ path('affiliates_noticias_'~ language, { 'lang': language, 'page': next_page }) }}"><i class="icon-dir-right"></i></a></li>
+                {% else %}
+                    <li><span class="pagNull"><i class="icon-dir-right"></i></span></li>
+                {% endif %}
+            </ul>
+
+            <hr class="breakXL">
+
+            <div class="testWidth">
+                <div class="callTextImg">
+                    <div class="datos">
+                        <p class="titulo"><strong>{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}</strong></p>
+                        <p>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description1_affiliates').getTranslation() }}.<br>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description2_affiliates').getTranslation() }}.</p>
+                        <a class="btnXtraIcon" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}">
+                            {{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}<i class="icon-dir-right"></i>
+                        </a>
+                    </div>
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/banners/betandeal-winner.webp') }}" width="260" height="250" alt="{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+
+{% endblock %}

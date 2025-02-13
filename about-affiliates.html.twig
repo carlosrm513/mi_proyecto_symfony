@@ -1,0 +1,142 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ translations.find(null, 'meta_title_empresa_afiliacion_affiliates').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'meta_description_empresa_afiliacion_affiliates').getTranslation() }}{% endblock %}
+{% block content %}
+
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}"><span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemscope="" itemtype="https://schema.org/WebPage" itemprop="item" href="{{ path('affiliates_sobre_betandeal_'~ language) }}"> <span itemprop="name">{{ translations.find(null, 'title_empresa').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="2">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"> <strong itemprop="name">{{ translations.find(null, 'menuitem_quienes').getTranslation() }}</strong>
+                    <meta itemprop="position" content="3">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn containerX31">
+            <div>
+                <h1 class="hFX">{{ translations.find(null, 'company_about_affiliates_title1_affiliates').getTranslation() }}</h1>
+                <h2>{{ translations.find(null, 'company_about_affiliates_title2_affiliates').getTranslation() }}</h2>
+                <p>{{ translations.find(null, 'company_about_affiliates_description1_affiliates').getTranslation() }}.</p>
+                <p>{{ translations.find(null, 'company_about_affiliates_description2_affiliates').getTranslation() }}.</p>
+                <p>{{ translations.find(null, 'company_about_affiliates_description3_affiliates').getTranslation() }}.</p>
+            </div>
+            <div class="testWidth">
+                <div class="callTextImg">
+                    <div class="datos">
+                        <p class="titulo"><strong>{{ translations.find(null, 'inscreverse').getTranslation() }}</strong></p>
+                            <p>{{ translations.find(null, 'company_about_affiliates_bluediv_small_affiliates').getTranslation() }}.</p>
+                        <a class="btnXtraIcon" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}">{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}<i class="icon-dir-right"></i></a>
+                    </div>
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/banners/betandeal-winner.webp') }}"  width="260" height="250" alt="{{ translations.find(null, 'apostar').getTranslation() }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="containerIn">
+            <h3>{{ translations.find(null, 'company_about_affiliates_questiontitle_affiliates').getTranslation() }}</h3>
+            <p>{{ translations.find(null, 'company_about_affiliates_benefits_title_affiliates').getTranslation() }}:</p>
+            <div class="afiliacionList">
+                <div class="item">
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/betandeal-home-ventajas-casas-apuestas.webp') }}" width="400" height="250" alt="{{ translations.find(null, 'campanias_title').getTranslation() }}">
+                    </div>
+                    <div class="datos">
+                        <h4>{{ translations.find(null, 'campanias_title').getTranslation() }}</h4>
+                        <p>{{ translations.find(null, 'company_about_affiliates_campaigns_description_affiliates').getTranslation() }}.</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/betandeal-home-ventajas-comisiones.webp') }}" width="400" height="250" alt="{{ translations.find(null, 'comisiones_title').getTranslation() }}">
+                    </div>
+                    <div class="datos">
+                        <h4>{{ translations.find(null, 'comisiones_title').getTranslation() }}</h4>
+                        <p>{{ translations.find(null, 'company_about_affiliates_commisions_description_affiliates').getTranslation() }}.</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/betandeal-home-ventajas-soporte.webp') }}" width="400" height="250" alt="{{ translations.find(null, 'soporte_title').getTranslation() }}">
+                    </div>
+                    <div class="datos">
+                        <h4>{{ translations.find(null, 'soporte_title').getTranslation() }}</h4>
+                        <p>{{ translations.find(null, 'company_about_affiliates_support_description_affiliates').getTranslation() }}.</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/betandeal-home-ventajas-pagos.webp') }}" width="400" height="250" alt="{{ translations.find(null, 'pagos_title').getTranslation() }}">
+                    </div>
+                    <div class="datos">
+                        <h4>{{ translations.find(null, 'pagos_title').getTranslation() }}</h4>
+                        <p>{{ translations.find(null, 'company_about_affiliates_payments_description_affiliates').getTranslation() }}.</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/betandeal-home-ventajas-datos.webp') }}" width="400" height="250" alt="{{ translations.find(null, 'datos_title').getTranslation() }}">
+                    </div>
+                    <div class="datos">
+                        <h4>{{ translations.find(null, 'datos_title').getTranslation() }}</h4>
+                        <p>{{ translations.find(null, 'company_about_affiliates_data_description_affiliates').getTranslation() }}.</p>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/contenido/betandeal-home-ventajas-personalizacion.webp') }}" width="400" height="250" alt="{{ translations.find(null, 'personalizacion_title').getTranslation() }}">
+                    </div>
+                    <div class="datos">
+                        <h4>{{ translations.find(null, 'personalizacion_title').getTranslation() }}</h4>
+                        <p>{{ translations.find(null, 'company_about_affiliates_customization_description_affiliates').getTranslation() }}.</p>
+                    </div>
+                </div>
+            </div>
+
+            <hr class="breakXL">
+
+            <div class="testWidth">
+                <div class="callTextImg">
+                    <div class="datos">
+                        <p class="titulo"><strong>{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}</strong></p>
+                        <p>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description1_affiliates').getTranslation() }}.<br>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description2_affiliates').getTranslation() }}.</p>
+                        <a class="btnXtraIcon" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}">{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}<i class="icon-dir-right"></i></a>
+                    </div>
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/banners/betandeal-winner.webp') }}" width="260" height="250" alt="{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}">
+                    </div>
+                </div>
+            </div>
+
+            <hr class="breakXL">
+
+            <div class="txtCenter" itemscope itemprop="VideoObject">
+                <h2 itemprop="name">{{ translations.find(null, 'company_about_affiliates_video_title_affiliates').getTranslation() }}</h2>
+                <p itemprop="description">{{ translations.find(null, 'company_about_affiliates_video_description_affiliates').getTranslation() }}.</p>
+                <div class="videoCont">
+                    <video onloadstart="this.muted=true" controls poster="https://sandbox.premiumpay.pro/betandeal.affiliates/assets/video/betandeal-affiliates-800x450.webp">
+                        <meta itemprop="uploadDate" content="2024-10-31T08:00:00+08:00">
+                        <meta itemprop="duration" content="PT1M54S">
+                        <meta itemprop="contentUrl" content="https://sandbox.premiumpay.pro/betandeal.affiliates/assets/video/betandeal-affiliates-800x450.webm">
+                        <meta itemprop="thumbnailUrl" content="https://sandbox.premiumpay.pro/betandeal.affiliates/assets/video/betandeal-affiliates-800x450.webp">
+                        <source src="{{ asset('assets/video/affiliates/betandeal-affiliates-800x450.webm') }}">
+                    </video>
+
+                </div>
+            </div>
+        </div>
+    </article>
+
+{% endblock %}

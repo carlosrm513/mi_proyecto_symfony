@@ -1,0 +1,75 @@
+{% extends 'base_affiliates.html.twig' %}
+{% block title %}{{ translations.find(null, 'meta_title_empresa_affiliates').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'meta_description_empresa_affiliates').getTranslation() }}{% endblock %}
+{% block content %}
+
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope="" itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}"><span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+                    <a itemscope="" itemtype="https://schema.org/WebPage" itemprop="item" href="{{ path('affiliates_sobre_betandeal_'~ language) }}"> <span itemprop="name">{{ translations.find(null, 'title_empresa').getTranslation() }}</span></a>
+                    <meta itemprop="position" content="2">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"> <strong itemprop="name">{{ translations.find(null, 'menuitem_quienes').getTranslation() }}</strong>
+                    <meta itemprop="position" content="3">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'company_about_title_affiliates').getTranslation() }}</h1>
+            <h2>{{ translations.find(null, 'company_about_title2_affiliates').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'company_about_description_affiliates').getTranslation() }}.</p>
+            <p>{{ translations.find(null, 'company_about_description2_affiliates').getTranslation() }}.</p>
+            <p>{{ translations.find(null, 'company_about_description3_affiliates').getTranslation() }}.</p>
+            <div class="proyectoNav">
+                {% set sortedProducts = products|sort((a, b) => a.orden_about > b.orden_about) %}
+                {% for product in sortedProducts %}
+                    {% if product.orden_about %}
+                        <a href="#{{ product.id }}" title="{{ product.nombre }}"><img src="{{ asset('assets/img/marcas/' ~ product.img) }}" width="325" height="216" alt="{{ product.nombre }}" loading="lazy"></a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+            <div class="proyectoListado">
+                {% for product in sortedProducts %}
+                    {% if product.orden_about %}
+                        <section class="proyectoItem" id="{{ product.id }}">
+                            <div class="img">
+                                <img src="{{ asset('assets/img/marcas/' ~ product.img) }}" width="325" height="216" alt="{{ product.nombre }}" loading="lazy">
+                            </div>
+                            <div class="txt">
+                                <h3><a href="{{ product.enlace }}" title="{{ product.nombre }}" target="_blank">{{ product.nombre }}</a></h3>
+                                <p>{{ product.descripcion }}</p>
+                                <p><a class="btn btnLine" href="{{ product.enlace }}" title="{{ product.nombre }}" target="_blank">{{ translations.find(null, 'visitar').getTranslation() }} {{ product.view }}</a></p>
+                            </div>
+                        </section>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            <hr class="breakXL">
+
+            <div class="testWidth">
+                <div class="callTextImg">
+                    <div class="datos">
+                        <p class="titulo"><strong>{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}</strong></p>
+                        <p>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description1_affiliates').getTranslation() }}.<br>{{ translations.find(null, 'blue_div_how_to_be_affiliate_description2_affiliates').getTranslation() }}.</p>
+                        <a class="btnXtraIcon" href="{{ path('affiliates_sobre_betandeal_'~ language) }}" title="{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}">{{ translations.find(null, 'home_startnow_gamechanger_affiliates').getTranslation() }}<i class="icon-dir-right"></i></a>
+                    </div>
+                    <div class="img">
+                        <img loading="lazy" src="{{ asset('assets/img/affiliates/banners/betandeal-winner.webp') }}" width="260" height="250" alt="{{ translations.find(null, 'blue_div_how_to_be_affiliate_title_affiliates').getTranslation() }}">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+
+{% endblock %}

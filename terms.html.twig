@@ -1,0 +1,114 @@
+{% extends 'base_affiliates.html.twig' %}
+
+{% block title %}{{ translations.find(null, 'term_conditions_title').getTranslation() }}{% endblock %}
+{% block meta_description %}{{ translations.find(null, 'term_conditions_description').getTranslation() }}{% endblock %}
+
+{% block content %}
+    <div class="container migas">
+        <nav class="containerIn">
+            <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}">
+                        <span itemprop="name">{{ translations.find(null, 'home').getTranslation() }}</span>
+                    </a>
+                    <meta itemprop="position" content="1">
+                </li>
+                <li>/</li>
+                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <strong itemprop="name">{{ translations.find(null, 'terms_conditions_title').getTranslation() }}</strong>
+                    <meta itemprop="position" content="2">
+                </li>
+            </ol>
+        </nav>
+    </div>
+
+    <article class="container">
+        <div class="containerIn">
+            <h1 class="hFX">{{ translations.find(null, 'terms_conditions_title').getTranslation() }}</h1>
+
+            <h2>{{ translations.find(null, 'terms_company_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'terms_company_intro').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_company_info').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'terms_activity_title').getTranslation() }}</h2>
+            <h3>{{ translations.find(null, 'terms_definitions_title').getTranslation() }}</h3>
+            <p>{{ translations.find(null, 'terms_registered_trademark').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_affiliate_marketing_intro').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_affiliate_marketing_example').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_affiliate_marketing_target').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_affiliate_marketing_earnings').getTranslation() }}</p>
+
+            <p>{{ translations.find(null, 'terms_property_statement').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_affiliate_marketing_objective').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_product_service_types').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'terms_platform_advertising_purpose').getTranslation() }}</p>
+
+            <h3>{{ translations.find(null, 'parties_involved_title').getTranslation() }}</h3>
+            <p>{{ translations.find(null, 'parties_involved_intro').getTranslation() }}</p>
+            <ul class="listUL">
+                <li>{{ translations.find(null, 'party_client').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'party_affiliate').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'party_players').getTranslation() }}</li>
+            </ul>
+
+            <p>{{ translations.find(null, 'affiliate_platform_convergence').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'remuneration_services_description').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'exclusive_property_of_advertisers').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'platform_access_for_affiliates').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'responsibility_for_responsible_gaming').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'affiliate_promotion_requirements').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'affiliate_instructions_and_conditions').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'campaign_conditions_warning').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'definition_of_fraudulent_player').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'bots_as_fraudulent_players').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'players_compliance_responsibility').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'compensation_commissions_title').getTranslation() }}</h2>
+            <ul class="listUL">
+                <li>{{ translations.find(null, 'compensation_cpa').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'compensation_cpl').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'compensation_rs').getTranslation() }}</li>
+                <li>{{ translations.find(null, 'compensation_hybrid').getTranslation() }}</li>
+            </ul>
+
+            <h2>{{ translations.find(null, 'agreements_fixed_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'agreements_fixed_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'registration_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'registration_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'affiliate_section_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'affiliate_platform_record_description').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'affiliate_remuneration_calculation').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'affiliate_no_simulated_traffic').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'affiliate_simulated_traffic_consequences').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'affiliate_private_section_earnings_update').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'affiliate_payment_instructions').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'technical_support_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'technical_support_email').getTranslation() }}</p>
+            <p>{{ translations.find(null, 'technical_support_contact').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'cookies_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'cookies_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'modification_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'modification_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'relationship_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'relationship_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'licenses_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'licenses_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'indemnification_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'indemnification_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'notifications_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'notifications_description').getTranslation() }}</p>
+
+            <h2>{{ translations.find(null, 'applicable_law_title').getTranslation() }}</h2>
+            <p>{{ translations.find(null, 'applicable_law_description').getTranslation() }}</p>
+        </div>
+    </article>
+{% endblock %}
