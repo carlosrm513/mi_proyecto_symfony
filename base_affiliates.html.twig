@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="{{ language }}">
+<head>
+    
+    {% if app.environment != 'prod' %}
+        {# NO INDEXAR DEV #}
+        <meta name="robots" content="noindex, nofollow">
+    {% else %}
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-T33BXBWN');
+        </script>
+        <!-- End Google Tag Manager -->
+    {% endif %}
+    <meta charset="utf-8">
+    <title>{% block title %}Betandeal Affiliates{% endblock %}</title>
+    <meta name="description" content="{% block meta_description %}Betandeal Affiliates{% endblock %}">
+    <link rel="canonical" href="{{ app.request.uri }}" />
+    <link rel="icon" href="{{ asset('assets/favicon/affiliates/favicon.ico') }}" type="image/x-icon">
+    <link rel="alternate" hreflang="x-default" href='{{baseUrl}}{{ path(footerRoutes.en) }}'>
+    <link rel="alternate" hreflang="es" href='{{baseUrl}}{{ path(footerRoutes.es) }}'>
+    <link rel="alternate" hreflang="en" href='{{baseUrl}}{{ path(footerRoutes.en) }}'>
+    <link rel="alternate" hreflang="pt" href='{{baseUrl}}{{ path(footerRoutes.pt) }}'>
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/favicon/affiliates/apple-touch-icon.png') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('assets/favicon/affiliates/favicon-32x32.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/favicon/affiliates/favicon-16x16.png') }}">
+
+    <meta property="og:title" content="Betandeal Affiliates">
+    <meta property="og:description" content="{{ translations.find(null, 'home_title_affiliates').getTranslation() }} {{ translations.find(null, 'home_title_affiliates2').getTranslation() }}">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="{{baseUrl}}{{ asset('assets/img/affiliates/og/betandeal-affiliates.png') }}">
+    <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width">
+
+    <link href="{{ asset('assets/css/affiliates/styles.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('assets/css/affiliates/icomoon/style.css') }}">
+
+    <script src="{{ asset('assets/js/jquery/jquery-3.6.0.min.js') }}"></script>
+    <script src="{{ asset('assets/js/ux.js?202410291315') }}"></script>
+
+    <script type="application/ld+json">
+        {{ genericStructuredData|json_encode|raw }}
+    </script>
+
+    {% if postStructuredData %}
+        <script type="application/ld+json">
+            {{ postStructuredData|json_encode|raw }}
+        </script>
+    {% endif %}
+</head>
+
+<body>
+{% if app.environment == 'prod' %}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T33BXBWN"
+                      height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+{% endif %}
+<div id="navTop"></div>
+<header class="container header">
+    <div class="containerIn headerCont">
+        <div class="headerLogo">
+            <a href="{{ path('affiliates_index_en') }}" title="afiliciación BETANDEAL">
+                <img loading="lazy" src="{{ asset('assets/img/affiliates/logo-betandeal-affiliates.svg') }}" width="145" height="34" alt="afiliciación BETANDEAL">
+            </a>
+        </div>
+        <nav class="menuWeb" id="idMenu">
+            <div class="toggle linkFalsoExtra">
+                <i class="icon-menu toggleOK" onclick="idCambio('idMenu','idOK', 'idKO');"></i>
+                <i class="icon-cerrar toggleKO" onclick="idCambio('idMenu','idKO', 'idOK');"></i>
+            </div>
+            <ul class="menuWebList linkXtra">
+                <li><a href="{{ path('affiliates_index_'~ language) }}" title="{{ translations.find(null, 'home').getTranslation() }}">{{ translations.find(null, 'home').getTranslation() }}</a></li>
+                <li class="menuDown" id="idSubmenu">
+                    <span><a href="{{ path('affiliates_sobre_betandeal_'~ language) }}" title="{{ translations.find(null, 'title_empresa').getTranslation() }}">{{ translations.find(null, 'title_empresa').getTranslation() }}</a>
+                        <i class="icon-dir-down linkFalsoExtra toggleOK" onclick="idCambio('idSubmenu','idOK', 'idKO'),idCambio('idSubmenu2','idKO', 'idOK');"></i>
+                        <i class="icon-dir-up linkFalsoExtra toggleKO" onclick="idCambio('idSubmenu','idKO', 'idOK');"></i></span>
+                    </span>
+                    <ul class="menuSub">
+                        <li><a href="{{ path('affiliates_sobre_betandeal_'~ language) }}" title="{{ translations.find(null, 'footer_map_empresa_affiliates').getTranslation() }}">{{ translations.find(null, 'footer_map_empresa_affiliates').getTranslation() }}</a></li>
+                        <li><a href="{{ path('affiliates_afiliacion_betandeal_'~ language) }}" title="{{ translations.find(null, 'betandeal_affiliates').getTranslation() }}">{{ translations.find(null, 'betandeal_affiliates').getTranslation() }}</a></li>
+                    </ul>
+                </li>
+                <li class="menuDown" id="idSubmenu2">
+                    <span><a href="{{ path('affiliates_partners_'~ language) }}" title="Partners">{{ translations.find(null, 'partners').getTranslation() }}</a>
+                        <i class="icon-dir-down linkFalsoExtra toggleOK" onclick="idCambio('idSubmenu2','idOK', 'idKO'),idCambio('idSubmenu','idKO', 'idOK');"></i>
+                        <i class="icon-dir-up linkFalsoExtra toggleKO" onclick="idCambio('idSubmenu2','idKO', 'idOK');"></i></span>
+                    </span>
+                    <ul class="menuSub">
+                        <li><a href="{{ path('affiliates_partners_'~ language) }}" title="{{ translations.find(null, 'betandeal_affiliates_commisions').getTranslation() }}">{{ translations.find(null, 'betandeal_affiliates_commisions').getTranslation() }}</a></li>
+                        <li><a href="{{ path('affiliates_partners_top_'~ language) }}" title="{{ translations.find(null, 'betandeal_affiliates_bookmakers').getTranslation() }}">{{ translations.find(null, 'betandeal_affiliates_bookmakers').getTranslation() }}</a></li>
+                    </ul>
+                </li>
+                {% if showItemNews %}
+                    <li><a href="{{ path('affiliates_noticias_'~ language) }}" title="{{ translations.find(null, 'footer_map_news_affiliates').getTranslation() }}">{{ translations.find(null, 'footer_map_news_affiliates').getTranslation() }}</a></li>
+                {% endif %}
+                <li><a href="{{ path('affiliates_contacto_'~ language) }}" title="{{ translations.find(null, 'footer_map_contact_affiliates').getTranslation() }}">{{ translations.find(null, 'footer_map_contact_affiliates').getTranslation() }}</a></li>
+                <li class="menuWebXtra">
+                    <a class="btn btnLineWhite" href="{{ path('affiliates_registro_'~ language) }}" title="{{ translations.find(null, 'apostar').getTranslation() }}">{{ translations.find(null, 'apostar').getTranslation() }}</a>
+                    <a class="btn" href="{{ urlGestor }}" title="Accede">{{ translations.find(null, 'accede').getTranslation() }}</a>
+                </li>
+            </ul>
+
+            <div class="mascara" onclick="idCambio('idMenu','idKO', 'idOK');"></div>
+        </nav>
+    </div>
+</header>
+
+<main>
+    {% block content %}{% endblock %}
+</main>
+
+{% include 'footer_affiliates.html.twig' %}
+
+<a class="navTop" href="#navTop" title="Inicio"><i class="icon-dir-up"></i></a>
+<div class="zonaFlotante"><a class="btn" href="{{ path('affiliates_registro_'~ language) }}" title="titleText"><i class="icon-registro"></i> {{ translations.find(null, 'apostar').getTranslation() }}</a> <a class="btn btnLine" href="{{ urlGestor }}" title="titleText"><i class="icon-usuario"></i> {{ translations.find(null, 'accede').getTranslation() }}</a></div>
+<div class="zonaCookies" id="rgpd" style="display: none;">
+    {{ translations.find(null, 'div_cookies_description_affiliates').getTranslation() }} <a href="{{ path('affiliates_cookies_'~ language) }}">{{ translations.find(null, 'div_cookies_cookies_affiliates').getTranslation() }}</a>.<br>
+    <a href="javascript:void(0);" class="btn" onclick="PonerCookie();">{{ translations.find(null, 'div_cookies_accept_affiliates').getTranslation() }}</a>
+</div>
+
+<!-- Bloque js para incluir scripts desde plantillas secundarias -->
+{% block js %}
+{% endblock %}
+
+<script>
+    function getCookie(c_name) {
+        var c_value = document.cookie;
+        var c_start = c_value.indexOf(" " + c_name + "=");
+        if (c_start == -1) {
+            c_start = c_value.indexOf(c_name + "=");
+        }
+        if (c_start == -1) {
+            c_value = null;
+        } else {
+            c_start = c_value.indexOf("=", c_start) + 1;
+            var c_end = c_value.indexOf(";", c_start);
+            if (c_end == -1) {
+                c_end = c_value.length;
+            }
+            c_value = unescape(c_value.substring(c_start, c_end));
+        }
+        return c_value;
+    }
+
+    function setCookie(c_name, value, exdays) {
+        var exdate = new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value = escape(value) + ((exdays == null) ? "" : "; expires=" + exdate.toUTCString());
+        document.cookie = c_name + "=" + c_value;
+    }
+
+    if (getCookie('betandealAfiliados') != "1") {
+        document.getElementById("rgpd").style.display = "block";
+    }
+
+    function PonerCookie() {
+        setCookie('betandealAfiliados', '1', 365);
+        document.getElementById("rgpd").style.display = "none";
+    }
+</script>
+</body>
+</html>

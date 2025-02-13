@@ -1,0 +1,68 @@
+<footer class="container linkXtra">
+    <div class="containerIn">
+        <div class="footerItem1">
+            <a href="{{ path('affiliates_index_'~ language) }}" title="afiliciación BETANDEAL">
+                <img loading="lazy" class="logo" src="{{ asset('assets/img/affiliates/logo-betandeal-affiliates.svg') }}" width="145" height="34" alt="afiliciación BETANDEAL">
+            </a>
+            <div class="footerRSS">
+                <a href="https://es.linkedin.com/company/betandeal" title="BETANDEAL LinkedIn" target="_blank"><img src="{{ asset('assets/img/affiliates/entorno/rs-linkedin.svg') }}" width="30" height="30" alt="BETANDEAL LinkedIn"></a>
+                <a href="https://t.me/s/Betandeal" title="BETANDEAL Telegram" target="_blank"><img src="{{ asset('assets/img/affiliates/entorno/rs-telegram.svg') }}" width="30" height="30" alt="BETANDEAL Telegram"></a>
+                <a href="https://www.instagram.com/betandealgroup/?hl=es" title="BETANDEAL Instagram" target="_blank"><img src="{{ asset('assets/img/affiliates/entorno/rs-instagram.svg') }}" width="30" height="30" alt="BETANDEAL Instagram"></a>
+            </div>
+        </div>
+        <div class="footerItem2">
+            <p>{{ translations.find(null, 'footer1_affiliates').getTranslation() }}<a href="{{ path('affiliates_contacto_'~ language) }}">{{ translations.find(null, 'footer1_href_affiliates').getTranslation() }}</a>.</p>
+            {% if language is defined and language == 'en' %}
+                <p>{{ translations.find(null, 'footer_description_affiliates').getTranslation() }}</p>
+            {% else %}
+                <p>{{ translations.find(null, 'footer_description1_affiliates').getTranslation() }} <a href="{{ path('affiliates_contacto_'~ language) }}">{{ translations.find(null, 'footer1_team_affiliates').getTranslation() }}</a> {{ translations.find(null, 'footer_description2_affiliates').getTranslation() }}</p>
+            {% endif %}
+            {# <p><a class="btn btnLineWhite" href="{{ path('affiliates_contacto_'~ language) }}" title="Contacta con BETANDEAL AFFILIATES">Contacto</a></p> #}
+        </div>
+        <div class="footerItem3">
+            <p><strong>{{ translations.find(null, 'footer_map_affiliates').getTranslation() }}</strong></p>
+            <ul class="ulX2">
+                <li><a href="https://betandeal.com/" title="Web BETANDEAL">{{ translations.find(null, 'footer_map_web_affiliates').getTranslation() }}</a></li>
+                <li><a href="{{ path('affiliates_sobre_betandeal_'~ language) }}" title="Empresa">{{ translations.find(null, 'footer_map_empresa_affiliates').getTranslation() }}</a></li>
+                <li><a href="{{ path('affiliates_partners_'~ language) }}" title="Partners">{{ translations.find(null, 'footer_map_partners_affiliates').getTranslation() }}</a></li>
+                {% if showItemNews %}
+                    <li><a href="{{ path('affiliates_noticias_'~ language) }}" title="{{ translations.find(null, 'footer_map_news_affiliates').getTranslation() }}">{{ translations.find(null, 'footer_map_news_affiliates').getTranslation() }}</a></li>
+                {% endif %}
+                <li><a href="{{ path('affiliates_contacto_'~ language) }}" title="{{ translations.find(null, 'footer_map_contact_affiliates').getTranslation() }}">{{ translations.find(null, 'footer_map_contact_affiliates').getTranslation() }}</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+<div class="footerEnd">
+    <div class="containerIn">
+        <div class="idiomaWeb">
+            <div class="enlaces">
+                {# Enlace para el idioma español #}
+                <a class="idiomaItem" href="{{ path(footerRoutes.es) }}" data-lang="es" title="BETANDEAL AFFILIATES España">ES
+                    <img src="{{ asset('assets/img/affiliates/entorno/idioma-es.webp') }}" alt="ES"/>
+                </a>
+
+                {# Enlace para el idioma inglés #}
+                <a class="idiomaItem" href="{{ path(footerRoutes.en) }}" data-lang="en" title="BETANDEAL AFFILIATES USA">EN
+                    <img src="{{ asset('assets/img/affiliates/entorno/idioma-en.webp') }}" alt="EN"/>
+                </a>
+
+                {# Enlace para el idioma portugués #}
+                <a class="idiomaItem" href="{{ path(footerRoutes.pt) }}" data-lang="pt" title="BETANDEAL AFFILIATES Brasil">BR
+                    <img src="{{ asset('assets/img/affiliates/entorno/idioma-br.webp') }}" alt="BR"/>
+                </a>
+
+                {# Enlace para el idioma italiano #}
+                <a class="idiomaItem" href="{{ path(footerRoutes.it) }}" data-lang="it" title="BETANDEAL AFFILIATES Italia">IT
+                    <img src="{{ asset('assets/img/affiliates/entorno/idioma-it.webp') }}" alt="IT"/>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="containerIn footerXtra">
+    <div>
+        <a href="{{ path('affiliates_privacy_policy_'~ language) }}" title="titleText">{{ translations.find(null, 'registro_aceptar_politica2').getTranslation() }}</a> | <a href="{{ path('affiliates_terms_conditions_'~ language) }}" title="titleText">{{ translations.find(null, 'registro_aceptar_terminos2').getTranslation() }}</a> | <a href="{{ path('affiliates_cookies_'~ language) }}" title="titleText">Cookies</a>
+    </div>
+    <div>Copyright © <script>document.write(new Date().getFullYear())</script> <a class="txtLine" href="https://betandeal.com/" target="_blank" title="betandeal.com">BETANDEAL</a> Todos los derechos reservados.</div>
+</div>
