@@ -35,7 +35,7 @@ class Service
     #[ORM\Column(type: Types::DATETIME_MUTABLE, options: ["default" => "CURRENT_TIMESTAMP"])]
     private ?\DateTimeInterface $created_at = null;
 
-    #[ORM\ManyToOne(targetEntity: ServiceCategory::class)]
+    #[ORM\ManyToOne(targetEntity: ServiceCategory::class, fetch: "EAGER")]
     #[ORM\JoinColumn(name: "category_id", referencedColumnName: "category_id", nullable: false)]
     private ?ServiceCategory $category = null;
 

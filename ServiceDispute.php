@@ -14,9 +14,9 @@ class ServiceDispute
     #[ORM\Column]
     private ?int $dispute_id = null;
 
-    #[ORM\ManyToOne(targetEntity: ServiceContract::class)]
-    #[ORM\JoinColumn(name: "contract_id", referencedColumnName: "contract_id", nullable: false)]
-    private ?ServiceContract $contract = null;
+    #[ORM\ManyToOne(targetEntity: ServiceOrders::class)]
+    #[ORM\JoinColumn(name: "order_id", referencedColumnName: "order_id", nullable: false)]
+    private ?ServiceOrders $order = null;
 
     #[ORM\Column]
     private ?int $user_id = null;
@@ -44,14 +44,14 @@ class ServiceDispute
         return $this->dispute_id;
     }
 
-    public function getContract(): ?ServiceContract
+    public function getOrder(): ?ServiceOrders
     {
-        return $this->contract;
+        return $this->order;
     }
 
-    public function setContract(ServiceContract $contract): static
+    public function setOrder(ServiceOrders $order): static
     {
-        $this->contract = $contract;
+        $this->order = $order;
 
         return $this;
     }
